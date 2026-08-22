@@ -1,0 +1,155 @@
+{
+  "_readme": "Run `python jobwatch.py --check` after editing. Anything that FAILs either has the wrong slug or uses an ATS not covered here — fix it or add \"disabled\": true. See README for how to find the right endpoint.",
+
+  "filters": {
+    "location_include": [
+      "india", "bengaluru", "bangalore", "hyderabad", "gurgaon", "gurugram",
+      "noida", "delhi", "ncr", "pune", "mumbai", "chennai", "kolkata",
+      "ahmedabad", "jaipur", "coimbatore", "remote - india"
+    ],
+    "title_exclude": [
+      "senior", "sr", "staff", "principal", "lead", "manager", "director",
+      "head", "vp", "vice president", "architect", "chief", "iii", "iv",
+      "intern", "internship"
+    ],
+    "title_include": []
+  },
+
+  "sources": [
+    {
+      "company": "Amazon",
+      "type": "amazon",
+      "country": "IND",
+      "_note": "Adapter is written against amazon.jobs search.json. Should work as-is."
+    },
+
+    {
+      "company": "Stripe",
+      "type": "greenhouse",
+      "slug": "stripe",
+      "_note": "CONFIRM SLUG — Greenhouse boards live at boards.greenhouse.io/<slug>"
+    },
+    {
+      "company": "Razorpay",
+      "type": "lever",
+      "slug": "razorpay",
+      "_note": "CONFIRM SLUG — Lever boards live at jobs.lever.co/<slug>"
+    },
+    {
+      "company": "Avalara",
+      "type": "greenhouse",
+      "slug": "avalara",
+      "_note": "CONFIRM SLUG"
+    },
+    {
+      "company": "Blue Yonder",
+      "type": "smartrecruiters",
+      "slug": "BlueYonder",
+      "_note": "CONFIRM SLUG — SmartRecruiters slugs are case-sensitive"
+    },
+
+    {
+      "company": "Adobe",
+      "type": "workday",
+      "host": "adobe.wd5.myworkdayjobs.com",
+      "tenant": "adobe",
+      "site": "external_experienced",
+      "_note": "CONFIRM host/tenant/site from the careers page URL — see README"
+    },
+    {
+      "company": "Intuit",
+      "type": "workday",
+      "host": "intuit.wd1.myworkdayjobs.com",
+      "tenant": "intuit",
+      "site": "External",
+      "_note": "CONFIRM host/tenant/site"
+    },
+    {
+      "company": "Capital One",
+      "type": "workday",
+      "host": "capitalone.wd12.myworkdayjobs.com",
+      "tenant": "capitalone",
+      "site": "Capital_One",
+      "_note": "CONFIRM host/tenant/site"
+    },
+
+    {
+      "company": "Microsoft",
+      "type": "custom",
+      "disabled": true,
+      "_note": "Uses a Phenom-style API at jobs.careers.microsoft.com — needs its own adapter. Ask me to add it."
+    },
+    {
+      "company": "JPMorgan Chase",
+      "type": "custom",
+      "disabled": true,
+      "_note": "Oracle Recruiting Cloud — needs its own adapter."
+    },
+    {
+      "company": "Citi",
+      "type": "custom",
+      "disabled": true,
+      "_note": "jobs.citi.com — needs its own adapter."
+    },
+    {
+      "company": "Barclays",
+      "type": "custom",
+      "disabled": true,
+      "_note": "search.jobs.barclays — Phenom. Needs its own adapter."
+    },
+    {
+      "company": "NatWest",
+      "type": "custom",
+      "disabled": true,
+      "_note": "jobs.natwestgroup.com — needs its own adapter."
+    },
+    {
+      "company": "American Express",
+      "type": "custom",
+      "disabled": true,
+      "_note": "aexp.eightfold.ai — Eightfold. Needs its own adapter."
+    },
+    {
+      "company": "PayPal",
+      "type": "custom",
+      "disabled": true,
+      "_note": "Eightfold. Needs its own adapter."
+    },
+    {
+      "company": "Oracle",
+      "type": "custom",
+      "disabled": true,
+      "_note": "Oracle's own recruiting cloud. Needs its own adapter."
+    },
+    {
+      "company": "Flipkart",
+      "type": "custom",
+      "disabled": true,
+      "_note": "flipkartcareers.com — needs its own adapter."
+    },
+    {
+      "company": "Myntra",
+      "type": "custom",
+      "disabled": true,
+      "_note": "careers.myntra.com — needs its own adapter."
+    },
+    {
+      "company": "Swiggy",
+      "type": "custom",
+      "disabled": true,
+      "_note": "careers.swiggy.com — needs its own adapter."
+    },
+    {
+      "company": "PhonePe",
+      "type": "custom",
+      "disabled": true,
+      "_note": "phonepe.com/careers — needs its own adapter."
+    },
+    {
+      "company": "Paytm",
+      "type": "custom",
+      "disabled": true,
+      "_note": "paytm.com/careers — needs its own adapter."
+    }
+  ]
+}
