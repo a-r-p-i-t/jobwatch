@@ -139,16 +139,25 @@ def fetch_smartrecruiters(src):
 
 
 def fetch_workday(src):
-    """Workday tenants expose a JSON search under /wday/cxs/{tenant}/{site}/jobs."""
+    """Workday tenants expose a JSON search under /wday/cxs/{tenant}/{site}/jobs.
+
+    Workday does NOT reliably sort newest-first, so we must page through
+    everything rather than reading the first N and stopping — otherwise a job
+    posted today could sit at position 900 and never be seen.
+    """
     host, tenant, site = src["host"], src["tenant"], src["site"]
     endpoint = f"https://{host}/wday/cxs/{tenant}/{site}/jobs"
+    ceiling = src.get("max_jobs", 2000)
     out = []
     offset = 0
-    while offset < 200:  # cap: we only care about the newest pages
+    total = None
+    while offset < ceiling:
         body = {"appliedFacets": src.get("facets", {}),
                 "limit": 20, "offset": offset,
                 "searchText": src.get("searchText", "")}
         data = http(endpoint, method="POST", payload=body)
+        if total is None:
+            total = data.get("total")
         posts = data.get("jobPostings", [])
         for j in posts:
             path = j.get("externalPath", "")
@@ -159,7 +168,38 @@ def fetch_workday(src):
                 "url": f"https://{host}/{site}{path}",
             })
         offset += len(posts)
-        if len(posts) < 20:
+        if len(posts) < 20 or (total and offset >= total):
+            break
+    if total and len(out) < total:
+        print(f"     (truncated at {len(out)} of {total} — raise max_jobs)")
+    return out
+
+
+def fetch_phenom(src):
+    """Phenom People careers sites (careers.<company>.com) expose /api/apply/v2/jobs."""
+    host, domain = src["host"], src["domain"]
+    out = []
+    start = 0
+    while start < src.get("max_jobs", 2000):
+        url = (f"https://{host}/api/apply/v2/jobs?domain={domain}"
+               f"&start={start}&num=100&profileData=false")
+        data = http(url)
+        # Phenom returns either {"jobs":[...]} or {"refineSearch":{"data":{"jobs":[...]}}}
+        jobs = data.get("jobs")
+        if jobs is None:
+            jobs = (((data.get("refineSearch") or {}).get("data") or {})
+                    .get("jobs") or [])
+        for j in jobs:
+            where = j.get("cityStateCountry") or ", ".join(
+                x for x in [j.get("city"), j.get("state"), j.get("country")] if x)
+            out.append({
+                "uid": f"phenom:{domain}:{j.get('jobId')}",
+                "title": j.get("title", ""),
+                "location": where or "",
+                "url": j.get("applyUrl") or j.get("jobSeoUrl") or "",
+            })
+        start += len(jobs)
+        if len(jobs) < 100:
             break
     return out
 
@@ -190,6 +230,7 @@ ADAPTERS = {
     "smartrecruiters": fetch_smartrecruiters,
     "workday": fetch_workday,
     "amazon": fetch_amazon,
+    "phenom": fetch_phenom,
 }
 
 
@@ -299,7 +340,10 @@ def collect(config, verbose=False):
             results.extend(jobs)
             if verbose:
                 kept = sum(1 for j in jobs if matches(j, config["filters"]))
-                print(f"  OK   {company:<22} {len(jobs):>4} jobs, {kept:>3} match filters")
+                tag = "OK  " if jobs else "ZERO"
+                print(f"  {tag} {company:<22} {len(jobs):>4} jobs, {kept:>3} match filters")
+                if not jobs:
+                    print("       ^ responded but returned nothing — slug is probably wrong")
         except Exception as exc:  # noqa: BLE001
             errors.append((company, str(exc)[:160]))
             if verbose:

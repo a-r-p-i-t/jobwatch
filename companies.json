@@ -1,20 +1,45 @@
 {
-  "_readme": "Run `python jobwatch.py --check` after editing. Anything that FAILs either has the wrong slug or uses an ATS not covered here — fix it or add \"disabled\": true. See README for how to find the right endpoint.",
-
+  "_readme": "Run `python jobwatch.py --check` after editing. Anything that FAILs either has the wrong slug or uses an ATS not covered here \u2014 fix it or add \"disabled\": true. See README for how to find the right endpoint.",
   "filters": {
     "location_include": [
-      "india", "bengaluru", "bangalore", "hyderabad", "gurgaon", "gurugram",
-      "noida", "delhi", "ncr", "pune", "mumbai", "chennai", "kolkata",
-      "ahmedabad", "jaipur", "coimbatore", "remote - india"
+      "india",
+      "bengaluru",
+      "bangalore",
+      "hyderabad",
+      "gurgaon",
+      "gurugram",
+      "noida",
+      "delhi",
+      "ncr",
+      "pune",
+      "mumbai",
+      "chennai",
+      "kolkata",
+      "ahmedabad",
+      "jaipur",
+      "coimbatore",
+      "remote - india"
     ],
     "title_exclude": [
-      "senior", "sr", "staff", "principal", "lead", "manager", "director",
-      "head", "vp", "vice president", "architect", "chief", "iii", "iv",
-      "intern", "internship"
+      "senior",
+      "sr",
+      "staff",
+      "principal",
+      "lead",
+      "manager",
+      "director",
+      "head",
+      "vp",
+      "vice president",
+      "architect",
+      "chief",
+      "iii",
+      "iv",
+      "intern",
+      "internship"
     ],
     "title_include": []
   },
-
   "sources": [
     {
       "company": "Amazon",
@@ -22,47 +47,45 @@
       "country": "IND",
       "_note": "Adapter is written against amazon.jobs search.json. Should work as-is."
     },
-
     {
       "company": "Stripe",
       "type": "greenhouse",
       "slug": "stripe",
-      "_note": "CONFIRM SLUG — Greenhouse boards live at boards.greenhouse.io/<slug>"
+      "_note": "CONFIRM SLUG \u2014 Greenhouse boards live at boards.greenhouse.io/<slug>"
     },
     {
       "company": "Razorpay",
-      "type": "lever",
-      "slug": "razorpay",
-      "_note": "CONFIRM SLUG — Lever boards live at jobs.lever.co/<slug>"
+      "type": "greenhouse",
+      "slug": "razorpaysoftwareprivatelimited",
+      "_note": "CONFIRMED \u2014 their Greenhouse board is job-boards.greenhouse.io/razorpaysoftwareprivatelimited"
     },
     {
       "company": "Avalara",
-      "type": "greenhouse",
-      "slug": "avalara",
-      "_note": "CONFIRM SLUG"
+      "type": "phenom",
+      "host": "careers.avalara.com",
+      "domain": "avalara.com",
+      "_note": "Avalara uses Phenom, not Greenhouse. Endpoint pattern is a best guess \u2014 check will confirm."
     },
     {
       "company": "Blue Yonder",
       "type": "smartrecruiters",
       "slug": "BlueYonder",
-      "_note": "CONFIRM SLUG — SmartRecruiters slugs are case-sensitive"
+      "disabled": true,
+      "_note": "Returned 0 jobs = wrong slug. Needs looking up."
     },
-
     {
       "company": "Adobe",
       "type": "workday",
       "host": "adobe.wd5.myworkdayjobs.com",
       "tenant": "adobe",
       "site": "external_experienced",
-      "_note": "CONFIRM host/tenant/site from the careers page URL — see README"
+      "_note": "CONFIRM host/tenant/site from the careers page URL \u2014 see README"
     },
     {
       "company": "Intuit",
-      "type": "workday",
-      "host": "intuit.wd1.myworkdayjobs.com",
-      "tenant": "intuit",
-      "site": "External",
-      "_note": "CONFIRM host/tenant/site"
+      "type": "custom",
+      "disabled": true,
+      "_note": "NOT Workday. jobs.intuit.com is Radancy, which needs HTML parsing. Deferred."
     },
     {
       "company": "Capital One",
@@ -72,42 +95,41 @@
       "site": "Capital_One",
       "_note": "CONFIRM host/tenant/site"
     },
-
     {
       "company": "Microsoft",
       "type": "custom",
       "disabled": true,
-      "_note": "Uses a Phenom-style API at jobs.careers.microsoft.com — needs its own adapter. Ask me to add it."
+      "_note": "Uses a Phenom-style API at jobs.careers.microsoft.com \u2014 needs its own adapter. Ask me to add it."
     },
     {
       "company": "JPMorgan Chase",
       "type": "custom",
       "disabled": true,
-      "_note": "Oracle Recruiting Cloud — needs its own adapter."
+      "_note": "Oracle Recruiting Cloud \u2014 needs its own adapter."
     },
     {
       "company": "Citi",
       "type": "custom",
       "disabled": true,
-      "_note": "jobs.citi.com — needs its own adapter."
+      "_note": "jobs.citi.com \u2014 needs its own adapter."
     },
     {
       "company": "Barclays",
       "type": "custom",
       "disabled": true,
-      "_note": "search.jobs.barclays — Phenom. Needs its own adapter."
+      "_note": "search.jobs.barclays \u2014 Phenom. Needs its own adapter."
     },
     {
       "company": "NatWest",
       "type": "custom",
       "disabled": true,
-      "_note": "jobs.natwestgroup.com — needs its own adapter."
+      "_note": "jobs.natwestgroup.com \u2014 needs its own adapter."
     },
     {
       "company": "American Express",
       "type": "custom",
       "disabled": true,
-      "_note": "aexp.eightfold.ai — Eightfold. Needs its own adapter."
+      "_note": "aexp.eightfold.ai \u2014 Eightfold. Needs its own adapter."
     },
     {
       "company": "PayPal",
@@ -125,31 +147,31 @@
       "company": "Flipkart",
       "type": "custom",
       "disabled": true,
-      "_note": "flipkartcareers.com — needs its own adapter."
+      "_note": "flipkartcareers.com \u2014 needs its own adapter."
     },
     {
       "company": "Myntra",
       "type": "custom",
       "disabled": true,
-      "_note": "careers.myntra.com — needs its own adapter."
+      "_note": "careers.myntra.com \u2014 needs its own adapter."
     },
     {
       "company": "Swiggy",
       "type": "custom",
       "disabled": true,
-      "_note": "careers.swiggy.com — needs its own adapter."
+      "_note": "careers.swiggy.com \u2014 needs its own adapter."
     },
     {
       "company": "PhonePe",
       "type": "custom",
       "disabled": true,
-      "_note": "phonepe.com/careers — needs its own adapter."
+      "_note": "phonepe.com/careers \u2014 needs its own adapter."
     },
     {
       "company": "Paytm",
       "type": "custom",
       "disabled": true,
-      "_note": "paytm.com/careers — needs its own adapter."
+      "_note": "paytm.com/careers \u2014 needs its own adapter."
     }
   ]
 }
