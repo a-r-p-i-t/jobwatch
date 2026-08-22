@@ -1,0 +1,56 @@
+name: jobwatch
+
+on:
+  schedule:
+    # Every 10 minutes. GitHub's scheduler runs late under load — expect the
+    # real interval to drift to 10-20 min. That is still far ahead of LinkedIn.
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "normal | seed | check | dry-run"
+        required: false
+        default: "normal"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: jobwatch
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run jobwatch
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          case "${{ github.event.inputs.mode }}" in
+            seed)    python jobwatch.py --seed ;;
+            check)   python jobwatch.py --check ;;
+            dry-run) python jobwatch.py --dry-run ;;
+            *)       python jobwatch.py ;;
+          esac
+
+      - name: Commit state
+        run: |
+          if [[ -n "$(git status --porcelain seen.json)" ]]; then
+            git config user.name  "jobwatch-bot"
+            git config user.email "jobwatch-bot@users.noreply.github.com"
+            git add seen.json
+            git commit -m "state: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          else
+            echo "no state change"
+          fi
