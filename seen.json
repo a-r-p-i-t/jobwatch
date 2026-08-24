@@ -142,6 +142,7 @@
   "amazon:10512590": "2026-08-24T17:44:13.893394+00:00",
   "amazon:10512593": "2026-08-24T17:44:13.893394+00:00",
   "amazon:10512619": "2026-08-24T18:16:09.872907+00:00",
+  "amazon:10512794": "2026-08-24T20:02:01.865209+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -762,6 +763,7 @@
   "greenhouse:stripe:8148731": "2026-08-24T05:11:28.903629+00:00",
   "greenhouse:stripe:8152145": "2026-08-23T19:52:29.511828+00:00",
   "greenhouse:stripe:8152994": "2026-08-24T13:36:19.669644+00:00",
+  "greenhouse:stripe:8155002": "2026-08-24T20:02:01.865209+00:00",
   "workday:adobe:": "2026-08-23T20:43:28.314820+00:00",
   "workday:adobe:/job/Bangalore/AEM-Technical-Architect_R167994": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/AI-Studio---Content-Operations-Lead--GenStudio---Firefly-_R169730-1": "2026-08-22T23:01:44.903747+00:00",
@@ -1757,6 +1759,7 @@
   "workday:capitalone:/job/McLean-VA/Associate---Product-Operations--Flights-Inventory_R245418": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Associate---Product-Operations--Flights-Inventory_R245419-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Associate--AML-Sr-Investigator-I---Enhanced-Due-Diligence_R248547-2": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Associate--Concierge-Marketing-Design_R249901-1": "2026-08-24T20:02:01.865209+00:00",
   "workday:capitalone:/job/McLean-VA/Associate--Support-Operations_R249865": "2026-08-24T13:36:19.669644+00:00",
   "workday:capitalone:/job/McLean-VA/Associate-Activation-and-Awareness-Sr-Manager---Community-Impact---Investment_R247659-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Associate-Recruiter---Students-and-Grads---Up-to-25--Travel-Required_R247643-1": "2026-08-22T23:01:44.903747+00:00",
@@ -2277,6 +2280,7 @@
   "workday:capitalone:/job/McLean-VA/Senior-Analyst--Payments-Operations--Hybrid-_R245038-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Associate---Audit-Operations-and-Reporting_R248690-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Associate---Cyber-Risk---Analysis--Technology-Audit_R247553-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Senior-Associate---Direct-Marketing--Partnerships--Hybrid_R249841-1": "2026-08-24T20:02:01.865209+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Associate---Learning-Experience-Designer_R247937-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Associate---Trade-Analytics---Valuation_R248635-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Associate--Bilingual--Spanish--Process-Manager-Linguist_R244640-2": "2026-08-22T23:01:44.903747+00:00",
@@ -3428,5 +3432,5 @@
   "workday:capitalone:/job/Wilmington-DE/Lead-Data-Engineer_R247074-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00"
  },
- "updated": "2026-08-24T19:39:38.224291+00:00"
+ "updated": "2026-08-24T20:03:23.113535+00:00"
 }
