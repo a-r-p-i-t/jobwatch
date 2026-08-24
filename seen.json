@@ -130,6 +130,8 @@
   "amazon:10511846": "2026-08-24T11:22:23.457461+00:00",
   "amazon:10511851": "2026-08-24T11:22:23.457461+00:00",
   "amazon:10511856": "2026-08-24T11:22:23.457461+00:00",
+  "amazon:10511859": "2026-08-24T11:53:18.851513+00:00",
+  "amazon:10511864": "2026-08-24T11:53:18.851513+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -1034,6 +1036,7 @@
   "workday:adobe:/job/Remote-Illinois/Enterprise-Sales-Account-Manager_R167059": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Remote-Illinois/Sr-Sales-Manager--Corporate-Accounts_R170883": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Remote-India/Customer-Success-Account-Manager_R144410": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/Remote-India/Process-Lead-ICX_R168871-1": "2026-08-24T11:53:18.851513+00:00",
   "workday:adobe:/job/Remote-India/Solutions-Consultant_R169899": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Remote-Massachusetts/Software-Development-Engineer--Influencer-Management_R166981": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Remote-Massachusetts/Sr-Manager--Partner-Sales---PWC_R171277-1": "2026-08-22T23:01:44.903747+00:00",
@@ -3368,5 +3371,5 @@
   "workday:capitalone:/job/Wilmington-DE/Lead-Data-Engineer_R247074-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00"
  },
- "updated": "2026-08-24T11:22:25.264633+00:00"
+ "updated": "2026-08-24T11:53:20.479961+00:00"
 }
