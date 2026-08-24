@@ -763,6 +763,7 @@
   "greenhouse:stripe:8148731": "2026-08-24T05:11:28.903629+00:00",
   "greenhouse:stripe:8152145": "2026-08-23T19:52:29.511828+00:00",
   "greenhouse:stripe:8152994": "2026-08-24T13:36:19.669644+00:00",
+  "greenhouse:stripe:8154525": "2026-08-24T22:40:26.068432+00:00",
   "greenhouse:stripe:8155002": "2026-08-24T20:02:01.865209+00:00",
   "workday:adobe:": "2026-08-23T20:43:28.314820+00:00",
   "workday:adobe:/job/Bangalore/AEM-Technical-Architect_R167994": "2026-08-22T23:01:44.903747+00:00",
@@ -1708,6 +1709,7 @@
   "workday:capitalone:/job/Huntington-Station-NY/Full-time-Branch-Ambassador---Western-Suffolk-Area_R244305-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Irvine-CA/Caf-Ambassador--Irvine-Spectrum_R248848-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Irving-TX/Full-Time-Branch-Ambassador---O-Connor_R248037-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/Irving-TX/Part-Time-Branch-Ambassador---O-Connor-Rd--4975-N-O-Connor-Rd-_R999054-1": "2026-08-24T22:40:26.068432+00:00",
   "workday:capitalone:/job/Jericho-NY/Assistant-Relationship-Manager_R248700-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/KnoxvilleTN/Caf-Ambassador---West-Town-Mall_R236440-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/KnoxvilleTN/Part---Time-Caf-Ambassador---West-Town-Mall_R248096-1": "2026-08-22T23:01:44.903747+00:00",
@@ -3027,6 +3029,7 @@
   "workday:capitalone:/job/Queens-Village-NY/Part-Time-Branch-Ambassador---Queens-Village_R246151-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Recruiting-Canoga-Park-CA/Caf-Ambassador--Westfield-Topanga_R249554-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Recruiting-Coppell-TX/Full-Time-Branch-Ambassador---Coppell_R249810-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/Recruiting-Coppell-TX/Part-Time-Branch-Ambassador---Coppell--105-S-Denton-Tap-Rd-_R999052-1": "2026-08-24T22:40:26.068432+00:00",
   "workday:capitalone:/job/Recruiting-Des-Peres-MO/Caf-Ambassador--West-County-Center_R243477-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Recruiting-Detroit-MI/Caf-Ambassador--Downtown-Detroit_R249594-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Recruiting-Salt-Lake-City-UT/Essential-Onsite---Production-Operator-Coordinator_R244952-1": "2026-08-22T23:01:44.903747+00:00",
@@ -3439,5 +3442,5 @@
   "workday:capitalone:/job/Wilmington-DE/Lead-Data-Engineer_R247074-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00"
  },
- "updated": "2026-08-24T22:04:49.233192+00:00"
+ "updated": "2026-08-24T22:40:26.070239+00:00"
 }
