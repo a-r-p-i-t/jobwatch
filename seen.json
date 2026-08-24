@@ -749,6 +749,7 @@
   "greenhouse:stripe:8142649": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8142764": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8143563": "2026-08-22T23:01:44.903747+00:00",
+  "greenhouse:stripe:8144185": "2026-08-24T19:39:38.222491+00:00",
   "greenhouse:stripe:8144202": "2026-08-24T15:54:44.503297+00:00",
   "greenhouse:stripe:8144212": "2026-08-23T19:52:29.511828+00:00",
   "greenhouse:stripe:8144223": "2026-08-22T23:01:44.903747+00:00",
@@ -2178,6 +2179,7 @@
   "workday:capitalone:/job/McLean-VA/Principal-Analyst--Capital-Markets---Risks_R248773-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Principal-Analyst--Payment-Operations--Hybrid-_R245046-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Principal-Analyst--Revenue-and-Commission-Operations--Hybrid-_R248758-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Principal-Associate---Product-Onboarding-Program_R249951-1": "2026-08-24T19:39:38.222491+00:00",
   "workday:capitalone:/job/McLean-VA/Principal-Associate---Quantitative-Analyst_R231624": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Principal-Associate--Assessments---Team-Effectiveness--Enterprise-Learning_R249192-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Principal-Associate--Audit-Practices---Quality-Assurance--Hybrid-_R245568-1": "2026-08-22T23:01:44.903747+00:00",
@@ -2539,6 +2541,7 @@
   "workday:capitalone:/job/McLean-VA/Sr-Business-Analyst--Premium-Products_R242950-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Business-Analyst_R244688-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Business-Director--Credit-Infrastructure_R248420-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Sr-Business-Director--Credit-Settlement-Risk--Global-Payment-Network-_R999012": "2026-08-24T19:39:38.222491+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Business-Director--Customer-Data-Strategy_R249195-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Business-Manager---EP-Strategy---Analytics_R248926-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Business-Manager---Operational-Risk-Analytics-and-Strategy_R244162-1": "2026-08-22T23:01:44.903747+00:00",
@@ -2606,6 +2609,7 @@
   "workday:capitalone:/job/Mexico-City-Mexico/Distinguished-Engineer_R232082": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Mexico-City-Mexico/Lead-Site-Reliability-Engineer_R245554": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Mexico-City-Mexico/Lead-Software-Engineer---Full-Stack-Engineer_R242848": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/Mexico-City-Mexico/Lead-Software-Engineer---Full-Stack_R223437": "2026-08-24T19:39:38.222491+00:00",
   "workday:capitalone:/job/Mexico-City-Mexico/Principal-Associate--Art-Director_R247150": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Mexico-City-Mexico/Principal-Associate-SRE_R245530": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Mexico-City-Mexico/Senior-Associate--HR-Delivery_R244836": "2026-08-22T23:01:44.903747+00:00",
@@ -3424,5 +3428,5 @@
   "workday:capitalone:/job/Wilmington-DE/Lead-Data-Engineer_R247074-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00"
  },
- "updated": "2026-08-24T19:03:50.637640+00:00"
+ "updated": "2026-08-24T19:39:38.224291+00:00"
 }
