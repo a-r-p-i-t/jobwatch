@@ -138,6 +138,7 @@
   "amazon:10511965": "2026-08-24T14:23:29.389376+00:00",
   "amazon:10511968": "2026-08-24T14:23:29.389376+00:00",
   "amazon:10512009": "2026-08-24T15:10:26.122796+00:00",
+  "amazon:10512283": "2026-08-24T17:08:30.217491+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -2198,6 +2199,7 @@
   "workday:capitalone:/job/McLean-VA/Principal-Associate--Project-Management-Enterprise-Data_R246046-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Principal-Associate--Project-Manager---Product-Operations--Governance---People-Excellence_R244661-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Principal-Associate--Quantitative-Analysis_R248025-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Principal-Associate--Recruiter_R249885": "2026-08-24T17:08:30.217491+00:00",
   "workday:capitalone:/job/McLean-VA/Principal-Associate--Retail-Bank-Campaign-Project-Manager_R249857-1": "2026-08-24T16:31:12.496859+00:00",
   "workday:capitalone:/job/McLean-VA/Principal-Associate--Salesforce-Marketing-Cloud--SFMC--Campaign-Specialist_R248763": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Principal-Associate--Supplier-Management_R248266-1": "2026-08-22T23:01:44.903747+00:00",
@@ -2801,6 +2803,7 @@
   "workday:capitalone:/job/New-York-NY/Senior-Manager--Product-Management--Card-Core-Data-Consumption_R248969-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/New-York-NY/Senior-Manager--Product-Management--Card-Data_R248844-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/New-York-NY/Senior-Manager--Product-Management--Engineering-Transformation---AI_R249330-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/New-York-NY/Senior-Manager--Product-Management--Payments-Team_R249963-1": "2026-08-24T17:08:30.217491+00:00",
   "workday:capitalone:/job/New-York-NY/Senior-Manager--Product-Manager---AI-Acceleration_R249259-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/New-York-NY/Senior-Manager--Product-Manager---Retail-Bank_R246508-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/New-York-NY/Senior-Manager--Product-Manager--Multi-User-Experiences_R248375-1": "2026-08-22T23:01:44.903747+00:00",
@@ -2869,6 +2872,7 @@
   "workday:capitalone:/job/Philadelphia-PA/Caf-Coach--Rittenhouse_R243694-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Philadelphia-PA/Senior-Business-Banker---Philadelphia-Market_R237211": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Phoenix-AZ/Relationship-Manager_R247985-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/Phoenix-AZ/Senior-Business-Banker---Phoenix_R249946-1": "2026-08-24T17:08:30.217491+00:00",
   "workday:capitalone:/job/Pittsburgh-PA/Caf-Ambassador--Ross-Park-Mall_R247945-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Plainview-NY/Market-Manager---Nassau-Market_R247366-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Plainview-NY/Part-Time-Branch-Ambassador---East-Nassau-Area_R244587-1": "2026-08-22T23:01:44.903747+00:00",
@@ -3214,6 +3218,7 @@
   "workday:capitalone:/job/Riverwoods-IL/Business-Director-Chief-of-Staff--Payment-Network--US-and-Canadian-Markets-_R248711-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Riverwoods-IL/Business-Manager---Global-Payment-Network_R238936-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Riverwoods-IL/Business-Manager-Personal-Loans-Collections-Strategy_R247027-2": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/Riverwoods-IL/Data-Analytics-Manager---Global-Network-Analytics---Payments_R249112-1": "2026-08-24T17:08:30.217491+00:00",
   "workday:capitalone:/job/Riverwoods-IL/Data-Analytics-Manager---Global-Network-Analytics_R247794-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Riverwoods-IL/Director--Assistant-General-Counsel---US-Commercial-Contract---Product--Discover-Network-_R244028-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Riverwoods-IL/Director--Content-Marketing--Global-Payment-Network_R247555": "2026-08-22T23:01:44.903747+00:00",
@@ -3403,5 +3408,5 @@
   "workday:capitalone:/job/Wilmington-DE/Lead-Data-Engineer_R247074-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00"
  },
- "updated": "2026-08-24T16:31:12.498648+00:00"
+ "updated": "2026-08-24T17:08:31.690339+00:00"
 }
