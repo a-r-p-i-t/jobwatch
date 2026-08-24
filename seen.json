@@ -125,6 +125,7 @@
   "amazon:10511734": "2026-08-24T06:50:59.201429+00:00",
   "amazon:10511735": "2026-08-24T06:50:59.201429+00:00",
   "amazon:10511757": "2026-08-24T06:50:59.201429+00:00",
+  "amazon:10511773": "2026-08-24T08:30:44.362683+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -150,6 +151,7 @@
   "greenhouse:razorpaysoftwareprivatelimited:4724183005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4725604005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4725938005": "2026-08-22T23:01:44.903747+00:00",
+  "greenhouse:razorpaysoftwareprivatelimited:4726829005": "2026-08-24T08:30:44.362683+00:00",
   "greenhouse:stripe:4921361": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:5416444": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:5423044": "2026-08-22T23:01:44.903747+00:00",
@@ -160,6 +162,7 @@
   "greenhouse:stripe:6470774": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:6567104": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:6570253": "2026-08-22T23:01:44.903747+00:00",
+  "greenhouse:stripe:6570259": "2026-08-24T08:30:44.362683+00:00",
   "greenhouse:stripe:6606581": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:6686634": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:6692166": "2026-08-22T23:01:44.903747+00:00",
@@ -3355,5 +3358,5 @@
   "workday:capitalone:/job/Wilmington-DE/Lead-Data-Engineer_R247074-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00"
  },
- "updated": "2026-08-24T07:46:33.896888+00:00"
+ "updated": "2026-08-24T08:30:44.364586+00:00"
 }
