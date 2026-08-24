@@ -137,6 +137,7 @@
   "amazon:10511964": "2026-08-24T14:23:29.389376+00:00",
   "amazon:10511965": "2026-08-24T14:23:29.389376+00:00",
   "amazon:10511968": "2026-08-24T14:23:29.389376+00:00",
+  "amazon:10512009": "2026-08-24T15:10:26.122796+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -1860,6 +1861,7 @@
   "workday:capitalone:/job/McLean-VA/Distinguished-Engineer_R241036-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Distinguished-Engineer_R242320-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Distinguished-Engineer_R243715-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Distinguished-Engineer_R248737-1": "2026-08-24T15:10:26.122796+00:00",
   "workday:capitalone:/job/McLean-VA/Distinguished-Engineer_R248983-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Distinguished-Software-Engineer_R245439-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Enterprise-Claims-Library-Admin--Project-Management_R247993-1": "2026-08-22T23:01:44.903747+00:00",
@@ -2321,6 +2323,7 @@
   "workday:capitalone:/job/McLean-VA/Senior-Business-Analyst---Credit-Reporting---Performance_R248806-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Business-Analyst---Insights---Analytics--ERM-_R248206-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Business-Analyst---Strategy---Transformation--Model-Risk-_R247112-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Senior-Business-Analyst---Third-Party-Risk-Management--TPRM-_R249927-1": "2026-08-24T15:10:26.122796+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Business-Analyst--Liquidity--Market--and-Capital-Risk-Oversight_R243495-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Business-Analyst--Product-Strategy_R249315-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Business-Analyst--Product-Strategy_R249318-2": "2026-08-22T23:01:44.903747+00:00",
@@ -2530,6 +2533,7 @@
   "workday:capitalone:/job/McLean-VA/Sr-Director--Head-of-Servicing-Strategy---Operations--Capital-One-Travel_R245224-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Director--Product-Management---Capital-Markets---Analytics_R247078-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Director--Product-Management---Developer-Experience-Governance---Risk-Management_R248764-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Sr-Director--Product-Management---Enterprise-AI-ML_R249914-1": "2026-08-24T15:10:26.122796+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Director--Product-Management--Finance-Product-_R247046-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Director--Software-Engineering---Finance-Tech_R247784-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Director--Software-Engineering---Shopping_R249664": "2026-08-22T23:01:44.903747+00:00",
@@ -2683,6 +2687,7 @@
   "workday:capitalone:/job/New-York-NY/Lead-Software-Engineer--Full-Stack_R249342-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/New-York-NY/Lead-Software-Engineer--Full-Stack_R249388-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/New-York-NY/Lead-Software-Engineer--Full-Stack_R249775-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/New-York-NY/Lead-Software-Engineer--Mobile_R249641-1": "2026-08-24T15:10:26.122796+00:00",
   "workday:capitalone:/job/New-York-NY/Lead-Software-Engineer_R247441-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/New-York-NY/Lead-Software-Engineer_R249350": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/New-York-NY/Manager--Data-Product-Manager---Travel-Core-Services_R248239-1": "2026-08-22T23:01:44.903747+00:00",
@@ -2943,6 +2948,7 @@
   "workday:capitalone:/job/Plano-TX/Principal-Data-Analyst_R245609-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Plano-TX/Product-Management-Manager--Auto-_R248999-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Plano-TX/Product-Management-Senior-Manager--Auto-_R249021-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/Plano-TX/Relationship-Manager_R248291-1": "2026-08-24T15:10:26.122796+00:00",
   "workday:capitalone:/job/Plano-TX/Sales-Development-Representative--SDR----Senior-Associate--Business-Cards---Payments_R245641-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Plano-TX/Senior-Administrative-Assistant--Administrative-Support-Assistant-III----FS-Garage_R244773-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Plano-TX/Senior-Administrative-Assistant--Administrative-Support-Assistant-III----Financial-Services_R246757-1": "2026-08-22T23:01:44.903747+00:00",
@@ -3388,5 +3394,5 @@
   "workday:capitalone:/job/Wilmington-DE/Lead-Data-Engineer_R247074-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00"
  },
- "updated": "2026-08-24T14:23:29.391044+00:00"
+ "updated": "2026-08-24T15:10:27.660902+00:00"
 }
