@@ -139,6 +139,8 @@
   "amazon:10511968": "2026-08-24T14:23:29.389376+00:00",
   "amazon:10512009": "2026-08-24T15:10:26.122796+00:00",
   "amazon:10512283": "2026-08-24T17:08:30.217491+00:00",
+  "amazon:10512590": "2026-08-24T17:44:13.893394+00:00",
+  "amazon:10512593": "2026-08-24T17:44:13.893394+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -1399,6 +1401,7 @@
   "workday:adobe:/job/San-Jose/Software-Development-Engineer_R170794": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Software-Development-Engineer_R170818": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Software-Development-Engineer_R171178": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/San-Jose/Software-Development-Engineer_R171324-1": "2026-08-24T17:44:13.893394+00:00",
   "workday:adobe:/job/San-Jose/Software-Engineer---Adobe-Experience-Platform_R160198-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Software-Engineer---Model---Partnerships-Management--Agentic-Builders-Experience-team-_R170139": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Software-Engineer--Android_R165091": "2026-08-22T23:01:44.903747+00:00",
@@ -1468,6 +1471,7 @@
   "workday:adobe:/job/Seattle/Research-Scientist-Engineer_R170713": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Seattle/Research-Scientist_R170595": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Seattle/Security-Engineer_R167562": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/Seattle/Senior-AI-ML-Platform-Engineer_R171372": "2026-08-24T17:44:13.893394+00:00",
   "workday:adobe:/job/Seattle/Senior-Engineering-Manager--Software-Development_R170417": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Seattle/Senior-Software-Development-Engineer_R167970-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Seattle/Software-Development-Engineer--3D-Graphics_R169893-1": "2026-08-22T23:01:44.903747+00:00",
@@ -2882,6 +2886,7 @@
   "workday:capitalone:/job/Plano-TX/Compliance-Tester-III_R248657-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Plano-TX/Dealer-Success-Manager_R249504-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Plano-TX/Director--FP-A--Capital-One-Auto_R247019-2": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/Plano-TX/Director--Product-Management_R247519": "2026-08-24T17:44:13.893394+00:00",
   "workday:capitalone:/job/Plano-TX/Distinguished-Engineer_R234971": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Plano-TX/Distinguished-Engineer_R239652": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Plano-TX/Distinguished-Machine-Learning-Engineer_R246766-2": "2026-08-22T23:01:44.903747+00:00",
@@ -3322,6 +3327,7 @@
   "workday:capitalone:/job/St-Louis-MO/Director--Regional-Sales-Manager_R243164-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Takoma-Park-MD/Full-Time-Branch-Ambassador---Eastern-Maryland--Northwest-Cluster-_R246196-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Takoma-Park-MD/Part-Time-Branch-Ambassador---Hamphsire-Langley_R244707": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/Tampa-FL/Dealer-Success-Manager_R249691-1": "2026-08-24T17:44:13.893394+00:00",
   "workday:capitalone:/job/Texarkana-TX/Part-Time-Branch-Ambassador---Texarkana_R244562-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Toledo-OH/Area-Sales-Manager---Toledo--OH_R247772-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Toronto-ON/Administrative-Assistant-III_R219455": "2026-08-22T23:01:44.903747+00:00",
@@ -3399,6 +3405,7 @@
   "workday:capitalone:/job/Walnut-Creek-CA/Caf-Ambassador--Walnut-Creek--Part-Time-_R249096-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Washington-DC/Caf-Ambassador---Anacostia_R242494-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Washington-DC/Full-Time-Branch-Ambassador---DC-Cluster_R248925-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/West-Palm-Beach-FL/Dealer-Success-Manager---Palm-Beach--Boca-Raton-and-Pompano-Beach--FL_R249693-1": "2026-08-24T17:44:13.893394+00:00",
   "workday:capitalone:/job/White-Plains-NY/Part-Time-Branch-Ambassador-Bronx-Area_R244197-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Whitestone-NY/Market-Manager---Queens_R249825-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Accounting-Manager--Close---Consolidations_R234768-1": "2026-08-22T23:01:44.903747+00:00",
@@ -3408,5 +3415,5 @@
   "workday:capitalone:/job/Wilmington-DE/Lead-Data-Engineer_R247074-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00"
  },
- "updated": "2026-08-24T17:08:31.690339+00:00"
+ "updated": "2026-08-24T17:44:15.627044+00:00"
 }
