@@ -170,6 +170,9 @@
   "amazon:10513548": "2026-08-25T13:16:07.874399+00:00",
   "amazon:10513733": "2026-08-25T15:01:06.840732+00:00",
   "amazon:10513736": "2026-08-25T15:01:06.840732+00:00",
+  "amazon:10513793": "2026-08-25T15:52:46.115554+00:00",
+  "amazon:10513795": "2026-08-25T15:52:46.115554+00:00",
+  "amazon:10513824": "2026-08-25T15:52:46.115554+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -1246,6 +1249,7 @@
   "workday:adobe:/job/San-Jose/Dir--Product-Management-Business-Applications_R166319": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Director---Product-Strategy---Operations_R168925": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Director--C-P-Customer-Growth-Initiatives_R171210-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/San-Jose/Director--C-P-Partner-Systems--Tools---Process_R170876": "2026-08-25T15:52:46.115554+00:00",
   "workday:adobe:/job/San-Jose/Director--GTM-Partnerships_R168453": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Director--HR-Business-Partner--Finance_R168369-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Director--HR-Business-Partner_R171135": "2026-08-22T23:01:44.903747+00:00",
@@ -2628,6 +2632,7 @@
   "workday:capitalone:/job/McLean-VA/Sr-Business-Manager---EP-Strategy---Analytics_R248926-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Business-Manager---Operational-Risk-Analytics-and-Strategy_R244162-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Business-Manager---UMCLIP-Valuations_R243261-2": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Sr-Business-Manager--People-Analytics_R999100-1": "2026-08-25T15:52:46.115554+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Business-Manager_R245135-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Data-Analyst---Enterprise-Risk_R245270": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Data-Analyst---Retail-Bank_R247428-1": "2026-08-22T23:01:44.903747+00:00",
@@ -3223,6 +3228,7 @@
   "workday:capitalone:/job/Richmond-VA/Principal-Associate--Project-Management---DaaS-Acquisitions-Delivery-Team--Hybrid-_R242537-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Richmond-VA/Principal-Associate--Tech-Learning-Project-Manager_R247962-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Richmond-VA/Principal-Associate-Compliance-Advisor---Third-Party-Compliance_R248702-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/Richmond-VA/Principal-Associate-Phone-Business-Servicing-Operations_R248947-2": "2026-08-25T15:52:46.115554+00:00",
   "workday:capitalone:/job/Richmond-VA/Principal-Auditor--Experienced-Senior-Auditor---Consumer-Lending--Hybrid-_R247287-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Richmond-VA/Principal-Data-Analyst---Business-Cards---Payments---Field-Strategy_R245111-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Richmond-VA/Principal-Data-Analyst---Global-Payment-Network_R246113-1": "2026-08-22T23:01:44.903747+00:00",
@@ -3518,5 +3524,5 @@
   "workday:capitalone:/job/Wilmington-DE/Lead-Data-Engineer_R247074-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00"
  },
- "updated": "2026-08-25T15:01:08.435240+00:00"
+ "updated": "2026-08-25T15:52:47.802820+00:00"
 }
