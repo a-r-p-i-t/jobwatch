@@ -761,6 +761,7 @@
   "greenhouse:stripe:8146053": "2026-08-24T02:23:28.957885+00:00",
   "greenhouse:stripe:8146159": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8146271": "2026-08-22T23:01:44.903747+00:00",
+  "greenhouse:stripe:8148653": "2026-08-25T02:00:06.262195+00:00",
   "greenhouse:stripe:8148731": "2026-08-24T05:11:28.903629+00:00",
   "greenhouse:stripe:8152145": "2026-08-23T19:52:29.511828+00:00",
   "greenhouse:stripe:8152994": "2026-08-24T13:36:19.669644+00:00",
@@ -1071,6 +1072,7 @@
   "workday:adobe:/job/Remote-Utah/Applied-AI-Architect_R168489": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Remote-Washington/Senior-Enterprise-Architect_R169410-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Remote-Washington/Senior-Enterprise-Architect_R169774": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/Remote-Washington/Senior-Enterprise-Architect_R170831": "2026-08-25T02:00:06.262195+00:00",
   "workday:adobe:/job/Remote-Washington/Senior-Enterprise-Archtiect_R170837-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Riyadh/Product-Sales-Specialist---Middle-East_R171174-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Riyadh/Senior---Renewal-Sales-Specialist---Middle-East_R171204": "2026-08-22T23:01:44.903747+00:00",
@@ -1407,6 +1409,7 @@
   "workday:adobe:/job/San-Jose/Software-Development-Engineer_R168026": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Software-Development-Engineer_R168040-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Software-Development-Engineer_R170086": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/San-Jose/Software-Development-Engineer_R170525": "2026-08-25T02:00:06.262195+00:00",
   "workday:adobe:/job/San-Jose/Software-Development-Engineer_R170631": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Software-Development-Engineer_R170794": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Software-Development-Engineer_R170818": "2026-08-22T23:01:44.903747+00:00",
@@ -2379,6 +2382,7 @@
   "workday:capitalone:/job/McLean-VA/Senior-Director---Content-Design---Consumer-and-Developer-Experience_R246703-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Director--Chief-of-Staff--Integrated-Work-Force-Transformation_R249562-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Director--Enterprise-Risk-Management_R249351-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Senior-Director--Process-Management--Workforce-Operations---Enablement--Hybrid-_R244838-2": "2026-08-25T02:00:06.262195+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Director--Product-Design--Small-Business-Bank_R243362": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Director--Product-Management--Consumer-Developer-Experience_R247434-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Director--Product-Management-GRCx_R248766-1": "2026-08-22T23:01:44.903747+00:00",
@@ -3107,6 +3111,7 @@
   "workday:capitalone:/job/Richmond-VA/Lead-Software-Engineer_R246825-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Richmond-VA/MASE-Compliance---Compliance-Advisor-Principal-Associate_R249104-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Richmond-VA/Manager---Cyber-Risk---Analysis_R241290-2": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/Richmond-VA/Manager---Knowledge-Management--Learning---Knowledge--Hybrid-_R242003-1": "2026-08-25T02:00:06.262195+00:00",
   "workday:capitalone:/job/Richmond-VA/Manager--Accounting---Controllers-Group_R248187-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Richmond-VA/Manager--Accounting--Retail-Bank-Agile-Controllers_R243964-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Richmond-VA/Manager--Business-Continuity-and-Resilience-Risk-Management--System-and-Data-Lead-_R248451-2": "2026-08-22T23:01:44.903747+00:00",
@@ -3445,5 +3450,5 @@
   "workday:capitalone:/job/Wilmington-DE/Lead-Data-Engineer_R247074-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00"
  },
- "updated": "2026-08-25T00:25:13.182601+00:00"
+ "updated": "2026-08-25T02:00:06.264079+00:00"
 }
