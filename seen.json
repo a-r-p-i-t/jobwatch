@@ -148,6 +148,9 @@
   "amazon:10513239": "2026-08-25T06:18:33.082389+00:00",
   "amazon:10513241": "2026-08-25T06:18:33.082389+00:00",
   "amazon:10513256": "2026-08-25T07:13:18.971300+00:00",
+  "amazon:10513263": "2026-08-25T08:02:03.438704+00:00",
+  "amazon:10513270": "2026-08-25T08:02:03.438704+00:00",
+  "amazon:10513271": "2026-08-25T08:02:03.438704+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -774,6 +777,8 @@
   "greenhouse:stripe:8148731": "2026-08-24T05:11:28.903629+00:00",
   "greenhouse:stripe:8152145": "2026-08-23T19:52:29.511828+00:00",
   "greenhouse:stripe:8152994": "2026-08-24T13:36:19.669644+00:00",
+  "greenhouse:stripe:8153331": "2026-08-25T08:02:03.438704+00:00",
+  "greenhouse:stripe:8154302": "2026-08-25T08:02:03.438704+00:00",
   "greenhouse:stripe:8154525": "2026-08-24T22:40:26.068432+00:00",
   "greenhouse:stripe:8155002": "2026-08-24T20:02:01.865209+00:00",
   "workday:adobe:": "2026-08-23T20:43:28.314820+00:00",
@@ -1599,6 +1604,7 @@
   "workday:capitalone:/job/Bangalore-In/Principal-Associate---Data-Engineer_R249175": "2026-08-24T12:38:57.359972+00:00",
   "workday:capitalone:/job/Bangalore-In/Principal-Coordinator---Admin-Support-Assistant_R246913": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Bangalore-In/Senior-Associate--Accounting_R247704": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/Bangalore-In/Senior-Associate--Business-Analysis_R249583-1": "2026-08-25T08:02:03.438704+00:00",
   "workday:capitalone:/job/Bangalore-In/Senior-Lead-Software-Engineer_R248677-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Bangalore-In/Senior-Manager--Product-Management_R248801": "2026-08-24T05:11:28.903629+00:00",
   "workday:capitalone:/job/Bangalore-In/Sr-Lead-Software-Engineer_R236901-1": "2026-08-24T07:46:33.895027+00:00",
@@ -3408,6 +3414,7 @@
   "workday:capitalone:/job/Toronto-ON/Manager--Process-Management_R240401-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Toronto-ON/Manager--Product-Management_R243179-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Toronto-ON/Manager--Product-Strategy-Analyst_R240157-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/Toronto-ON/Manager--Underwriting---Valuations-Strategy-Analyst_R240155-1": "2026-08-25T08:02:03.438704+00:00",
   "workday:capitalone:/job/Toronto-ON/Operations-Lead_R246653-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Toronto-ON/Principal-Associate--Software-Engineer----International-Card-Tech---Mobile_R245339-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Toronto-ON/Principal-Associate--Third-Party-Management_R248811": "2026-08-22T23:01:44.903747+00:00",
@@ -3467,5 +3474,5 @@
   "workday:capitalone:/job/Wilmington-DE/Lead-Data-Engineer_R247074-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00"
  },
- "updated": "2026-08-25T07:13:18.972974+00:00"
+ "updated": "2026-08-25T08:02:04.941379+00:00"
 }
