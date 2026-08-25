@@ -789,6 +789,7 @@
   "greenhouse:stripe:8141211": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8141450": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8141453": "2026-08-24T04:26:39.947576+00:00",
+  "greenhouse:stripe:8142302": "2026-08-25T20:41:45.774743+00:00",
   "greenhouse:stripe:8142304": "2026-08-24T15:54:44.503297+00:00",
   "greenhouse:stripe:8142649": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8142764": "2026-08-22T23:01:44.903747+00:00",
@@ -803,6 +804,7 @@
   "greenhouse:stripe:8146053": "2026-08-24T02:23:28.957885+00:00",
   "greenhouse:stripe:8146159": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8146271": "2026-08-22T23:01:44.903747+00:00",
+  "greenhouse:stripe:8148025": "2026-08-25T20:41:45.774743+00:00",
   "greenhouse:stripe:8148653": "2026-08-25T02:00:06.262195+00:00",
   "greenhouse:stripe:8148731": "2026-08-24T05:11:28.903629+00:00",
   "greenhouse:stripe:8152145": "2026-08-23T19:52:29.511828+00:00",
@@ -813,6 +815,7 @@
   "greenhouse:stripe:8155002": "2026-08-24T20:02:01.865209+00:00",
   "greenhouse:stripe:8155164": "2026-08-25T16:31:26.754087+00:00",
   "greenhouse:stripe:8156996": "2026-08-25T17:08:36.706853+00:00",
+  "greenhouse:stripe:8157577": "2026-08-25T20:41:45.774743+00:00",
   "workday:adobe:": "2026-08-23T20:43:28.314820+00:00",
   "workday:adobe:/job/Bangalore/AEM-Technical-Architect_R167994": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/AI-Studio---Content-Operations-Lead--GenStudio---Firefly-_R169730-1": "2026-08-22T23:01:44.903747+00:00",
@@ -1274,6 +1277,7 @@
   "workday:adobe:/job/San-Jose/Director-of-Enterprise-Transformation_R170328": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Director-of-Product-Management---Adobe-Builders-eXperience--ABX-_R170346-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Director-of-Product-Management--Adobe-Lightroom-Creative-Pro_R171225": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/San-Jose/Director-of-Technical-Accounting-and-External-Reporting--ESG-Controller_R171448": "2026-08-25T20:41:45.774743+00:00",
   "workday:adobe:/job/San-Jose/Engineering-Manager---Tron-KPI-Platform_R165927-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Engineering-Manager--AI-Developer-Productivity-and-Frameworks_R169905-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Engineering-Manager--Express-AI-Foundations_R168914": "2026-08-22T23:01:44.903747+00:00",
@@ -1530,6 +1534,7 @@
   "workday:adobe:/job/San-Jose/Staff-Data-Scientist---International-Product-Marketing_R169973-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Staff-Machine-Learning-Engineer_R169998-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Staff-Software-Development-Engineer_R169307": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/San-Jose/Strategy-and-Business-Operations-Manager_R171412-1": "2026-08-25T20:41:45.774743+00:00",
   "workday:adobe:/job/San-Jose/Supply-Chain-Operations-Lead_R170190-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Talent-Development-Consultant_R167269-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Technical-Solutions-Enablement-Manager_R166913-1": "2026-08-22T23:01:44.903747+00:00",
@@ -1842,6 +1847,7 @@
   "workday:capitalone:/job/McLean-VA/Associate---Product-Operations--Flights-Inventory_R245419-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Associate--AML-Sr-Investigator-I---Enhanced-Due-Diligence_R248547-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Associate--Concierge-Marketing-Design_R249901-1": "2026-08-24T20:02:01.865209+00:00",
+  "workday:capitalone:/job/McLean-VA/Associate--Program-Operations---S-G_R999132-2": "2026-08-25T20:41:45.774743+00:00",
   "workday:capitalone:/job/McLean-VA/Associate--Support-Operations_R249865": "2026-08-24T13:36:19.669644+00:00",
   "workday:capitalone:/job/McLean-VA/Associate-Activation-and-Awareness-Sr-Manager---Community-Impact---Investment_R247659-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Associate-Recruiter---Students-and-Grads---Up-to-25--Travel-Required_R247643-1": "2026-08-22T23:01:44.903747+00:00",
@@ -3559,5 +3565,5 @@
   "workday:capitalone:/job/Wilmington-DE/Lead-Data-Engineer_R247074-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00"
  },
- "updated": "2026-08-25T20:04:43.433909+00:00"
+ "updated": "2026-08-25T20:41:45.776216+00:00"
 }
