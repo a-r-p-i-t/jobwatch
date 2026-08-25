@@ -175,6 +175,7 @@
   "amazon:10513795": "2026-08-25T15:52:46.115554+00:00",
   "amazon:10513824": "2026-08-25T15:52:46.115554+00:00",
   "amazon:10514035": "2026-08-25T17:08:36.706853+00:00",
+  "amazon:10514702": "2026-08-25T21:43:37.197126+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -279,6 +280,7 @@
   "greenhouse:stripe:7528816": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:7529787": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:7530580": "2026-08-22T23:01:44.903747+00:00",
+  "greenhouse:stripe:7532733": "2026-08-25T21:43:37.197126+00:00",
   "greenhouse:stripe:7540441": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:7543559": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:7543868": "2026-08-22T23:01:44.903747+00:00",
@@ -3566,5 +3568,5 @@
   "workday:capitalone:/job/Wilmington-DE/Lead-Data-Engineer_R247074-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00"
  },
- "updated": "2026-08-25T21:10:54.376525+00:00"
+ "updated": "2026-08-25T21:43:38.903684+00:00"
 }
