@@ -174,6 +174,7 @@
   "amazon:10513793": "2026-08-25T15:52:46.115554+00:00",
   "amazon:10513795": "2026-08-25T15:52:46.115554+00:00",
   "amazon:10513824": "2026-08-25T15:52:46.115554+00:00",
+  "amazon:10514035": "2026-08-25T17:08:36.706853+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -810,6 +811,7 @@
   "greenhouse:stripe:8154525": "2026-08-24T22:40:26.068432+00:00",
   "greenhouse:stripe:8155002": "2026-08-24T20:02:01.865209+00:00",
   "greenhouse:stripe:8155164": "2026-08-25T16:31:26.754087+00:00",
+  "greenhouse:stripe:8156996": "2026-08-25T17:08:36.706853+00:00",
   "workday:adobe:": "2026-08-23T20:43:28.314820+00:00",
   "workday:adobe:/job/Bangalore/AEM-Technical-Architect_R167994": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/AI-Studio---Content-Operations-Lead--GenStudio---Firefly-_R169730-1": "2026-08-22T23:01:44.903747+00:00",
@@ -3192,6 +3194,7 @@
   "workday:capitalone:/job/Richmond-VA/Manager--Accounting---Controllers-Group_R248187-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Richmond-VA/Manager--Accounting--Retail-Bank-Agile-Controllers_R243964-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Richmond-VA/Manager--Business-Continuity-and-Resilience-Risk-Management--System-and-Data-Lead-_R248451-2": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/Richmond-VA/Manager--Client-Development-Ad-Sales--Capital-One-Ad-Solutions--Remote-_R999114-1": "2026-08-25T17:08:36.706853+00:00",
   "workday:capitalone:/job/Richmond-VA/Manager--Client-Development-Affiliate-Marketing--Capital-One-Ad-Solutions--Remote-_R243021-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Richmond-VA/Manager--Content-Design_R247301-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Richmond-VA/Manager--Credit-Accounting_R249436-1": "2026-08-22T23:01:44.903747+00:00",
@@ -3531,5 +3534,5 @@
   "workday:capitalone:/job/Wilmington-DE/Lead-Data-Engineer_R247074-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00"
  },
- "updated": "2026-08-25T16:31:28.253867+00:00"
+ "updated": "2026-08-25T17:08:38.397601+00:00"
 }
