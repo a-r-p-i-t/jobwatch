@@ -154,6 +154,17 @@
   "amazon:10513271": "2026-08-25T08:02:03.438704+00:00",
   "amazon:10513309": "2026-08-25T09:30:39.668645+00:00",
   "amazon:10513313": "2026-08-25T10:04:02.054626+00:00",
+  "amazon:10513322": "2026-08-25T10:46:39.277461+00:00",
+  "amazon:10513323": "2026-08-25T10:46:39.277461+00:00",
+  "amazon:10513324": "2026-08-25T10:46:39.277461+00:00",
+  "amazon:10513325": "2026-08-25T10:46:39.277461+00:00",
+  "amazon:10513326": "2026-08-25T10:46:39.277461+00:00",
+  "amazon:10513327": "2026-08-25T10:46:39.277461+00:00",
+  "amazon:10513328": "2026-08-25T10:46:39.277461+00:00",
+  "amazon:10513329": "2026-08-25T10:46:39.277461+00:00",
+  "amazon:10513330": "2026-08-25T10:46:39.277461+00:00",
+  "amazon:10513331": "2026-08-25T10:46:39.277461+00:00",
+  "amazon:10513332": "2026-08-25T10:46:39.277461+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -1575,6 +1586,7 @@
   "workday:capitalone:/job/Alabang-Muntinlupa-City/Sr-Associate--Associate-Relations_R218487": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Alabang-Muntinlupa-City/Sr-Coordinator--Bank-Operations-Levies-and-Garnishments_R249499": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Alabang-Muntinlupa-City/Sr-Coordinator--Enterprise-Payments-Exceptions_R241068": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/Alabang-Muntinlupa-City/Sr-Data-Process-Specialist_R999065": "2026-08-25T10:46:39.277461+00:00",
   "workday:capitalone:/job/Alabang-Muntinlupa-City/Sr-HR-Coordinator--Benefits-_R248574": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Alabang-Muntinlupa-City/Sr-HR-Coordinator--Payroll-_R244663": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Alabang-Muntinlupa-City/Sr-Manager--Compliance-Advisor_R242455": "2026-08-22T23:01:44.903747+00:00",
@@ -2580,6 +2592,7 @@
   "workday:capitalone:/job/McLean-VA/Sr-Associate--Product-Manager--Audit-Insights---Innovation--AI-and-Data-Engineering_R247257-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Associate--Volunteerism-Reporting---Data-Enablement---Community-Impact---Investment_R246786-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Business-Analyst---Business-Cards---Payments_R245733": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Sr-Business-Analyst---Global-Payment-Network_R249842-1": "2026-08-25T10:46:39.277461+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Business-Analyst---Operational-Risk-Capital_R244897-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Business-Analyst---Retail-and-Small-Business-Bank-Orgs_R243856-1": "2026-08-24T15:54:44.503297+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Business-Analyst---US-Card_R248338-1": "2026-08-22T23:01:44.903747+00:00",
@@ -3478,5 +3491,5 @@
   "workday:capitalone:/job/Wilmington-DE/Lead-Data-Engineer_R247074-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00"
  },
- "updated": "2026-08-25T10:04:03.668212+00:00"
+ "updated": "2026-08-25T10:46:42.710469+00:00"
 }
