@@ -332,6 +332,7 @@
   "greenhouse:stripe:7737237": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:7737243": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:7737526": "2026-08-22T23:01:44.903747+00:00",
+  "greenhouse:stripe:7738241": "2026-08-25T14:07:54.006627+00:00",
   "greenhouse:stripe:7739207": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:7742552": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:7744344": "2026-08-22T23:01:44.903747+00:00",
@@ -734,6 +735,7 @@
   "greenhouse:stripe:8120494": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8120501": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8121419": "2026-08-22T23:01:44.903747+00:00",
+  "greenhouse:stripe:8121421": "2026-08-25T14:07:54.006627+00:00",
   "greenhouse:stripe:8121659": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8122188": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8122192": "2026-08-22T23:01:44.903747+00:00",
@@ -1871,6 +1873,7 @@
   "workday:capitalone:/job/McLean-VA/Data-Analysis-Manager---Office-of-the-Chief-Data-Officer--Central-Analytics-and-Reporting_R249262-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Data-Analysis-Manager---Risk-Product-Data_R247749-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Dealer-Success-Manager-Coach_R248323-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Director--AI-Learning-Enablement_R249928-1": "2026-08-25T14:07:54.006627+00:00",
   "workday:capitalone:/job/McLean-VA/Director--Agency-Closing-Officer_R249523-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Director--Assistant-General-Counsel---Global-Payment-Network--Network-Participant-Risk_R248980-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Director--Brex-Integration-Advisory---Oversight_R248838-1": "2026-08-22T23:01:44.903747+00:00",
@@ -2593,6 +2596,7 @@
   "workday:capitalone:/job/McLean-VA/Small-Business-Bank---Senior-Manager--Project-Manager_R247840-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Software-Engineering-Manager---Full-Stack_R247435-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Administrative-Assistant--Global-Network-Risk_R249926-1": "2026-08-24T13:36:19.669644+00:00",
+  "workday:capitalone:/job/McLean-VA/Sr-Analyst--Capital-Markets---Analytics_R249438-1": "2026-08-25T14:07:54.006627+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Analyst--Capital-Markets---Risk_R248892-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Associate--Account-Manager---Strategic-Partnerships_R243363-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Associate--Business-Development---Hotel-Connectivity-Account-Manager_R244069-1": "2026-08-22T23:01:44.903747+00:00",
@@ -2899,6 +2903,7 @@
   "workday:capitalone:/job/New-York-NY/Senior-Manager--Software-Engineering_R248850-3": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/New-York-NY/Senior-Manager--Software-Engineering_R248851-3": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/New-York-NY/Senior-Manager--VP---UWPM--Alternative-Renewable-Energy_R237623-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/New-York-NY/Senior-Manger--Product-Manager-Family-CX--Teen-Checking_R249168-2": "2026-08-25T14:07:54.006627+00:00",
   "workday:capitalone:/job/New-York-NY/Senior-Manger--Product-Manager-Family-CX--Teen-Checking_R249169-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/New-York-NY/Senior-Product-Manager---Capital-One-Travel_R247096-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/New-York-NY/Senior-Product-Manager---Flights-Search-and-Merchandising--Capital-One-Travel_R246408-1": "2026-08-22T23:01:44.903747+00:00",
@@ -3505,5 +3510,5 @@
   "workday:capitalone:/job/Wilmington-DE/Lead-Data-Engineer_R247074-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00"
  },
- "updated": "2026-08-25T13:16:09.382245+00:00"
+ "updated": "2026-08-25T14:07:55.623219+00:00"
 }
