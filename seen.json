@@ -147,6 +147,7 @@
   "amazon:10513235": "2026-08-25T06:18:33.082389+00:00",
   "amazon:10513239": "2026-08-25T06:18:33.082389+00:00",
   "amazon:10513241": "2026-08-25T06:18:33.082389+00:00",
+  "amazon:10513256": "2026-08-25T07:13:18.971300+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -161,6 +162,7 @@
   "greenhouse:razorpaysoftwareprivatelimited:4716521005": "2026-08-24T10:10:40.289561+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4716555005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4716967005": "2026-08-22T23:01:44.903747+00:00",
+  "greenhouse:razorpaysoftwareprivatelimited:4717790005": "2026-08-25T07:13:18.971300+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4718620005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4718628005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4718634005": "2026-08-22T23:01:44.903747+00:00",
@@ -1114,6 +1116,7 @@
   "workday:adobe:/job/San-Francisco/Growth-Analyst--Social-Marketing_R170213": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Francisco/Head-of-Customer-Success_R166797": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Francisco/Machine-Learning-Engineer_R170754-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/San-Francisco/Mgr--Facilities-4_R171171": "2026-08-25T07:13:18.971300+00:00",
   "workday:adobe:/job/San-Francisco/Photoshop-Developer--GPU-Imaging_R171014": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Francisco/Principal--Ad-Tech-Enablement_R168991": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Francisco/Principal-Business-Operations-and-Programs-Lead_R169661-1": "2026-08-22T23:01:44.903747+00:00",
@@ -3464,5 +3467,5 @@
   "workday:capitalone:/job/Wilmington-DE/Lead-Data-Engineer_R247074-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00"
  },
- "updated": "2026-08-25T06:18:34.627377+00:00"
+ "updated": "2026-08-25T07:13:18.972974+00:00"
 }
