@@ -165,6 +165,7 @@
   "amazon:10513330": "2026-08-25T10:46:39.277461+00:00",
   "amazon:10513331": "2026-08-25T10:46:39.277461+00:00",
   "amazon:10513332": "2026-08-25T10:46:39.277461+00:00",
+  "amazon:10513397": "2026-08-25T11:47:32.068697+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -803,6 +804,7 @@
   "workday:adobe:/job/Bangalore/AI-Techno-Functional-Program-Manager_R170910-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/Applied-Scientist-55_R169437": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/Applied-Scientist-5_R171066": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/Bangalore/Apprentice-Tech_R171451": "2026-08-25T11:47:32.068697+00:00",
   "workday:adobe:/job/Bangalore/BDR-Manager---India_R170508": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/Cloud-Engineer-3---Python--SQL_R171272": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/Computer-Scientist---Full-Stack---Frontend-Heavy--_R170649-1": "2026-08-22T23:01:44.903747+00:00",
@@ -3491,5 +3493,5 @@
   "workday:capitalone:/job/Wilmington-DE/Lead-Data-Engineer_R247074-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00"
  },
- "updated": "2026-08-25T11:12:43.135020+00:00"
+ "updated": "2026-08-25T11:47:33.682560+00:00"
 }
