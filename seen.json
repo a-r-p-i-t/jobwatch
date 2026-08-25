@@ -779,6 +779,7 @@
   "greenhouse:stripe:8137972": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8137997": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8138000": "2026-08-22T23:01:44.903747+00:00",
+  "greenhouse:stripe:8138042": "2026-08-25T20:04:43.432103+00:00",
   "greenhouse:stripe:8138302": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8138662": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8139202": "2026-08-22T23:01:44.903747+00:00",
@@ -2511,6 +2512,7 @@
   "workday:capitalone:/job/McLean-VA/Senior-Lead-Software-Engineer--Android_R248777-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Lead-Software-Engineer--Android_R248778-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Lead-Software-Engineer--Back-End---Card-Tech_R247035-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Senior-Lead-Software-Engineer--Back-End--Go--Python--Java-_R249556-2": "2026-08-25T20:04:43.432103+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Lead-Software-Engineer--Back-End--Java--Scala--AWS-_R247989-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Lead-Software-Engineer--Back-End-Distributed-Systems--AWS--Go--Kubernetes--MCP--Lua--Python-_R241951": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Lead-Software-Engineer--Back-End_R247575-1": "2026-08-22T23:01:44.903747+00:00",
@@ -3557,5 +3559,5 @@
   "workday:capitalone:/job/Wilmington-DE/Lead-Data-Engineer_R247074-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00"
  },
- "updated": "2026-08-25T19:42:04.235988+00:00"
+ "updated": "2026-08-25T20:04:43.433909+00:00"
 }
