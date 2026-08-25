@@ -144,12 +144,16 @@
   "amazon:10512619": "2026-08-24T18:16:09.872907+00:00",
   "amazon:10512794": "2026-08-24T20:02:01.865209+00:00",
   "amazon:10513221": "2026-08-25T05:46:31.483609+00:00",
+  "amazon:10513235": "2026-08-25T06:18:33.082389+00:00",
+  "amazon:10513239": "2026-08-25T06:18:33.082389+00:00",
+  "amazon:10513241": "2026-08-25T06:18:33.082389+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4694487005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4699107005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4705896005": "2026-08-22T23:01:44.903747+00:00",
+  "greenhouse:razorpaysoftwareprivatelimited:4707357005": "2026-08-25T06:18:33.082389+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4709725005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4715361005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4716152005": "2026-08-22T23:01:44.903747+00:00",
@@ -1271,6 +1275,7 @@
   "workday:adobe:/job/San-Jose/Manager--Global-TA-Operations---Americas-Talent-Coordination_R169821": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Manager--Machine-Learning-Engineering_R159538-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Manager-Enterprise-Architecture_R168299": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/San-Jose/Manager-Success-Partner_R171344-1": "2026-08-25T06:18:33.082389+00:00",
   "workday:adobe:/job/San-Jose/Mgr--Enterprise-Sales-Firefly_R170909": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Mgr--FP-A-5_R170924-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Mgr--Fraud-Policy-and-Strategy_R170813": "2026-08-22T23:01:44.903747+00:00",
@@ -3459,5 +3464,5 @@
   "workday:capitalone:/job/Wilmington-DE/Lead-Data-Engineer_R247074-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00"
  },
- "updated": "2026-08-25T05:46:33.099394+00:00"
+ "updated": "2026-08-25T06:18:34.627377+00:00"
 }
