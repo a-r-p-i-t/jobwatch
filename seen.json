@@ -168,6 +168,8 @@
   "amazon:10513332": "2026-08-25T10:46:39.277461+00:00",
   "amazon:10513397": "2026-08-25T11:47:32.068697+00:00",
   "amazon:10513548": "2026-08-25T13:16:07.874399+00:00",
+  "amazon:10513733": "2026-08-25T15:01:06.840732+00:00",
+  "amazon:10513736": "2026-08-25T15:01:06.840732+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -396,6 +398,7 @@
   "greenhouse:stripe:7913406": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:7913410": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:7913545": "2026-08-22T23:01:44.903747+00:00",
+  "greenhouse:stripe:7913698": "2026-08-25T15:01:06.840732+00:00",
   "greenhouse:stripe:7913700": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:7913702": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:7915144": "2026-08-22T23:01:44.903747+00:00",
@@ -1807,6 +1810,7 @@
   "workday:capitalone:/job/McLean-VA/Administrative-Assistant-III--Risk_R248410-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Administrative-Assistant-III_R248326-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Agency-Closing-Officer--Senior-Manager_R249527-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Agency-Operations--Associate---Real-Estate-Tax---Escrow-Analysis_R247043-1": "2026-08-25T15:01:06.840732+00:00",
   "workday:capitalone:/job/McLean-VA/Analyst--Specialty-Underwriting-and-Portfolio-Management---Corporate---Sponsor-Lending_R247554-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Analyst--Specialty-Underwriting-and-Portfolio-Manager---CRE_R246300-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Applied-Researcher-I--AI-Foundations--LLM-Customization--Finetuning--Reinforcement-Learning-_R239757-1": "2026-08-22T23:01:44.903747+00:00",
@@ -2169,6 +2173,7 @@
   "workday:capitalone:/job/McLean-VA/Manager--Data-Scientist---Bureau-Data-Strategy_R244226-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Data-Scientist---Bureau-Data-Strategy_R248913-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Data-Scientist---Business-Cards---Payments-Credit-Infrastructure-Team_R244659-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Manager--Data-Scientist---Card-Mainstreet-Acquisitions_R999078-1": "2026-08-25T15:01:06.840732+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Data-Scientist---Credit-Review_R241726-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Data-Scientist---Model-Risk-Audit_R247516-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Data-Scientist---Model-Risk-Office_R233003-1": "2026-08-22T23:01:44.903747+00:00",
@@ -2209,6 +2214,7 @@
   "workday:capitalone:/job/McLean-VA/Manager--Product-Management---Personal-Loans-Application-Fraud-Decisioning_R246844": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Product-Management---Prometheus-Financial-Core--PFC-_R246393-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Product-Management---US-Card-Core-Platforms---Servicing_R246388-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Manager--Product-Management---US-Card_R999088-1": "2026-08-25T15:01:06.840732+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Product-Management---Ventures-Lending--Business-Cards---Payments-_R246499-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Product-Management---Workforce---Intelligent-Routing-Data-Product-Manager_R247851-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Product-Management--Associate-Experience_R246340-1": "2026-08-22T23:01:44.903747+00:00",
@@ -2537,6 +2543,7 @@
   "workday:capitalone:/job/McLean-VA/Senior-Manager--Data-Scientist---US-Card--Generative-AI-Systems-_R231103-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Manager--Executive-Recruiting_R243919-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Manager--GPN-Information-Security-Office-Consultant_R248595-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Senior-Manager--Individual-Contributor---Product-Design_R999083": "2026-08-25T15:01:06.840732+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Manager--Machine-Learning-Engineering_R239246-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Manager--Mobile-Engineering--Android--Enterprise-Platforms-Technology-_R246801-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Manager--People-Leader---Product-Design_R249828-2": "2026-08-22T23:01:44.903747+00:00",
@@ -3249,6 +3256,7 @@
   "workday:capitalone:/job/Richmond-VA/Senior-Associate--Talent-Brand-Strategist---Talent-Marketing_R243212-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Richmond-VA/Senior-Associate-Process-Manager--Customer-Protection--Hybrid_R247210-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Richmond-VA/Senior-Associate-Product-Management---Card-Data_R246858-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/Richmond-VA/Senior-Associate-SailPoint-Engineer_R249832-1": "2026-08-25T15:01:06.840732+00:00",
   "workday:capitalone:/job/Richmond-VA/Senior-Business-Director-Emerging-Payments_R249627-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Richmond-VA/Senior-Credit-Analyst---Business-Cards---Payments---Hybrid_R249328-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Richmond-VA/Senior-Director--Data-Science---Head-of-Fair-Lending-Analytics---Fair---Responsible-Banking-Compliance_R242470-1": "2026-08-22T23:01:44.903747+00:00",
@@ -3510,5 +3518,5 @@
   "workday:capitalone:/job/Wilmington-DE/Lead-Data-Engineer_R247074-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00"
  },
- "updated": "2026-08-25T14:07:55.623219+00:00"
+ "updated": "2026-08-25T15:01:08.435240+00:00"
 }
