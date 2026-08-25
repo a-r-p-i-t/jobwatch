@@ -127,6 +127,7 @@
   "amazon:10511757": "2026-08-24T06:50:59.201429+00:00",
   "amazon:10511773": "2026-08-24T08:30:44.362683+00:00",
   "amazon:10511827": "2026-08-24T10:52:54.326997+00:00",
+  "amazon:10511840": "2026-08-25T16:31:26.754087+00:00",
   "amazon:10511846": "2026-08-24T11:22:23.457461+00:00",
   "amazon:10511851": "2026-08-24T11:22:23.457461+00:00",
   "amazon:10511856": "2026-08-24T11:22:23.457461+00:00",
@@ -753,6 +754,7 @@
   "greenhouse:stripe:8125729": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8126047": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8127890": "2026-08-22T23:01:44.903747+00:00",
+  "greenhouse:stripe:8127894": "2026-08-25T16:31:26.754087+00:00",
   "greenhouse:stripe:8127942": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8128011": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8128496": "2026-08-22T23:01:44.903747+00:00",
@@ -807,6 +809,7 @@
   "greenhouse:stripe:8154302": "2026-08-25T08:02:03.438704+00:00",
   "greenhouse:stripe:8154525": "2026-08-24T22:40:26.068432+00:00",
   "greenhouse:stripe:8155002": "2026-08-24T20:02:01.865209+00:00",
+  "greenhouse:stripe:8155164": "2026-08-25T16:31:26.754087+00:00",
   "workday:adobe:": "2026-08-23T20:43:28.314820+00:00",
   "workday:adobe:/job/Bangalore/AEM-Technical-Architect_R167994": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/AI-Studio---Content-Operations-Lead--GenStudio---Firefly-_R169730-1": "2026-08-22T23:01:44.903747+00:00",
@@ -977,6 +980,7 @@
   "workday:adobe:/job/London/Senior-Enterprise-Architect---Adobe-Professional-Services--UK-_R166300-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/London/Senior-Product-Manager--3P-Embed-Partnerships--Sports-_R170480": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/London/Senior-Renewals-Sales-Specialist_R170908": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/London/Senior-Research-Scientist_R170395": "2026-08-25T16:31:26.754087+00:00",
   "workday:adobe:/job/London/Senior-Solution-Architect---Content-Supply-Chain---AI-Transformation_R169243": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/London/Value-Creation-Director---Adobe-Private-Capital_R170201": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/London/Value-Creation-Director_R171065": "2026-08-22T23:01:44.903747+00:00",
@@ -2014,6 +2018,7 @@
   "workday:capitalone:/job/McLean-VA/Lead-Software-Engineer---Front-End_R248540-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Lead-Software-Engineer---Full-Stack_R243309": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Lead-Software-Engineer---Full-Stack_R246629-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Lead-Software-Engineer---MLOps_R249947-1": "2026-08-25T16:31:26.754087+00:00",
   "workday:capitalone:/job/McLean-VA/Lead-Software-Engineer---PeopleTech---L-D_R245639-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Lead-Software-Engineer--AWS--Python--Java--React--Generative-AI-APIs-_R245743-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Lead-Software-Engineer--Agentic-Technology--Enterprise-Platform-_R248625-2": "2026-08-22T23:01:44.903747+00:00",
@@ -2074,6 +2079,7 @@
   "workday:capitalone:/job/McLean-VA/Lead-Software-Engineer--Full-Stack--Golang--Python--Java--AWS-_R248687-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Lead-Software-Engineer--Full-Stack--Intelligent-Foundations-and-Experiences-_R246157-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Lead-Software-Engineer--Full-Stack--Java--API--AWS--AI-_R247736-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Lead-Software-Engineer--Full-Stack--Java--API--AWS--AI-_R247737-1": "2026-08-25T16:31:26.754087+00:00",
   "workday:capitalone:/job/McLean-VA/Lead-Software-Engineer--Full-Stack--Java--GO--AWS--AI---Enterprise-Platforms-Technology-_R248421-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Lead-Software-Engineer--Full-Stack--Risk-Tech--Intelligent-Foundations---Experiences-_R246812-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Lead-Software-Engineer--Full-Stack--Risk-Tech--Intelligent-Foundations---Experiences-_R246900-1": "2026-08-22T23:01:44.903747+00:00",
@@ -3076,6 +3082,7 @@
   "workday:capitalone:/job/Plano-TX/Senior-Lead-Software-Engineer--Full-Stack_R243396-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Plano-TX/Senior-Lead-Software-Engineer--Full-Stack_R247802-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Plano-TX/Senior-Lead-Software-Engineer--Full-Stack_R248970-2": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/Plano-TX/Senior-Lead-Software-Engineer--Full-Stack_R249891-1": "2026-08-25T16:31:26.754087+00:00",
   "workday:capitalone:/job/Plano-TX/Senior-Lead-Software-Engineer--Fullstack--Typescript-Nodejs-Python-_R245897-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Plano-TX/Senior-Lead-Software-Engineer_R241016-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Plano-TX/Senior-Manager--Cyber-Audit-and-Regulatory-Engagements_R245947-1": "2026-08-22T23:01:44.903747+00:00",
@@ -3524,5 +3531,5 @@
   "workday:capitalone:/job/Wilmington-DE/Lead-Data-Engineer_R247074-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00"
  },
- "updated": "2026-08-25T15:52:47.802820+00:00"
+ "updated": "2026-08-25T16:31:28.253867+00:00"
 }
