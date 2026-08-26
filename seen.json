@@ -194,6 +194,7 @@
   "amazon:10515294": "2026-08-26T09:49:07.869065+00:00",
   "amazon:10515321": "2026-08-26T10:20:57.730519+00:00",
   "amazon:10515333": "2026-08-26T10:56:48.336951+00:00",
+  "amazon:10515352": "2026-08-26T12:44:53.590107+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -1122,6 +1123,7 @@
   "workday:adobe:/job/Noida/Software-Development-Engineer-3---Native-Android_R168159": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Noida/Software-Development-Engineer-4_R170155-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Noida/Software-Development-Engineer-4_R170262": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/Noida/Software-Development-Engineer-4_R170647": "2026-08-26T12:44:53.590107+00:00",
   "workday:adobe:/job/Noida/Software-Development-Engineer_R170315": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Noida/Software-Development-Engineer_R170607": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Noida/Software-Development-Engineer_R170616": "2026-08-22T23:01:44.903747+00:00",
@@ -2415,6 +2417,7 @@
   "workday:capitalone:/job/McLean-VA/Risk-Manager--Operational-Risk-Management_R247796-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Risk-Manager_R247741-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Administrative-Assistant--Administrative-Support-Assistant-III----Legal--Tech-Regulatory-_R243552-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Senior-Administrative-Assistant--Administrative-Support-Assistant-III----Upmarket_R246213-1": "2026-08-26T12:44:53.590107+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Administrative-Assistant--Administrative-Support-Assistant-III-_R245130-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Administrative-Assistant--Administrative-Support-Assistant-III-_R245843-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Administrative-Assistant--Administrative-Support-Assistant-III-_R246239-1": "2026-08-22T23:01:44.903747+00:00",
@@ -3611,5 +3614,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00"
  },
- "updated": "2026-08-26T11:57:48.227641+00:00"
+ "updated": "2026-08-26T12:44:55.275035+00:00"
 }
