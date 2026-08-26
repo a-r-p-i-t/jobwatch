@@ -185,6 +185,9 @@
   "amazon:10515237": "2026-08-26T07:25:16.238811+00:00",
   "amazon:10515239": "2026-08-26T07:25:16.238811+00:00",
   "amazon:10515257": "2026-08-26T08:07:48.325486+00:00",
+  "amazon:10515275": "2026-08-26T08:59:40.575997+00:00",
+  "amazon:10515276": "2026-08-26T08:59:40.575997+00:00",
+  "amazon:10515284": "2026-08-26T08:59:40.575997+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -3008,6 +3011,7 @@
   "workday:capitalone:/job/Nottingham--Eng/Junior-Finance-Cost-Business-Partner_R248837": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Nottingham--Eng/Lead-Android-Engineer_R247563-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Nottingham--Eng/Lead-Data-Steward_R243686-2": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/Nottingham--Eng/Lead-Observability-Engineer---Senior-Software-Engineer_R999076": "2026-08-26T08:59:40.575997+00:00",
   "workday:capitalone:/job/Nottingham--Eng/Lead-Process-Manager---Financial-Crime_R247807-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Nottingham--Eng/Lead-Site-Reliability-Engineer---DataOps_R232017-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Nottingham--Eng/Lead-Software-Development-Engineer---Developer-Experience_R236905-1": "2026-08-22T23:01:44.903747+00:00",
@@ -3595,5 +3599,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00"
  },
- "updated": "2026-08-26T08:07:48.327352+00:00"
+ "updated": "2026-08-26T08:59:42.269563+00:00"
 }
