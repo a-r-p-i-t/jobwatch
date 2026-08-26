@@ -188,6 +188,8 @@
   "amazon:10515275": "2026-08-26T08:59:40.575997+00:00",
   "amazon:10515276": "2026-08-26T08:59:40.575997+00:00",
   "amazon:10515284": "2026-08-26T08:59:40.575997+00:00",
+  "amazon:10515288": "2026-08-26T09:49:07.869065+00:00",
+  "amazon:10515294": "2026-08-26T09:49:07.869065+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -221,6 +223,7 @@
   "greenhouse:razorpaysoftwareprivatelimited:4725604005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4725938005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4726829005": "2026-08-24T08:30:44.362683+00:00",
+  "greenhouse:razorpaysoftwareprivatelimited:4727238005": "2026-08-26T09:49:07.869065+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4727308005": "2026-08-26T08:07:48.325486+00:00",
   "greenhouse:stripe:4921361": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:5416444": "2026-08-22T23:01:44.903747+00:00",
@@ -955,6 +958,7 @@
   "workday:adobe:/job/Copenhagen/Principal-Enterprise-Architect-Professional-Services--Copenhagen-_R166247": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Dublin/Global-Employment-Tax-Advisor--EMEA_R170449": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Dublin/Manager--Accounting_R171179": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/Dublin/Payroll-Analyst_R169637": "2026-08-26T09:49:07.869065+00:00",
   "workday:adobe:/job/Dublin/Program-Lead--e-Invoicing_R170694": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Dublin/Senior-Deal-Desk-Analyst---German-speaker_R170736": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Edinburgh/Product-Manager--B2B-Expansion-and-Growth_R171460-1": "2026-08-26T08:07:48.325486+00:00",
@@ -3599,5 +3603,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00"
  },
- "updated": "2026-08-26T08:59:42.269563+00:00"
+ "updated": "2026-08-26T09:49:09.481754+00:00"
 }
