@@ -145,6 +145,7 @@
   "amazon:10512593": "2026-08-24T17:44:13.893394+00:00",
   "amazon:10512619": "2026-08-24T18:16:09.872907+00:00",
   "amazon:10512794": "2026-08-24T20:02:01.865209+00:00",
+  "amazon:10512882": "2026-08-26T07:25:16.238811+00:00",
   "amazon:10513211": "2026-08-25T12:17:41.223374+00:00",
   "amazon:10513221": "2026-08-25T05:46:31.483609+00:00",
   "amazon:10513235": "2026-08-25T06:18:33.082389+00:00",
@@ -181,6 +182,8 @@
   "amazon:10515191": "2026-08-26T05:05:04.062363+00:00",
   "amazon:10515226": "2026-08-26T06:21:00.935068+00:00",
   "amazon:10515227": "2026-08-26T06:21:00.935068+00:00",
+  "amazon:10515237": "2026-08-26T07:25:16.238811+00:00",
+  "amazon:10515239": "2026-08-26T07:25:16.238811+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -548,6 +551,7 @@
   "greenhouse:stripe:8039954": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8040052": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8040143": "2026-08-22T23:01:44.903747+00:00",
+  "greenhouse:stripe:8040216": "2026-08-26T07:25:16.238811+00:00",
   "greenhouse:stripe:8040825": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8040874": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8040876": "2026-08-22T23:01:44.903747+00:00",
@@ -1166,6 +1170,7 @@
   "workday:adobe:/job/San-Francisco/Director--Product-Marketing-LATAM---Emerging_R170157-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Francisco/Director--TPS-Strategy---Business-Operations_R170411": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Francisco/Director-Product-Management--Firefly-Foundry_R171141": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/San-Francisco/Director-Product-Management--IC---GenAI-Model-Customization_R171377-1": "2026-08-26T07:25:16.238811+00:00",
   "workday:adobe:/job/San-Francisco/Director-of-Design--Frameio_R165811": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Francisco/Director-of-Enterprise-GTM---Creative-Foundations-_R167501": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Francisco/Director-of-Enterprise-Portfolio-Commercialization_R167500": "2026-08-22T23:01:44.903747+00:00",
@@ -1285,6 +1290,7 @@
   "workday:adobe:/job/San-Jose/Director--Revenue-Strategy---Firefly-Enterprise---Adobe-Brand-Intelligence_R169154-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Director--Sales-Process-Owner_R166625": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Director--Strategy---Business-Operations--Business-Partnering---Talent_R153217-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/San-Jose/Director-and-Associate-General-Counsel--Corporate-Legal_R171220": "2026-08-26T07:25:16.238811+00:00",
   "workday:adobe:/job/San-Jose/Director-of-Customer-Success--Creative-Professionals_R167393": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Director-of-Engineering---Machine-Learning---AI-Products_R170847": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Director-of-Enterprise-Transformation_R170328": "2026-08-22T23:01:44.903747+00:00",
@@ -3584,5 +3590,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00"
  },
- "updated": "2026-08-26T06:21:02.644890+00:00"
+ "updated": "2026-08-26T07:25:16.240420+00:00"
 }
