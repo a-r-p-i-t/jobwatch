@@ -178,6 +178,7 @@
   "amazon:10514702": "2026-08-25T21:43:37.197126+00:00",
   "amazon:10515087": "2026-08-25T23:34:56.570265+00:00",
   "amazon:10515179": "2026-08-26T04:21:30.847489+00:00",
+  "amazon:10515191": "2026-08-26T05:05:04.062363+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -1579,6 +1580,7 @@
   "workday:adobe:/job/Seattle/Sr-Staff-Machine-Learning-Engineer--Adobe-Firefly-Services_R170600": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Seattle/Sr-Staff-Product-Designer--Platform-Design_R165810-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Seattle/Systems-Design-Architecture-Engineer-5_R170589": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/Seoul/Inside-Sales-Representative_R171378": "2026-08-26T05:05:04.062363+00:00",
   "workday:adobe:/job/Seoul/Licensing-Consultant_R170335": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Seoul/Sales-Operation-Analyst--Contract-_R169830": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Seoul/Senior-Solution-Account-Manager--Contractor-_R169877-1": "2026-08-22T23:01:44.903747+00:00",
@@ -3578,5 +3580,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00"
  },
- "updated": "2026-08-26T04:21:30.849573+00:00"
+ "updated": "2026-08-26T05:05:06.178184+00:00"
 }
