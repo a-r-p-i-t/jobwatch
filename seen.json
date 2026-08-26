@@ -850,6 +850,7 @@
   "greenhouse:stripe:8156996": "2026-08-25T17:08:36.706853+00:00",
   "greenhouse:stripe:8157577": "2026-08-25T20:41:45.774743+00:00",
   "greenhouse:stripe:8158082": "2026-08-26T02:27:02.030249+00:00",
+  "greenhouse:stripe:8158090": "2026-08-26T16:56:46.601932+00:00",
   "workday:adobe:": "2026-08-23T20:43:28.314820+00:00",
   "workday:adobe:/job/Bangalore/AEM-Technical-Architect_R167994": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/AI-Studio---Content-Operations-Lead--GenStudio---Firefly-_R169730-1": "2026-08-22T23:01:44.903747+00:00",
@@ -884,6 +885,7 @@
   "workday:adobe:/job/Bangalore/Information-Security-Analyst_R171091": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/Lead-Analyst--Channel-Analytics_R168975": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/Machine-Learning-Engineer---5_R168703-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/Bangalore/Machine-Learning-Engineer-3_R171493-1": "2026-08-26T16:56:46.601932+00:00",
   "workday:adobe:/job/Bangalore/Machine-Learning-Engineer-4_R168142-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/Machine-Learning-Engineer-4_R170857": "2026-08-24T05:56:30.825132+00:00",
   "workday:adobe:/job/Bangalore/Machine-Learning-Engineer_R170782": "2026-08-22T23:01:44.903747+00:00",
@@ -1103,6 +1105,7 @@
   "workday:adobe:/job/Noida/Engineering-Program-Manager-5_R167614-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Noida/Enterprise-Architect_R167698": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Noida/Machine-Learning-Engineer-3---Firefly--_R171102-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/Noida/Machine-Learning-Engineer-3_R171487-1": "2026-08-26T16:56:46.601932+00:00",
   "workday:adobe:/job/Noida/Machine-Learning-Engineer-4_R165250": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Noida/Machine-Learning-Engineer-4_R169185": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Noida/Machine-Learning-Engineer-4_R170864": "2026-08-22T23:01:44.903747+00:00",
@@ -1825,6 +1828,7 @@
   "workday:capitalone:/job/Houston-TX/Caf-Ambassador---Houston-Galleria_R248306-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Houston-TX/Director--Product-Management---Settlement--Reporting--Pricing-Team_R247904-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Houston-TX/Lead-Relationship-Manager---International-Payment-Processors_R248743-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/Houston-TX/Manager--Data-Science---PULSE-Network--Business-Intelligence_R242684-1": "2026-08-26T16:56:46.601932+00:00",
   "workday:capitalone:/job/Houston-TX/Manager--Data-Science---PULSE-Network--Business-Intelligence_R242685-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Houston-TX/Manager--Project-Management_R249137-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Houston-TX/Manager--Project-Manager_R248975-1": "2026-08-22T23:01:44.903747+00:00",
@@ -2288,6 +2292,7 @@
   "workday:capitalone:/job/McLean-VA/Manager--Multimedia--Enterprise-Learning---Development_R249519-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Offensive-Security--Purple-Team_R239665-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Process-Management---Network-Documentation-_R249855-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Manager--Process-Management---Upmarket-Acquisitions_R249621-1": "2026-08-26T16:56:46.601932+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Product-Management---AI-ML_R246569": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Product-Management---Agent-Enablement---Coaching_R249101-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Product-Management---Business-Cards---Payments_R246439-1": "2026-08-22T23:01:44.903747+00:00",
@@ -2509,6 +2514,7 @@
   "workday:capitalone:/job/McLean-VA/Senior-Associate--Project-Manager_R247797-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Associate--Quantitative-Analyst---Commercial-Credit-Modeling-Team_R236369": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Associate--Supplier-Management_R999137-1": "2026-08-25T19:42:04.234072+00:00",
+  "workday:capitalone:/job/McLean-VA/Senior-Associate-Product-Management---Authorizations-Data-Platform_R999098-1": "2026-08-26T16:56:46.601932+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Associate-Product-Management---Machine-Learning-and-AI_R247339-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Associate-Product-Manager---Data--Models--Decisioning---Credit_R246581-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Associate-Product-Manager---US-Card-Core-Platforms---Servicing_R246413-1": "2026-08-22T23:01:44.903747+00:00",
@@ -2623,6 +2629,7 @@
   "workday:capitalone:/job/McLean-VA/Senior-Lead-Software-Engineer_R248502-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Lead-Software-Engineer_R249662-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Manager---Product-Management--Core-Platform-Lead--Enterprise-Document-Management-Platform_R248356-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Senior-Manager---Risk-Data-Product-Manager_R999221-1": "2026-08-26T16:56:46.601932+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Manager--Business-Continuity-and-Resiliency---Retail-Bank-Risk_R246022-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Manager--Compensation_R249290-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Manager--Contract-Manager_R249152": "2026-08-22T23:01:44.903747+00:00",
@@ -3642,5 +3649,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00"
  },
- "updated": "2026-08-26T16:02:18.245608+00:00"
+ "updated": "2026-08-26T16:56:48.110857+00:00"
 }
