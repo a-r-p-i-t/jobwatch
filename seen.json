@@ -833,6 +833,7 @@
   "greenhouse:stripe:8144202": "2026-08-24T15:54:44.503297+00:00",
   "greenhouse:stripe:8144212": "2026-08-23T19:52:29.511828+00:00",
   "greenhouse:stripe:8144223": "2026-08-22T23:01:44.903747+00:00",
+  "greenhouse:stripe:8144262": "2026-08-27T01:03:51.193603+00:00",
   "greenhouse:stripe:8144924": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8145117": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8145119": "2026-08-22T23:01:44.903747+00:00",
@@ -1178,6 +1179,7 @@
   "workday:adobe:/job/Remote-Oregon/Senior-Corporate-Account-Manager_R163417": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Remote-Texas/AVP--Enterprise-Product-Specialist_R170510-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Remote-Texas/Account-Director--Enterprise-Sales---Auto_R168507": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/Remote-Texas/Software-Development-Engineer_R170794": "2026-08-27T01:03:51.193603+00:00",
   "workday:adobe:/job/Remote-Utah/Applied-AI-Architect_R168489": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Remote-Virginia/Principal-Product-Marketing-Manager_R171343": "2026-08-25T23:34:56.570265+00:00",
   "workday:adobe:/job/Remote-Washington/Senior-Enterprise-Architect_R169410-1": "2026-08-22T23:01:44.903747+00:00",
@@ -1461,6 +1463,7 @@
   "workday:adobe:/job/San-Jose/Senior-Data-Science-Engineer_R169988": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Senior-Data-Scientist--GTM-Data-Science_R167834": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Senior-Delivery-Manager_R171012": "2026-08-25T19:42:04.234072+00:00",
+  "workday:adobe:/job/San-Jose/Senior-Director--Corporate-Development-and-Strategy_R171500": "2026-08-27T01:03:51.193603+00:00",
   "workday:adobe:/job/San-Jose/Senior-Director--Corporate-Strategy_R157976-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Senior-Director--Enterprise-Strategy---Integrated-GTM_R163668": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Senior-Director--Global-Head-of-Partner-Strategy-and-Business-Operations_R170686": "2026-08-22T23:01:44.903747+00:00",
@@ -1825,6 +1828,8 @@
   "workday:capitalone:/job/Downers-Grove-IL/Inside-Sales-Manager_R247852-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Durham-NC/Caf-Ambassador--Streets-at-Southpoint--Part-Time-_R247342-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/East-Meadow-NY/Part-Time-Branch-Ambassador---Central-Nassau-Area_R244582-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/Fairview-TX/Full-Time-Branch-Ambassador---Stacy-Rd_R249908-1": "2026-08-27T01:03:51.193603+00:00",
+  "workday:capitalone:/job/Fairview-TX/Part-Time-Branch-Ambassador---Stacy-Rd_R249909-1": "2026-08-27T01:03:51.193603+00:00",
   "workday:capitalone:/job/Farnborough-GBR/Lead-DCI-Operations-Specialist_R241941": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Flushing-NY/Part-Time-Branch-Ambassador---Flushing---Main_R244241-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Flushing-NY/Part-Time-Branch-Ambassador---Fresh-Meadows_R249466": "2026-08-22T23:01:44.903747+00:00",
@@ -2459,6 +2464,7 @@
   "workday:capitalone:/job/McLean-VA/Risk-Manager--Operational-Risk-Management_R247796-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Risk-Manager_R247741-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Administrative-Assistant--Administrative-Support-Assistant-III----Legal--Tech-Regulatory-_R243552-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Senior-Administrative-Assistant--Administrative-Support-Assistant-III----Legal_R999240-1": "2026-08-27T01:03:51.193603+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Administrative-Assistant--Administrative-Support-Assistant-III----Personal-Loans_R248467-1": "2026-08-26T18:58:04.335455+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Administrative-Assistant--Administrative-Support-Assistant-III----Upmarket_R246213-1": "2026-08-26T12:44:53.590107+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Administrative-Assistant--Administrative-Support-Assistant-III-_R245130-2": "2026-08-22T23:01:44.903747+00:00",
@@ -3683,5 +3689,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00"
  },
- "updated": "2026-08-26T21:39:16.191579+00:00"
+ "updated": "2026-08-27T01:03:51.195417+00:00"
 }
