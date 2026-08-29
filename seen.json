@@ -276,6 +276,7 @@
   "greenhouse:razorpaysoftwareprivatelimited:4722154005": "2026-08-24T09:26:26.814379+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4722162005": "2026-08-26T05:46:55.750516+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4722546005": "2026-08-22T23:01:44.903747+00:00",
+  "greenhouse:razorpaysoftwareprivatelimited:4723029005": "2026-08-29T17:17:41.213757+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4723067005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4723477005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4723479005": "2026-08-22T23:01:44.903747+00:00",
@@ -305,6 +306,7 @@
   "greenhouse:stripe:6717520": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:6786324": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:6786568": "2026-08-22T23:01:44.903747+00:00",
+  "greenhouse:stripe:6909015": "2026-08-29T17:17:41.213757+00:00",
   "greenhouse:stripe:7091959": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:7118945": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:7120766": "2026-08-22T23:01:44.903747+00:00",
@@ -928,6 +930,7 @@
   "greenhouse:stripe:8164479": "2026-08-28T17:30:25.105189+00:00",
   "greenhouse:stripe:8164481": "2026-08-28T17:30:25.105189+00:00",
   "greenhouse:stripe:8165137": "2026-08-29T01:07:34.589604+00:00",
+  "greenhouse:stripe:8165515": "2026-08-29T17:17:41.213757+00:00",
   "workday:adobe:": "2026-08-23T20:43:28.314820+00:00",
   "workday:adobe:/job/Bangalore/AEM-Technical-Architect_R167994": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/AI-Studio---Content-Operations-Lead--GenStudio---Firefly-_R169730-1": "2026-08-22T23:01:44.903747+00:00",
@@ -3889,5 +3892,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00"
  },
- "updated": "2026-08-29T13:25:12.422373+00:00"
+ "updated": "2026-08-29T17:17:41.216758+00:00"
 }
