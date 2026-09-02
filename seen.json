@@ -367,6 +367,10 @@
   "amazon:10524238": "2026-09-01T18:15:25.861273+00:00",
   "amazon:10524374": "2026-09-01T21:06:15.859499+00:00",
   "amazon:10524539": "2026-09-01T21:06:15.859499+00:00",
+  "amazon:10525193": "2026-09-02T05:45:04.053754+00:00",
+  "amazon:10525244": "2026-09-02T05:45:04.053754+00:00",
+  "amazon:10525248": "2026-09-02T05:45:04.053754+00:00",
+  "amazon:10525249": "2026-09-02T05:45:04.053754+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -1084,6 +1088,8 @@
   "greenhouse:stripe:8165137": "2026-08-29T01:07:34.589604+00:00",
   "greenhouse:stripe:8165259": "2026-09-01T14:59:05.453156+00:00",
   "greenhouse:stripe:8165515": "2026-08-29T17:17:41.213757+00:00",
+  "greenhouse:stripe:8165853": "2026-09-02T05:45:04.053754+00:00",
+  "greenhouse:stripe:8168085": "2026-09-02T05:45:04.053754+00:00",
   "greenhouse:stripe:8168151": "2026-09-01T00:23:37.657071+00:00",
   "greenhouse:stripe:8171297": "2026-09-01T18:15:25.861273+00:00",
   "greenhouse:stripe:8171539": "2026-09-01T21:06:15.859499+00:00",
@@ -1955,6 +1961,7 @@
   "workday:capitalone:/job/Alabang-Muntinlupa-City/Admin-Assistant_R249463": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Alabang-Muntinlupa-City/Associate--Bank-Operations-Levies-and-Garnishments_R249488": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Alabang-Muntinlupa-City/Coordinator--Shopping-Customer-Service-Operations_R999366": "2026-08-28T17:30:25.105189+00:00",
+  "workday:capitalone:/job/Alabang-Muntinlupa-City/Data-Annotator_R236406": "2026-09-02T05:45:04.053754+00:00",
   "workday:capitalone:/job/Alabang-Muntinlupa-City/Data-Annotator_R248226": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Alabang-Muntinlupa-City/Data-Manager--Extended-Operations--Well-Managed-Solutions-_R249377": "2026-08-24T14:23:29.389376+00:00",
   "workday:capitalone:/job/Alabang-Muntinlupa-City/Data-Manager--Extended-Operations-WMS_R237568": "2026-08-22T23:01:44.903747+00:00",
@@ -3749,6 +3756,7 @@
   "workday:capitalone:/job/Richmond-VA/Director--Product-Management---Anti-Money-Laundering_R999252": "2026-08-26T21:39:14.716508+00:00",
   "workday:capitalone:/job/Richmond-VA/Director--Product-Management--Capital-One-Software--Remote-_R247133-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Richmond-VA/Director--Product-Management-GRCx_R247717-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/Richmond-VA/Director-of-Business-Development--Gift-Cards----Capital-One-Ad-Solutions--Remote-_R999698-1": "2026-09-02T05:45:04.053754+00:00",
   "workday:capitalone:/job/Richmond-VA/Distinguished-Engineer---Card-Tech-_R245938-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Richmond-VA/Distinguished-Engineer_R235046": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Richmond-VA/Distinguished-Engineer_R242865-1": "2026-08-22T23:01:44.903747+00:00",
@@ -4195,5 +4203,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00"
  },
- "updated": "2026-09-02T01:04:27.400584+00:00"
+ "updated": "2026-09-02T05:45:05.714703+00:00"
 }
