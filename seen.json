@@ -406,6 +406,7 @@
   "amazon:10526634": "2026-09-02T20:25:55.663341+00:00",
   "amazon:10526713": "2026-09-02T22:45:59.352195+00:00",
   "amazon:10526861": "2026-09-02T22:45:59.352195+00:00",
+  "amazon:10526906": "2026-09-03T00:45:11.705699+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -1130,6 +1131,7 @@
   "greenhouse:stripe:8168085": "2026-09-02T05:45:04.053754+00:00",
   "greenhouse:stripe:8168151": "2026-09-01T00:23:37.657071+00:00",
   "greenhouse:stripe:8168554": "2026-09-02T14:07:07.618351+00:00",
+  "greenhouse:stripe:8168793": "2026-09-03T00:45:11.705699+00:00",
   "greenhouse:stripe:8171098": "2026-09-02T20:25:55.663341+00:00",
   "greenhouse:stripe:8171222": "2026-09-02T17:53:00.246050+00:00",
   "greenhouse:stripe:8171297": "2026-09-01T18:15:25.861273+00:00",
@@ -1574,6 +1576,7 @@
   "workday:adobe:/job/San-Francisco/Product-Sales-Specialist--Advertising_R168721": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Francisco/Relationship-Management-Specialist-4_R164400": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Francisco/Senior-Applied-AI-Engineer--Creative-Systems---Brand-Intelligence--Adobe-Express_R168858": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/San-Francisco/Senior-Copywriter_R171639": "2026-09-03T00:45:11.705699+00:00",
   "workday:adobe:/job/San-Francisco/Senior-Customer-Marketing-Manager_R169115": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Francisco/Senior-Data-Engineer_R170680-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Francisco/Senior-Data-Scientist_R170750-1": "2026-08-22T23:01:44.903747+00:00",
@@ -1945,6 +1948,7 @@
   "workday:adobe:/job/San-Jose/Staff-Applied-Scientist_R170044": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Staff-Cyber-Incident-Response-Engineer_R169287": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Staff-Data-Scientist---International-Product-Marketing_R169973-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/San-Jose/Staff-Machine-Learning-Engineer---ML-Frameworks_R171045": "2026-09-03T00:45:11.705699+00:00",
   "workday:adobe:/job/San-Jose/Staff-Machine-Learning-Engineer_R169998-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Staff-Software-Development-Engineer_R169307": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Strategy-and-Business-Operations-Manager_R171412-1": "2026-08-25T20:41:45.774743+00:00",
@@ -2424,6 +2428,7 @@
   "workday:capitalone:/job/McLean-VA/Director--Risk-Management_R247075-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Director--Software-Engineer--Global-Payment-Network-_R248709-1": "2026-08-27T21:01:42.333508+00:00",
   "workday:capitalone:/job/McLean-VA/Director--Software-Engineer_R249194-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Director--Software-Engineer_R999728-1": "2026-09-03T00:45:11.705699+00:00",
   "workday:capitalone:/job/McLean-VA/Director--Software-Engineering---Risk-Tech_R247883-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Director--Software-Engineering---Shopping--Remote-Eligible-_R244534-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Director--Software-Engineering--Network-Platform-_R248771-1": "2026-08-22T23:01:44.903747+00:00",
@@ -4324,5 +4329,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00"
  },
- "updated": "2026-09-02T22:46:01.053212+00:00"
+ "updated": "2026-09-03T00:45:13.432487+00:00"
 }
