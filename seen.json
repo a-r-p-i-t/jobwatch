@@ -434,6 +434,10 @@
   "amazon:10528437": "2026-09-03T17:28:34.832945+00:00",
   "amazon:10529393": "2026-09-03T22:31:42.378390+00:00",
   "amazon:10529396": "2026-09-03T22:31:42.378390+00:00",
+  "amazon:10529435": "2026-09-04T00:21:32.822267+00:00",
+  "amazon:10529437": "2026-09-04T00:21:32.822267+00:00",
+  "amazon:10529443": "2026-09-04T00:21:32.822267+00:00",
+  "amazon:10529515": "2026-09-04T00:21:32.822267+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -1174,6 +1178,7 @@
   "greenhouse:stripe:8171222": "2026-09-02T17:53:00.246050+00:00",
   "greenhouse:stripe:8171297": "2026-09-01T18:15:25.861273+00:00",
   "greenhouse:stripe:8171539": "2026-09-01T21:06:15.859499+00:00",
+  "greenhouse:stripe:8172111": "2026-09-04T00:21:32.822267+00:00",
   "greenhouse:stripe:8172164": "2026-09-01T23:16:40.702763+00:00",
   "greenhouse:stripe:8172487": "2026-09-03T20:03:08.133792+00:00",
   "greenhouse:stripe:8172493": "2026-09-03T20:03:08.133792+00:00",
@@ -1194,6 +1199,7 @@
   "greenhouse:stripe:8177640": "2026-09-03T17:28:34.832945+00:00",
   "greenhouse:stripe:8177860": "2026-09-03T20:03:08.133792+00:00",
   "greenhouse:stripe:8177930": "2026-09-03T20:03:08.133792+00:00",
+  "greenhouse:stripe:8178453": "2026-09-04T00:21:32.822267+00:00",
   "workday:adobe:": "2026-08-23T20:43:28.314820+00:00",
   "workday:adobe:/job/Bangalore/AEM-Technical-Architect_R167994": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/AI-Studio---Content-Operations-Lead--GenStudio---Firefly-_R169730-1": "2026-08-22T23:01:44.903747+00:00",
@@ -1904,6 +1910,7 @@
   "workday:adobe:/job/San-Jose/Senior-Manager--Organization-Effectiveness---Executive-Development_R170097": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Senior-Manager-Engineering---Meta-Factory_R170133-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Senior-Manager-of-Enterprise-Transformation_R168989": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/San-Jose/Senior-Marketing-Program-Manager_R171563": "2026-09-04T00:21:32.822267+00:00",
   "workday:adobe:/job/San-Jose/Senior-Mgr--Global-Promo-Operations_R166445-1": "2026-09-02T17:53:00.246050+00:00",
   "workday:adobe:/job/San-Jose/Senior-Product-Designer--Monetization-Platform_R166793-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Senior-Product-Manager---Chief-Accounting-Office_R168909-1": "2026-08-22T23:01:44.903747+00:00",
@@ -2414,6 +2421,7 @@
   "workday:capitalone:/job/McLean-VA/Business-Director_R999320-1": "2026-08-28T17:30:25.105189+00:00",
   "workday:capitalone:/job/McLean-VA/Business-Manager---Business-Card---Payments_R245734-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Business-Manager---CDX-Product-Strategy_R999058-1": "2026-08-25T17:43:43.545628+00:00",
+  "workday:capitalone:/job/McLean-VA/Business-Manager---Emerging-Payments_R245395-1": "2026-09-04T00:21:32.822267+00:00",
   "workday:capitalone:/job/McLean-VA/Business-Manager---Insights---Analytics--ERM-_R248272-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Business-Manager---Mainstreet-CLIP_R238903-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Business-Manager---Modeling-and-Advanced-Data-Insights_R247494-1": "2026-08-22T23:01:44.903747+00:00",
@@ -4448,5 +4456,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00"
  },
- "updated": "2026-09-03T22:31:42.380532+00:00"
+ "updated": "2026-09-04T00:21:34.349712+00:00"
 }
