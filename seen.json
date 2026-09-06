@@ -461,6 +461,9 @@
   "amazon:10530700": "2026-09-05T15:46:55.426899+00:00",
   "amazon:10530730": "2026-09-06T10:08:26.288724+00:00",
   "amazon:10530736": "2026-09-06T10:08:26.288724+00:00",
+  "amazon:10530749": "2026-09-06T16:27:02.331083+00:00",
+  "amazon:10530750": "2026-09-06T16:27:02.331083+00:00",
+  "amazon:10530751": "2026-09-06T16:27:02.331083+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -1242,6 +1245,7 @@
   "greenhouse:stripe:8177930": "2026-09-03T20:03:08.133792+00:00",
   "greenhouse:stripe:8178453": "2026-09-04T00:21:32.822267+00:00",
   "greenhouse:stripe:8180318": "2026-09-04T21:44:02.236208+00:00",
+  "greenhouse:stripe:8181003": "2026-09-06T16:27:02.331083+00:00",
   "workday:adobe:": "2026-08-23T20:43:28.314820+00:00",
   "workday:adobe:/job/Bangalore/AEM-Technical-Architect_R167994": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/AI-Studio---Content-Operations-Lead--GenStudio---Firefly-_R169730-1": "2026-08-22T23:01:44.903747+00:00",
@@ -4560,5 +4564,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00"
  },
- "updated": "2026-09-06T13:40:41.496999+00:00"
+ "updated": "2026-09-06T16:27:03.942393+00:00"
 }
