@@ -459,6 +459,8 @@
   "amazon:10530698": "2026-09-05T15:46:55.426899+00:00",
   "amazon:10530699": "2026-09-05T15:46:55.426899+00:00",
   "amazon:10530700": "2026-09-05T15:46:55.426899+00:00",
+  "amazon:10530730": "2026-09-06T10:08:26.288724+00:00",
+  "amazon:10530736": "2026-09-06T10:08:26.288724+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -1648,6 +1650,7 @@
   "workday:adobe:/job/San-Francisco/Director-of-Product-Marketing_R171053-1": "2026-08-27T21:01:42.333508+00:00",
   "workday:adobe:/job/San-Francisco/Executive-Assistant-4_R171050-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Francisco/Financial-Analyst-4_R169582-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/San-Francisco/Font-Licensing---Cost-Analyst_R171144": "2026-09-06T10:08:26.288724+00:00",
   "workday:adobe:/job/San-Francisco/Group-Content-Strategy-Manager--Adobecom_R170475-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Francisco/Group-Manager---Motion-Graphics---Editorial-_R171138": "2026-09-01T18:15:25.861273+00:00",
   "workday:adobe:/job/San-Francisco/Group-Manager--Communications-Strategy---Ops_R170418": "2026-08-22T23:01:44.903747+00:00",
@@ -2098,6 +2101,7 @@
   "workday:adobe:/job/Seattle/Data-Scientist_R170880-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Seattle/Enterprise-Architect_R161570": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Seattle/Enterprise-Sales-Account-Director---State---Local-Government---Northwest_R167646": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/Seattle/Principal-Product-Manager---AI-for-Engineering_R171074": "2026-09-06T10:08:26.288724+00:00",
   "workday:adobe:/job/Seattle/Principal-Product-Manager--Adobe-Express_R169714-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Seattle/Research-Engineer_R166886": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Seattle/Research-Scientist-Engineer_R170713": "2026-08-22T23:01:44.903747+00:00",
@@ -4556,5 +4560,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00"
  },
- "updated": "2026-09-06T05:52:03.022049+00:00"
+ "updated": "2026-09-06T10:08:28.105868+00:00"
 }
