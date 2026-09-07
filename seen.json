@@ -454,6 +454,7 @@
   "amazon:10530067": "2026-09-04T17:03:55.703170+00:00",
   "amazon:10530361": "2026-09-04T19:30:12.164467+00:00",
   "amazon:10530418": "2026-09-04T21:44:02.236208+00:00",
+  "amazon:10530594": "2026-09-07T19:13:31.205934+00:00",
   "amazon:10530595": "2026-09-05T01:13:23.087586+00:00",
   "amazon:10530691": "2026-09-05T09:29:03.483379+00:00",
   "amazon:10530698": "2026-09-05T15:46:55.426899+00:00",
@@ -490,6 +491,9 @@
   "amazon:10531006": "2026-09-07T15:15:25.583437+00:00",
   "amazon:10531029": "2026-09-07T15:15:25.583437+00:00",
   "amazon:10531031": "2026-09-07T15:15:25.583437+00:00",
+  "amazon:10531045": "2026-09-07T19:13:31.205934+00:00",
+  "amazon:10531173": "2026-09-07T19:13:31.205934+00:00",
+  "amazon:10531241": "2026-09-07T19:13:31.205934+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -1217,6 +1221,7 @@
   "greenhouse:stripe:8157838": "2026-09-01T00:23:37.657071+00:00",
   "greenhouse:stripe:8158082": "2026-08-26T02:27:02.030249+00:00",
   "greenhouse:stripe:8158090": "2026-08-26T16:56:46.601932+00:00",
+  "greenhouse:stripe:8158092": "2026-09-07T19:13:31.205934+00:00",
   "greenhouse:stripe:8160754": "2026-08-27T21:01:42.333508+00:00",
   "greenhouse:stripe:8160776": "2026-09-03T05:10:53.470749+00:00",
   "greenhouse:stripe:8161567": "2026-08-29T01:07:34.589604+00:00",
@@ -1265,6 +1270,7 @@
   "greenhouse:stripe:8175629": "2026-09-05T12:56:58.797047+00:00",
   "greenhouse:stripe:8175671": "2026-09-04T21:44:02.236208+00:00",
   "greenhouse:stripe:8175816": "2026-09-04T09:17:46.289444+00:00",
+  "greenhouse:stripe:8175818": "2026-09-07T19:13:31.205934+00:00",
   "greenhouse:stripe:8175820": "2026-09-03T13:55:57.192751+00:00",
   "greenhouse:stripe:8175826": "2026-09-03T17:28:34.832945+00:00",
   "greenhouse:stripe:8175830": "2026-09-03T09:47:52.446467+00:00",
@@ -3348,6 +3354,7 @@
   "workday:capitalone:/job/McLean-VA/Senior-Lead-Software-Engineer--Full-Stack--Go--AWS-_R238739-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Lead-Software-Engineer--Full-Stack--Golang--Python--GenAI---Cloud-Operations-Resilience-Engineering-_R243206-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Lead-Software-Engineer--Full-Stack--Intelligent-Foundations---Experiences-_R232101-2": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Senior-Lead-Software-Engineer--Full-Stack--Python--Angular-_R999988-1": "2026-09-07T19:13:31.205934+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Lead-Software-Engineer--Full-Stack-Back-End---Intelligent-Foundations-and-Experiences-_R246232-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Lead-Software-Engineer--Full-Stack_R241098-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Lead-Software-Engineer--Full-Stack_R241874-2": "2026-08-22T23:01:44.903747+00:00",
@@ -4611,5 +4618,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00"
  },
- "updated": "2026-09-07T15:15:27.268462+00:00"
+ "updated": "2026-09-07T19:13:32.815556+00:00"
 }
