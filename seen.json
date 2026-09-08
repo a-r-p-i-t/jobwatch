@@ -494,6 +494,13 @@
   "amazon:10531045": "2026-09-07T19:13:31.205934+00:00",
   "amazon:10531173": "2026-09-07T19:13:31.205934+00:00",
   "amazon:10531241": "2026-09-07T19:13:31.205934+00:00",
+  "amazon:10531337": "2026-09-08T09:09:59.453707+00:00",
+  "amazon:10531340": "2026-09-08T09:09:59.453707+00:00",
+  "amazon:10531354": "2026-09-08T09:09:59.453707+00:00",
+  "amazon:10531359": "2026-09-08T09:09:59.453707+00:00",
+  "amazon:10531369": "2026-09-08T09:09:59.453707+00:00",
+  "amazon:10531373": "2026-09-08T09:09:59.453707+00:00",
+  "amazon:10531375": "2026-09-08T09:09:59.453707+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -515,6 +522,7 @@
   "greenhouse:razorpaysoftwareprivatelimited:4718620005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4718628005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4718634005": "2026-08-22T23:01:44.903747+00:00",
+  "greenhouse:razorpaysoftwareprivatelimited:4719358005": "2026-09-08T09:09:59.453707+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4719411005": "2026-09-01T10:19:06.960935+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4720228005": "2026-08-25T05:46:31.483609+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4721044005": "2026-08-22T23:01:44.903747+00:00",
@@ -1275,6 +1283,7 @@
   "greenhouse:stripe:8175826": "2026-09-03T17:28:34.832945+00:00",
   "greenhouse:stripe:8175830": "2026-09-03T09:47:52.446467+00:00",
   "greenhouse:stripe:8175834": "2026-09-03T13:55:57.192751+00:00",
+  "greenhouse:stripe:8176724": "2026-09-08T09:09:59.453707+00:00",
   "greenhouse:stripe:8176730": "2026-09-07T15:15:25.583437+00:00",
   "greenhouse:stripe:8177513": "2026-09-03T17:28:34.832945+00:00",
   "greenhouse:stripe:8177636": "2026-09-07T09:41:04.972179+00:00",
@@ -2107,6 +2116,7 @@
   "workday:adobe:/job/San-Jose/Sr-Manager--Transformation--Pricing---Business-Model-_R162007": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Sr-Product-Manager--Partner-Success_R167593": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Sr-Product-Marketing-Manager_R165552": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/San-Jose/Sr-Program---Portfolio-Manager--IT-_R171323": "2026-09-08T09:09:59.453707+00:00",
   "workday:adobe:/job/San-Jose/Sr-Software-Development-Engineer-4_R156041-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Sr-Software-Development-Engineer_R152822": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Sr-Software-Engineer--UI_R169956": "2026-08-22T23:01:44.903747+00:00",
@@ -2274,6 +2284,7 @@
   "workday:capitalone:/job/Bangalore-In/Principal-Associate--L-D_R999830": "2026-09-07T09:41:04.972179+00:00",
   "workday:capitalone:/job/Bangalore-In/Principal-Coordinator---Admin-Support-Assistant_R246913": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Bangalore-In/Senior-Associate--Accounting_R247704": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/Bangalore-In/Senior-Associate--Business-Analysis_R1000099-1": "2026-09-08T09:09:59.453707+00:00",
   "workday:capitalone:/job/Bangalore-In/Senior-Associate--Business-Analysis_R249045-1": "2026-09-07T15:15:25.583437+00:00",
   "workday:capitalone:/job/Bangalore-In/Senior-Associate--Business-Analysis_R249583-1": "2026-08-25T08:02:03.438704+00:00",
   "workday:capitalone:/job/Bangalore-In/Senior-Lead-Software-Engineer_R248677-1": "2026-08-22T23:01:44.903747+00:00",
@@ -4628,5 +4639,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00"
  },
- "updated": "2026-09-08T04:48:05.474823+00:00"
+ "updated": "2026-09-08T09:10:01.368724+00:00"
 }
