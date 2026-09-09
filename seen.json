@@ -522,6 +522,8 @@
   "amazon:10532813": "2026-09-08T22:36:39.375351+00:00",
   "amazon:10532816": "2026-09-08T22:36:39.375351+00:00",
   "amazon:10532829": "2026-09-08T22:36:39.375351+00:00",
+  "amazon:10533710": "2026-09-09T05:11:03.115761+00:00",
+  "amazon:10533774": "2026-09-09T05:11:03.115761+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -575,6 +577,7 @@
   "greenhouse:razorpaysoftwareprivatelimited:4730552005": "2026-09-03T09:47:52.446467+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4731043005": "2026-09-04T09:17:46.289444+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4731606005": "2026-09-08T17:27:49.342887+00:00",
+  "greenhouse:razorpaysoftwareprivatelimited:4731693005": "2026-09-09T05:11:03.115761+00:00",
   "greenhouse:stripe:4921361": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:5416444": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:5423044": "2026-08-22T23:01:44.903747+00:00",
@@ -941,6 +944,7 @@
   "greenhouse:stripe:8041894": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8042055": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8042309": "2026-08-22T23:01:44.903747+00:00",
+  "greenhouse:stripe:8042913": "2026-09-09T05:11:03.115761+00:00",
   "greenhouse:stripe:8043052": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8043055": "2026-09-01T14:59:05.453156+00:00",
   "greenhouse:stripe:8043083": "2026-08-22T23:01:44.903747+00:00",
@@ -3438,6 +3442,7 @@
   "workday:capitalone:/job/McLean-VA/Senior-Lead-Software-Engineer--Full-Stack--Go--AWS-_R238739-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Lead-Software-Engineer--Full-Stack--Golang--Python--GenAI---Cloud-Operations-Resilience-Engineering-_R243206-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Lead-Software-Engineer--Full-Stack--Intelligent-Foundations---Experiences-_R232101-2": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Senior-Lead-Software-Engineer--Full-Stack--Nodejs--Go--Angularjs-_R999978-1": "2026-09-09T05:11:03.115761+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Lead-Software-Engineer--Full-Stack--Python--Angular-_R999988-1": "2026-09-07T19:13:31.205934+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Lead-Software-Engineer--Full-Stack-Back-End---Intelligent-Foundations-and-Experiences-_R246232-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Lead-Software-Engineer--Full-Stack_R241098-1": "2026-08-22T23:01:44.903747+00:00",
@@ -3640,6 +3645,7 @@
   "workday:capitalone:/job/McLean-VA/Sr-Lead-Software-Engineer--Full-Stack---Shopping-Tech_R245801-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Lead-Software-Engineer--Full-Stack-AI-Parser---Shopping--Remote-Eligible-_R241927-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Lead-Software-Engineer_R245460": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Sr-Manager---Cyber-Technical---Technology-Audit--Hybrid-_R248163-1": "2026-09-09T05:11:03.115761+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Manager---S-G-Analyst-Development-Program-Lead_R244744-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Manager--Business-Development---Luxury-Travel--Hotel-Partnerships_R243358": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Manager--Chief-of-Staff---Community-Finance_R248068-1": "2026-08-22T23:01:44.903747+00:00",
@@ -4752,5 +4758,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00"
  },
- "updated": "2026-09-09T00:33:44.272837+00:00"
+ "updated": "2026-09-09T05:11:03.118405+00:00"
 }
