@@ -546,6 +546,8 @@
   "amazon:10534647": "2026-09-09T17:41:32.450747+00:00",
   "amazon:10534698": "2026-09-09T20:03:09.440357+00:00",
   "amazon:10535104": "2026-09-09T20:03:09.440357+00:00",
+  "amazon:10535555": "2026-09-10T00:29:14.555431+00:00",
+  "amazon:10535569": "2026-09-10T00:29:14.555431+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -1615,6 +1617,7 @@
   "workday:adobe:/job/New-York/Global-Industry-Strategy-Principal-for-Consumer-Goods_R166991": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/New-York/Head-of-Business-Development-NAM_R165668": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/New-York/Manager--Solutions-Consulting_R169717": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/New-York/Principal-AI-Strategist_R169720": "2026-09-10T00:29:14.555431+00:00",
   "workday:adobe:/job/New-York/Principal-Program-Manager--Frameio_R171338-1": "2026-09-04T19:30:12.164467+00:00",
   "workday:adobe:/job/New-York/Product-Security-Engineer_R168782": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/New-York/Product-Specialist--Firefly_R170840": "2026-08-22T23:01:44.903747+00:00",
@@ -2066,6 +2069,7 @@
   "workday:adobe:/job/San-Jose/Project-Manager_R168801": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Prompt-Engineer_R158292": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Quality-Engineer--Nextcam_R167732": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/San-Jose/Quality-Engineering-Developer---Mobile_R171332": "2026-09-10T00:29:14.555431+00:00",
   "workday:adobe:/job/San-Jose/Research-Scientist_R166368": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Researcher-ML-Engineer_R169016": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Revenue-Assurance-Manager_R171186": "2026-08-22T23:01:44.903747+00:00",
@@ -4623,6 +4627,7 @@
   "workday:capitalone:/job/Richmond-VA/Sr-Risk-Associate---Modeling-and-Advanced-Data-Insights_R247090-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Richmond-VA/Sr-Risk-Manager--Controls_R249536-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Richmond-VA/Sr-Risk-Specialist_R244104-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/Richmond-VA/Travel-Specialist--Associate---Velocity-Black--Remote-_R246721-1": "2026-09-10T00:29:14.555431+00:00",
   "workday:capitalone:/job/Richmond-VA/Travel-Specialist--Principal-Coordinator---Velocity-Black--Remote-_R248610-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Richmond-VA/Work-from-Home-Customer-Service-Coordinator-Card-Account-Servicing_R248824-1": "2026-09-08T20:06:59.755942+00:00",
   "workday:capitalone:/job/Riverwoods-IL/Administrative-Assistant--Network-Business-Strategy_R248509-1": "2026-08-22T23:01:44.903747+00:00",
@@ -4887,5 +4892,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00"
  },
- "updated": "2026-09-09T22:30:18.772562+00:00"
+ "updated": "2026-09-10T00:29:14.557914+00:00"
 }
