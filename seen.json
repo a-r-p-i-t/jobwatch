@@ -1337,6 +1337,7 @@
   "greenhouse:stripe:8165267": "2026-09-04T21:44:02.236208+00:00",
   "greenhouse:stripe:8165273": "2026-09-03T13:55:57.192751+00:00",
   "greenhouse:stripe:8165275": "2026-09-10T09:38:50.586636+00:00",
+  "greenhouse:stripe:8165278": "2026-09-10T23:50:50.226607+00:00",
   "greenhouse:stripe:8165515": "2026-08-29T17:17:41.213757+00:00",
   "greenhouse:stripe:8165853": "2026-09-02T05:45:04.053754+00:00",
   "greenhouse:stripe:8167556": "2026-09-02T20:25:55.663341+00:00",
@@ -1410,8 +1411,10 @@
   "greenhouse:stripe:8185294": "2026-09-09T20:03:09.440357+00:00",
   "greenhouse:stripe:8186541": "2026-09-09T20:03:09.440357+00:00",
   "greenhouse:stripe:8187278": "2026-09-09T00:33:44.270611+00:00",
+  "greenhouse:stripe:8187580": "2026-09-10T23:50:50.226607+00:00",
   "greenhouse:stripe:8189909": "2026-09-10T21:59:20.217546+00:00",
   "greenhouse:stripe:8190030": "2026-09-10T19:48:29.568704+00:00",
+  "greenhouse:stripe:8194289": "2026-09-10T23:50:50.226607+00:00",
   "workday:adobe:": "2026-08-23T20:43:28.314820+00:00",
   "workday:adobe:/job/Bangalore/AEM-Technical-Architect_R167994": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/AI-Studio---Content-Operations-Lead--GenStudio---Firefly-_R169730-1": "2026-08-22T23:01:44.903747+00:00",
@@ -2166,6 +2169,7 @@
   "workday:adobe:/job/San-Jose/Senior-Finance-Manager--Acrobat-Enterprise_R166446": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Senior-Financial-Analyst---ARR-Consolidation_R170992": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Senior-Financial-Analyst--Cloud-FP-A_R167006": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/San-Jose/Senior-Financial-Analyst--Creator-FP-A_R168692": "2026-09-10T23:50:50.226607+00:00",
   "workday:adobe:/job/San-Jose/Senior-Full-Stack-Engineer---Agentic-Product_R170804": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Senior-Global-Business-Manager--Workplace-Strategy---Site-Operations_R169712": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Senior-Global-Total-Rewards-Operations---Project-Manager_R167579": "2026-08-22T23:01:44.903747+00:00",
@@ -2809,6 +2813,7 @@
   "workday:capitalone:/job/McLean-VA/Data-Analysis-Manager---Risk-Product-Data_R247749-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Dealer-Success-Manager-Coach_R248323-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Detection-Engineer--Manager_R1000278-1": "2026-09-10T19:48:29.568704+00:00",
+  "workday:capitalone:/job/McLean-VA/Director--AI-Engineering_R1000377-1": "2026-09-10T23:50:50.226607+00:00",
   "workday:capitalone:/job/McLean-VA/Director--AI-Learning-Enablement_R249928-1": "2026-08-25T14:07:54.006627+00:00",
   "workday:capitalone:/job/McLean-VA/Director--Agency-Closing-Officer_R249523-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Director--Assistant-General-Counsel---Global-Payment-Network--Network-Participant-Risk_R248980-1": "2026-08-22T23:01:44.903747+00:00",
@@ -4796,6 +4801,7 @@
   "workday:capitalone:/job/Riverwoods-IL/Senior-Manager--Software-Engineering--Full-Stack--Global-Payment-Network-_R247196-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Riverwoods-IL/Senior-Manager--Software-Engineering--Full-Stack--Global-Payment-Network-_R247658": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Riverwoods-IL/Senior-Manager--Software-Engineering--Full-Stack_R247425-1": "2026-08-25T19:42:04.234072+00:00",
+  "workday:capitalone:/job/Riverwoods-IL/Senior-Manager--Technical-Program-Management_R1000303-1": "2026-09-10T23:50:50.226607+00:00",
   "workday:capitalone:/job/Riverwoods-IL/Senior-Principal-Payment-Industry-Relations-Manager_R246322": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Riverwoods-IL/Senior-Principal-Payment-Tech-Development-Manager_R246314-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Riverwoods-IL/Senior-Project-Manager--Chief-of-Staff-_R247413-1": "2026-08-22T23:01:44.903747+00:00",
@@ -5000,5 +5006,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00"
  },
- "updated": "2026-09-10T21:59:21.761381+00:00"
+ "updated": "2026-09-10T23:50:50.228888+00:00"
 }
