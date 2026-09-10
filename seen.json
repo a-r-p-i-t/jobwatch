@@ -548,6 +548,13 @@
   "amazon:10535104": "2026-09-09T20:03:09.440357+00:00",
   "amazon:10535555": "2026-09-10T00:29:14.555431+00:00",
   "amazon:10535569": "2026-09-10T00:29:14.555431+00:00",
+  "amazon:10535663": "2026-09-10T05:05:27.513399+00:00",
+  "amazon:10535675": "2026-09-10T05:05:27.513399+00:00",
+  "amazon:10535677": "2026-09-10T05:05:27.513399+00:00",
+  "amazon:10535683": "2026-09-10T05:05:27.513399+00:00",
+  "amazon:10535690": "2026-09-10T05:05:27.513399+00:00",
+  "amazon:10535691": "2026-09-10T05:05:27.513399+00:00",
+  "amazon:10535692": "2026-09-10T05:05:27.513399+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -1340,6 +1347,7 @@
   "greenhouse:stripe:8174316": "2026-09-02T20:25:55.663341+00:00",
   "greenhouse:stripe:8174496": "2026-09-02T20:25:55.663341+00:00",
   "greenhouse:stripe:8174610": "2026-09-03T09:47:52.446467+00:00",
+  "greenhouse:stripe:8174965": "2026-09-10T05:05:27.513399+00:00",
   "greenhouse:stripe:8175099": "2026-09-02T22:45:59.352195+00:00",
   "greenhouse:stripe:8175629": "2026-09-05T12:56:58.797047+00:00",
   "greenhouse:stripe:8175671": "2026-09-04T21:44:02.236208+00:00",
@@ -4892,5 +4900,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00"
  },
- "updated": "2026-09-10T00:29:14.557914+00:00"
+ "updated": "2026-09-10T05:05:29.042148+00:00"
 }
