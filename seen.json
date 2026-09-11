@@ -1415,6 +1415,7 @@
   "greenhouse:stripe:8189909": "2026-09-10T21:59:20.217546+00:00",
   "greenhouse:stripe:8190030": "2026-09-10T19:48:29.568704+00:00",
   "greenhouse:stripe:8194289": "2026-09-10T23:50:50.226607+00:00",
+  "greenhouse:stripe:8194328": "2026-09-11T01:31:45.502010+00:00",
   "workday:adobe:": "2026-08-23T20:43:28.314820+00:00",
   "workday:adobe:/job/Bangalore/AEM-Technical-Architect_R167994": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/AI-Studio---Content-Operations-Lead--GenStudio---Firefly-_R169730-1": "2026-08-22T23:01:44.903747+00:00",
@@ -2313,6 +2314,7 @@
   "workday:adobe:/job/San-Jose/Staff-Data-Scientist---International-Product-Marketing_R169973-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Staff-Machine-Learning-Engineer---ML-Frameworks_R171045": "2026-09-03T00:45:11.705699+00:00",
   "workday:adobe:/job/San-Jose/Staff-Machine-Learning-Engineer_R169998-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/San-Jose/Staff-Machine-Learning-Engineer_R171768": "2026-09-11T01:31:45.502010+00:00",
   "workday:adobe:/job/San-Jose/Staff-Software-Development-Engineer_R169307": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Strategy-and-Business-Operations-Manager_R171412-1": "2026-08-25T20:41:45.774743+00:00",
   "workday:adobe:/job/San-Jose/Supply-Chain-Operations-Lead_R170190-1": "2026-08-22T23:01:44.903747+00:00",
@@ -5006,5 +5008,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00"
  },
- "updated": "2026-09-10T23:50:50.228888+00:00"
+ "updated": "2026-09-11T01:31:45.504452+00:00"
 }
