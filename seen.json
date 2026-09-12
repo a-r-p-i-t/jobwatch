@@ -621,6 +621,8 @@
   "amazon:10537774": "2026-09-11T18:37:56.739475+00:00",
   "amazon:10538207": "2026-09-12T05:53:11.234856+00:00",
   "amazon:10538218": "2026-09-12T09:57:28.674325+00:00",
+  "amazon:10538234": "2026-09-12T18:34:22.206692+00:00",
+  "amazon:10538235": "2026-09-12T18:34:22.206692+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -983,6 +985,7 @@
   "greenhouse:stripe:8001909": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8003129": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8004223": "2026-08-22T23:01:44.903747+00:00",
+  "greenhouse:stripe:8007205": "2026-09-12T18:34:22.206692+00:00",
   "greenhouse:stripe:8007639": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8007692": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8007738": "2026-08-22T23:01:44.903747+00:00",
@@ -5160,5 +5163,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-09-12T16:25:30.856843+00:00"
+ "updated": "2026-09-12T18:34:23.826009+00:00"
 }
