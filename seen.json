@@ -620,6 +620,7 @@
   "amazon:10537753": "2026-09-11T18:37:56.739475+00:00",
   "amazon:10537774": "2026-09-11T18:37:56.739475+00:00",
   "amazon:10538207": "2026-09-12T05:53:11.234856+00:00",
+  "amazon:10538218": "2026-09-12T09:57:28.674325+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -4447,6 +4448,7 @@
   "workday:capitalone:/job/Plano-TX/Lead-Software-Engineer--Back-End_R248203-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Plano-TX/Lead-Software-Engineer--Back-End_R248786-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Plano-TX/Lead-Software-Engineer--Back-End_R249566-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/Plano-TX/Lead-Software-Engineer--DevOps--Network-Automation-_R1000552-1": "2026-09-12T09:57:28.674325+00:00",
   "workday:capitalone:/job/Plano-TX/Lead-Software-Engineer--DevOps_R1000130-1": "2026-09-10T17:18:22.814015+00:00",
   "workday:capitalone:/job/Plano-TX/Lead-Software-Engineer--DevOps_R249734-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Plano-TX/Lead-Software-Engineer--Enterprise-CI-CD--AWS--Python--Groovy-_R999840-1": "2026-09-08T17:27:49.342887+00:00",
@@ -4619,6 +4621,7 @@
   "workday:capitalone:/job/Richmond-VA/Director--Product-Management---Anti-Money-Laundering_R999252": "2026-08-26T21:39:14.716508+00:00",
   "workday:capitalone:/job/Richmond-VA/Director--Product-Management--Capital-One-Software--Remote-_R247133-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Richmond-VA/Director--Product-Management-GRCx_R247717-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/Richmond-VA/Director--Project-Management---Bank-Tech-Operations_R1000506-1": "2026-09-12T09:57:28.674325+00:00",
   "workday:capitalone:/job/Richmond-VA/Director--Project-Management---Partnerships--Hybrid-_R244324-2": "2026-09-02T14:07:07.618351+00:00",
   "workday:capitalone:/job/Richmond-VA/Director-of-Business-Development--Gift-Cards----Capital-One-Ad-Solutions--Remote-_R999698-1": "2026-09-02T05:45:04.053754+00:00",
   "workday:capitalone:/job/Richmond-VA/Distinguished-Engineer---Card-Tech-_R245938-1": "2026-08-22T23:01:44.903747+00:00",
@@ -4832,6 +4835,7 @@
   "workday:capitalone:/job/Richmond-VA/Senior-Manager--Project-Manager---National-Market-Engagement-Leader_R247138-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Richmond-VA/Senior-Manager--Project-Manager_R999842-2": "2026-09-03T13:55:57.192751+00:00",
   "workday:capitalone:/job/Richmond-VA/Senior-Manager--Senior-Counsel---Truth-in-Lending-Act-Reg-Z_R248284-2": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/Richmond-VA/Senior-Manager--Software-Engineering--Back-End--Python--Java--Spark-_R1000234": "2026-09-12T09:57:28.674325+00:00",
   "workday:capitalone:/job/Richmond-VA/Senior-Manager--Software-Engineering--Full-Stack--People-Leader-_R1000073-1": "2026-09-07T22:04:29.677539+00:00",
   "workday:capitalone:/job/Richmond-VA/Senior-Manager--Software-Engineering--Full-Stack_R249766-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Richmond-VA/Senior-Manager--Software-Engineering_R248987-1": "2026-08-22T23:01:44.903747+00:00",
@@ -5156,5 +5160,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-09-12T05:53:12.838250+00:00"
+ "updated": "2026-09-12T09:57:30.233820+00:00"
 }
