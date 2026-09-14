@@ -628,6 +628,11 @@
   "amazon:10538265": "2026-09-13T14:27:22.044470+00:00",
   "amazon:10538278": "2026-09-13T17:32:27.109804+00:00",
   "amazon:10538279": "2026-09-13T17:32:27.109804+00:00",
+  "amazon:10538327": "2026-09-14T07:03:36.349849+00:00",
+  "amazon:10538347": "2026-09-14T07:03:36.349849+00:00",
+  "amazon:10538352": "2026-09-14T07:03:36.349849+00:00",
+  "amazon:10538361": "2026-09-14T07:03:36.349849+00:00",
+  "amazon:10538371": "2026-09-14T07:03:36.349849+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -1492,6 +1497,7 @@
   "greenhouse:stripe:8197891": "2026-09-11T21:17:37.209896+00:00",
   "greenhouse:stripe:8198193": "2026-09-11T23:20:31.858960+00:00",
   "workday:adobe:": "2026-08-23T20:43:28.314820+00:00",
+  "workday:adobe:/job/Austin/Sr-Web-Analytics---Insights-Manager_R171268": "2026-09-14T07:03:36.349849+00:00",
   "workday:adobe:/job/Bangalore/AEM-Technical-Architect_R167994": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/AI-Studio---Content-Operations-Lead--GenStudio---Firefly-_R169730-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/AI-Studio---Creative-Designer--GenStudio---Firefly-_R169477": "2026-08-22T23:01:44.903747+00:00",
@@ -1684,6 +1690,7 @@
   "workday:adobe:/job/Lehi/Senior-Product-Manager--Adobecom-for-business_R170115": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Lehi/Senior-SOAR-Engineer_R171215": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Lehi/Sourcing-Specialist---Corporate-Services_R167251-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/Lehi/Sr-Cloud-Security-Engineer_R171604": "2026-09-14T07:03:36.349849+00:00",
   "workday:adobe:/job/Lehi/Sr-Sales-Operations-Manager_R164092": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Lehi/Sr-Technical-Account-Manager_R171531": "2026-08-29T01:07:34.589604+00:00",
   "workday:adobe:/job/Lehi/Technology-Consultant_R169610": "2026-08-22T23:01:44.903747+00:00",
@@ -2355,6 +2362,7 @@
   "workday:adobe:/job/San-Jose/Software-Development-Engineer_R171047": "2026-09-04T17:03:55.703170+00:00",
   "workday:adobe:/job/San-Jose/Software-Development-Engineer_R171178": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Software-Development-Engineer_R171324-1": "2026-08-24T17:44:13.893394+00:00",
+  "workday:adobe:/job/San-Jose/Software-Development-Engineer_R171675-1": "2026-09-14T07:03:36.349849+00:00",
   "workday:adobe:/job/San-Jose/Software-Engineer---Adobe-Experience-Platform_R160198-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Software-Engineer---Model---Partnerships-Management--Agentic-Builders-Experience-team-_R170139": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Software-Engineer--Android_R165091": "2026-08-22T23:01:44.903747+00:00",
@@ -5169,5 +5177,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-09-14T01:37:27.160832+00:00"
+ "updated": "2026-09-14T07:03:38.048469+00:00"
 }
