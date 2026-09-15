@@ -643,6 +643,9 @@
   "amazon:10539359": "2026-09-14T22:27:15.632825+00:00",
   "amazon:10539710": "2026-09-14T22:27:15.632825+00:00",
   "amazon:10540631": "2026-09-15T00:47:14.331881+00:00",
+  "amazon:10541182": "2026-09-15T05:28:20.488658+00:00",
+  "amazon:10541228": "2026-09-15T05:28:20.488658+00:00",
+  "amazon:10541237": "2026-09-15T05:28:20.488658+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -697,6 +700,7 @@
   "greenhouse:razorpaysoftwareprivatelimited:4731043005": "2026-09-04T09:17:46.289444+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4731060005": "2026-09-09T13:59:03.272618+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4731606005": "2026-09-08T17:27:49.342887+00:00",
+  "greenhouse:razorpaysoftwareprivatelimited:4731620005": "2026-09-15T05:28:20.488658+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4731671005": "2026-09-09T09:50:52.304066+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4731693005": "2026-09-09T05:11:03.115761+00:00",
   "greenhouse:stripe:4921361": "2026-08-22T23:01:44.903747+00:00",
@@ -1566,6 +1570,7 @@
   "workday:adobe:/job/Bangalore/Enterprise-Architect--Martech---AI-_R169933": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/Enterprise-Architect_R169928": "2026-09-03T09:47:52.446467+00:00",
   "workday:adobe:/job/Bangalore/Enterprise-Architect_R169932": "2026-09-02T09:57:44.347014+00:00",
+  "workday:adobe:/job/Bangalore/Financial-Analyst-2_R171825-1": "2026-09-15T05:28:20.488658+00:00",
   "workday:adobe:/job/Bangalore/Financial-Analyst_R169978": "2026-09-09T09:50:52.304066+00:00",
   "workday:adobe:/job/Bangalore/Information-Security-Analyst_R171091": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/Intern---Returnship---RMO_R171621": "2026-09-02T17:53:00.246050+00:00",
@@ -1575,6 +1580,7 @@
   "workday:adobe:/job/Bangalore/Machine-Learning-Engineer-4_R168142-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/Machine-Learning-Engineer-4_R170857": "2026-08-24T05:56:30.825132+00:00",
   "workday:adobe:/job/Bangalore/Machine-Learning-Engineer_R170782": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/Bangalore/Manager--Sales-Commission-Ops_R171647-1": "2026-09-15T05:28:20.488658+00:00",
   "workday:adobe:/job/Bangalore/Marketing-Specialist_R169083": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/Marketing-Specialist_R169793": "2026-08-25T05:46:31.483609+00:00",
   "workday:adobe:/job/Bangalore/Member-of-Technical-Staff---II---C----_R171475-1": "2026-08-31T15:26:17.493332+00:00",
@@ -2591,6 +2597,7 @@
   "workday:capitalone:/job/Baltimore-MD/Dealer-Success-Manager_R1000375-1": "2026-09-10T21:59:20.217546+00:00",
   "workday:capitalone:/job/Baltimore-MD/Full-Time-Branch-Ambassador---Eastern-Maryland--North-Cluster-_R248155": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Bangalore-In/Accounting--Audit-and-Tax-Manager_R247703": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/Bangalore-In/Associate--Executive-Assistant_R1000342": "2026-09-15T05:28:20.488658+00:00",
   "workday:capitalone:/job/Bangalore-In/Director---HR-Operations-and-Risk_R249605": "2026-09-07T09:41:04.972179+00:00",
   "workday:capitalone:/job/Bangalore-In/Director--HR-Business-Partner_R249598-1": "2026-09-07T09:41:04.972179+00:00",
   "workday:capitalone:/job/Bangalore-In/Distinguished-AI-Engineer_R242789-1": "2026-08-22T23:01:44.903747+00:00",
@@ -5251,5 +5258,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-09-15T00:47:14.334440+00:00"
+ "updated": "2026-09-15T05:28:22.679872+00:00"
 }
