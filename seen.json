@@ -712,6 +712,8 @@
   "amazon:10546160": "2026-09-16T17:44:24.806227+00:00",
   "amazon:10546176": "2026-09-16T17:44:24.806227+00:00",
   "amazon:10546223": "2026-09-16T17:44:24.806227+00:00",
+  "amazon:10547088": "2026-09-16T20:27:52.023821+00:00",
+  "amazon:10547114": "2026-09-16T20:27:52.023821+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -1595,6 +1597,7 @@
   "greenhouse:stripe:8190050": "2026-09-14T19:02:18.932773+00:00",
   "greenhouse:stripe:8191248": "2026-09-14T22:27:15.632825+00:00",
   "greenhouse:stripe:8191714": "2026-09-15T21:54:32.550397+00:00",
+  "greenhouse:stripe:8191716": "2026-09-16T20:27:52.023821+00:00",
   "greenhouse:stripe:8191718": "2026-09-15T21:54:32.550397+00:00",
   "greenhouse:stripe:8191720": "2026-09-14T19:02:18.932773+00:00",
   "greenhouse:stripe:8194289": "2026-09-10T23:50:50.226607+00:00",
@@ -1622,6 +1625,8 @@
   "greenhouse:stripe:8204645": "2026-09-16T02:57:58.214717+00:00",
   "greenhouse:stripe:8205278": "2026-09-15T23:55:35.320675+00:00",
   "greenhouse:stripe:8205280": "2026-09-15T21:54:32.550397+00:00",
+  "greenhouse:stripe:8206733": "2026-09-16T20:27:52.023821+00:00",
+  "greenhouse:stripe:8209337": "2026-09-16T20:27:52.023821+00:00",
   "workday:adobe:": "2026-08-23T20:43:28.314820+00:00",
   "workday:adobe:/job/Arnhem/Senior-Software-Engineer---Rendering-Architecture_R170479": "2026-09-15T15:05:34.910708+00:00",
   "workday:adobe:/job/Austin/Sr-Web-Analytics---Insights-Manager_R171268": "2026-09-14T07:03:36.349849+00:00",
@@ -2394,6 +2399,7 @@
   "workday:adobe:/job/San-Jose/Senior-Applied-Scientist_R169113-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Senior-Backend-Engineer---Cloud-Platform_R168509": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Senior-Build-Systems---Pipeline-Engineer_R169413-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/San-Jose/Senior-Business-Consultant---Content-Supply-Chain_R171927": "2026-09-16T20:27:52.023821+00:00",
   "workday:adobe:/job/San-Jose/Senior-Business-Operations-Manager_R171154": "2026-08-24T07:46:33.895027+00:00",
   "workday:adobe:/job/San-Jose/Senior-Compensation-Program-Manager--Pay-Strategy---Compliance_R170563-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Senior-Computer-Scientist_R171168": "2026-08-22T23:01:44.903747+00:00",
@@ -3561,6 +3567,7 @@
   "workday:capitalone:/job/McLean-VA/Manager--Product-Management---Workforce---Intelligent-Routing-Data-Product-Manager_R247851-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Product-Management--Associate-Experience_R246340-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Product-Management--Card-Core-Data-Consumption_R248348-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Manager--Product-Management--Card-Data_R1000854-1": "2026-09-16T20:27:52.023821+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Product-Management--Card-Intelligence_R249851-2": "2026-09-09T20:03:09.440357+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Product-Management--Customer-Core-and-Identity_R246429": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Product-Management--Developer-Experience_R246468-1": "2026-08-22T23:01:44.903747+00:00",
@@ -5417,6 +5424,7 @@
   "workday:capitalone:/job/West-Palm-Beach-FL/Dealer-Success-Manager---Palm-Beach--Boca-Raton-and-Pompano-Beach--FL_R249693-1": "2026-08-24T17:44:13.893394+00:00",
   "workday:capitalone:/job/White-Plains-NY/Part-Time-Branch-Ambassador--White-Plains_R246768-1": "2026-09-03T17:28:34.832945+00:00",
   "workday:capitalone:/job/White-Plains-NY/Part-Time-Branch-Ambassador-Bronx-Area_R244197-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/Whitestone-NY/Full-Time-Branch-Ambassador---Clearview_R1000802-1": "2026-09-16T20:27:52.023821+00:00",
   "workday:capitalone:/job/Whitestone-NY/Market-Manager---Queens_R249825-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Williston-Park-NY/Part-Time-Branch-Ambassador---Williston-Park_R999900-2": "2026-09-03T20:03:08.133792+00:00",
   "workday:capitalone:/job/Wilmington-DE/Accounting-Manager--Close---Consolidations_R234768-1": "2026-08-22T23:01:44.903747+00:00",
@@ -5431,5 +5439,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-09-16T17:44:27.771449+00:00"
+ "updated": "2026-09-16T20:27:53.532155+00:00"
 }
