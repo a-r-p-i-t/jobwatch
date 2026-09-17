@@ -1622,6 +1622,7 @@
   "greenhouse:stripe:8201700": "2026-09-14T19:02:18.932773+00:00",
   "greenhouse:stripe:8202831": "2026-09-15T15:05:34.910708+00:00",
   "greenhouse:stripe:8203214": "2026-09-15T18:56:24.776768+00:00",
+  "greenhouse:stripe:8203218": "2026-09-17T01:23:56.800930+00:00",
   "greenhouse:stripe:8203423": "2026-09-15T21:54:32.550397+00:00",
   "greenhouse:stripe:8204227": "2026-09-15T18:56:24.776768+00:00",
   "greenhouse:stripe:8204645": "2026-09-16T02:57:58.214717+00:00",
@@ -3551,6 +3552,7 @@
   "workday:capitalone:/job/McLean-VA/Manager--Product-Management---Card-Payments-Team_R999496-1": "2026-09-01T18:15:25.861273+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Product-Management---Commercial-Banking_R249786-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Product-Management---Commercial-Card--Business-Cards---Payments-_R247367-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Manager--Product-Management---Consumer---Developer-Experience_R1000871-1": "2026-09-17T01:23:56.800930+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Product-Management---Consumer-Experience---MarTech_R246331-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Product-Management---CreditWise_R1000243": "2026-09-10T19:48:29.568704+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Product-Management---Customer-Assist-Observability_R246767-1": "2026-08-22T23:01:44.903747+00:00",
@@ -3819,6 +3821,7 @@
   "workday:capitalone:/job/McLean-VA/Senior-Associate--Product-Management---Commercial-Banking-Data_R247420-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Associate--Product-Management---Commercial-Lending_R1000185-2": "2026-09-08T22:36:39.375351+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Associate--Product-Management---CreditWise_R248707-2": "2026-08-29T01:07:34.589604+00:00",
+  "workday:capitalone:/job/McLean-VA/Senior-Associate--Product-Management---Customer-Resiliency--Payments-and-Offers-Capabilities_R1000868-2": "2026-09-17T01:23:56.800930+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Associate--Product-Management---Document-Intelligence---Ontology_R247092-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Associate--Product-Management---Enterprise-Core-Platform_R246363-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Associate--Product-Management---Partnerships-Marketing---Benefits_R247221-1": "2026-08-22T23:01:44.903747+00:00",
@@ -4047,6 +4050,7 @@
   "workday:capitalone:/job/McLean-VA/Senior-Manager--Product-Management----Governance--Risk--and-Compliance_R248437-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Manager--Product-Management---AI-ML_R246566": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Manager--Product-Management---Business-Cards---Payments_R246490-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Senior-Manager--Product-Management---Consumer---Developer-Experience_R1000872-1": "2026-09-17T01:23:56.800930+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Manager--Product-Management---Consumer-Experience---MarTech_R246336-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Manager--Product-Management---Consumer-and-Developer-Experience_R1000451-1": "2026-09-11T06:37:12.886228+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Manager--Product-Management---Correspondence-Platform_R248945-1": "2026-08-22T23:01:44.903747+00:00",
@@ -5448,5 +5452,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-09-16T23:10:25.203992+00:00"
+ "updated": "2026-09-17T01:23:56.802855+00:00"
 }
