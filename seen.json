@@ -753,6 +753,9 @@
   "amazon:10552765": "2026-09-17T22:27:38.984214+00:00",
   "amazon:10552766": "2026-09-17T22:27:38.984214+00:00",
   "amazon:10552767": "2026-09-17T22:27:38.984214+00:00",
+  "amazon:10553017": "2026-09-18T05:10:35.431964+00:00",
+  "amazon:10553121": "2026-09-18T05:10:35.431964+00:00",
+  "amazon:10553146": "2026-09-18T05:10:35.431964+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -1640,6 +1643,7 @@
   "greenhouse:stripe:8187278": "2026-09-09T00:33:44.270611+00:00",
   "greenhouse:stripe:8187566": "2026-09-17T16:16:52.012104+00:00",
   "greenhouse:stripe:8187570": "2026-09-14T22:27:15.632825+00:00",
+  "greenhouse:stripe:8187578": "2026-09-18T05:10:35.431964+00:00",
   "greenhouse:stripe:8187580": "2026-09-10T23:50:50.226607+00:00",
   "greenhouse:stripe:8188321": "2026-09-11T18:37:56.739475+00:00",
   "greenhouse:stripe:8189012": "2026-09-16T17:44:24.806227+00:00",
@@ -1788,6 +1792,8 @@
   "workday:adobe:/job/Bangalore/Senior-Technical-Consultant_R171578": "2026-09-02T09:57:44.347014+00:00",
   "workday:adobe:/job/Bangalore/Software-Development-Engineer--Full-Stack--AI-Agents----Developer-Platforms_R170396": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/Software-Development-Engineer-2_R169518": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/Bangalore/Software-Development-Engineer-3---Java_R171822": "2026-09-18T05:10:35.431964+00:00",
+  "workday:adobe:/job/Bangalore/Software-Development-Engineer-3---Microsoft-Dynamics-Developer_R171858": "2026-09-18T05:10:35.431964+00:00",
   "workday:adobe:/job/Bangalore/Software-Development-Engineer-4_R168948-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/Software-Development-Engineer-4_R170532": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/Software-Development-Engineer_R170239-1": "2026-08-22T23:01:44.903747+00:00",
@@ -3237,6 +3243,7 @@
   "workday:capitalone:/job/McLean-VA/Director--Product-Management---Corporate-Development-Integration_R999109-1": "2026-08-25T19:01:30.899663+00:00",
   "workday:capitalone:/job/McLean-VA/Director--Product-Management---Developer-Experience---Secure-Foundations-Platform_R248899-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Director--Product-Management---Enterprise-Product---Experience_R246453-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Director--Product-Management---Enterprise-Services---Supplier-Product--Risk---Operations_R1000966-1": "2026-09-18T05:10:35.431964+00:00",
   "workday:capitalone:/job/McLean-VA/Director--Product-Management---Network-Product-and-Platforms_R247488-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Director--Product-Management---Premium-Products---Experiences_R249617": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Director--Product-Management---Security---Data-Intelligence-Solutions_R248012-2": "2026-08-22T23:01:44.903747+00:00",
@@ -4000,6 +4007,7 @@
   "workday:capitalone:/job/McLean-VA/Senior-Director--Process-Management--Workforce-Operations---Enablement--Hybrid-_R244838-2": "2026-08-25T02:00:06.262195+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Director--Product-Design--Small-Business-Bank_R243362": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Director--Product-Management----Consumer---Developer-Experience_R1000016-1": "2026-09-04T17:03:55.703170+00:00",
+  "workday:capitalone:/job/McLean-VA/Senior-Director--Product-Management---Enterprise-Services---Supplier-Product--Risk---Operations_R1000967-1": "2026-09-18T05:10:35.431964+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Director--Product-Management--Consumer-Developer-Experience_R247434-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Director--Product-Management--Customer-Contactability_R249099-1": "2026-09-17T16:16:52.012104+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Director--Product-Management--Global-Payment-Network_R1000410-1": "2026-09-10T21:59:20.217546+00:00",
@@ -5554,5 +5562,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-09-18T00:38:08.359182+00:00"
+ "updated": "2026-09-18T05:10:36.920228+00:00"
 }
