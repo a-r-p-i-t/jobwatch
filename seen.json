@@ -812,6 +812,17 @@
   "amazon:10555145": "2026-09-21T19:21:31.441584+00:00",
   "amazon:10555256": "2026-09-21T19:21:31.441584+00:00",
   "amazon:10555707": "2026-09-22T01:14:38.414286+00:00",
+  "amazon:10555722": "2026-09-22T06:18:55.437658+00:00",
+  "amazon:10555723": "2026-09-22T06:18:55.437658+00:00",
+  "amazon:10555732": "2026-09-22T06:18:55.437658+00:00",
+  "amazon:10555745": "2026-09-22T06:18:55.437658+00:00",
+  "amazon:10555747": "2026-09-22T06:18:55.437658+00:00",
+  "amazon:10555748": "2026-09-22T06:18:55.437658+00:00",
+  "amazon:10555749": "2026-09-22T06:18:55.437658+00:00",
+  "amazon:10555750": "2026-09-22T06:18:55.437658+00:00",
+  "amazon:10555771": "2026-09-22T06:18:55.437658+00:00",
+  "amazon:10555782": "2026-09-22T06:18:55.437658+00:00",
+  "amazon:10555783": "2026-09-22T06:18:55.437658+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -1711,6 +1722,7 @@
   "greenhouse:stripe:8187278": "2026-09-09T00:33:44.270611+00:00",
   "greenhouse:stripe:8187566": "2026-09-17T16:16:52.012104+00:00",
   "greenhouse:stripe:8187570": "2026-09-14T22:27:15.632825+00:00",
+  "greenhouse:stripe:8187572": "2026-09-22T06:18:55.437658+00:00",
   "greenhouse:stripe:8187578": "2026-09-18T05:10:35.431964+00:00",
   "greenhouse:stripe:8187580": "2026-09-10T23:50:50.226607+00:00",
   "greenhouse:stripe:8188088": "2026-09-21T14:04:08.616912+00:00",
@@ -1893,6 +1905,7 @@
   "workday:adobe:/job/Bangalore/Software-Development-Engineer_R171363": "2026-08-27T11:10:03.380523+00:00",
   "workday:adobe:/job/Bangalore/Software-Development-Engineer_R171850": "2026-09-18T13:54:40.240160+00:00",
   "workday:adobe:/job/Bangalore/Software-Engineer-3_R165330-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/Bangalore/Software-Quality-Engineer-5_R171821": "2026-09-22T06:18:55.437658+00:00",
   "workday:adobe:/job/Bangalore/Solutions-Architect_R165615": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/Solutions-Consultant-3_R168355-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/Sr-Computer-Scientist--Data-Platform-Engineer-_R166812": "2026-08-22T23:01:44.903747+00:00",
@@ -2195,6 +2208,7 @@
   "workday:adobe:/job/Noida/Talent-Operations-Lead_R171325-1": "2026-09-15T15:05:34.910708+00:00",
   "workday:adobe:/job/Noida/Technical-Product-Consultant-2_R171383": "2026-08-27T11:10:03.380523+00:00",
   "workday:adobe:/job/Noida/Technical-Support-Engineer_R171388": "2026-08-24T05:11:28.903629+00:00",
+  "workday:adobe:/job/Noida/XMLNAME-2026-University-Graduate---Technical-Product-Consultant_R159821": "2026-09-22T06:18:55.437658+00:00",
   "workday:adobe:/job/Ottawa/Technology-Consultant_R168536-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Paris/Deal-Desk-Analyst_R169813": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Paris/Deal-Desk-Analyst_R170306-1": "2026-09-16T13:35:20.848849+00:00",
@@ -5900,5 +5914,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-09-22T01:14:40.583251+00:00"
+ "updated": "2026-09-22T06:18:58.806473+00:00"
 }
