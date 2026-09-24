@@ -905,6 +905,10 @@
   "amazon:10558329": "2026-09-23T21:47:58.456873+00:00",
   "amazon:10558348": "2026-09-23T21:47:58.456873+00:00",
   "amazon:10558453": "2026-09-24T00:01:05.177660+00:00",
+  "amazon:10558482": "2026-09-24T04:32:22.178601+00:00",
+  "amazon:10558494": "2026-09-24T04:32:22.178601+00:00",
+  "amazon:10558698": "2026-09-24T04:32:22.178601+00:00",
+  "amazon:10558699": "2026-09-24T04:32:22.178601+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -1310,6 +1314,7 @@
   "greenhouse:stripe:8014859": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8014898": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8014995": "2026-08-22T23:01:44.903747+00:00",
+  "greenhouse:stripe:8016504": "2026-09-24T04:32:22.178601+00:00",
   "greenhouse:stripe:8016510": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8017084": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8018297": "2026-08-22T23:01:44.903747+00:00",
@@ -3503,6 +3508,7 @@
   "workday:capitalone:/job/McLean-VA/Capital-One-Shopping-Tech--Staff-Full-Stack-Engineer--Technical-Chief-of-Staff--Remote---Eligible-_R1001157": "2026-09-20T14:01:35.421219+00:00",
   "workday:capitalone:/job/McLean-VA/Card-Vertical-Risk-Manager--Card-Data---Principal-Associate_R242668-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Chief-of-Staff--Project-Manager_R249213-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Cloud-Engineer-4---Cloud-Security-for-Multi-Cloud---Cloud-Operations-Resilience-Engineering-_R1001691-1": "2026-09-24T04:32:22.178601+00:00",
   "workday:capitalone:/job/McLean-VA/Cloud-Engineer-5_R1001243-1": "2026-09-22T15:46:41.456034+00:00",
   "workday:capitalone:/job/McLean-VA/Commercial-Executive-Communications-Manager_R1000947-1": "2026-09-18T17:26:32.407779+00:00",
   "workday:capitalone:/job/McLean-VA/Commercial-Executive-Communications-Senior-Associate_R1000946": "2026-09-18T17:26:32.407779+00:00",
@@ -6288,5 +6294,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-09-24T00:01:06.709582+00:00"
+ "updated": "2026-09-24T04:32:24.517127+00:00"
 }
