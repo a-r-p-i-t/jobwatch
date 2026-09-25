@@ -940,6 +940,10 @@
   "amazon:10559286": "2026-09-24T18:32:08.394181+00:00",
   "amazon:10559319": "2026-09-24T18:32:08.394181+00:00",
   "amazon:10559372": "2026-09-24T18:32:08.394181+00:00",
+  "amazon:10560114": "2026-09-25T04:49:48.268236+00:00",
+  "amazon:10560119": "2026-09-25T04:49:48.268236+00:00",
+  "amazon:10560146": "2026-09-25T04:49:48.268236+00:00",
+  "amazon:10560154": "2026-09-25T04:49:48.268236+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -1972,6 +1976,7 @@
   "greenhouse:stripe:8226893": "2026-09-23T18:40:46.433055+00:00",
   "greenhouse:stripe:8227572": "2026-09-24T21:45:59.292227+00:00",
   "greenhouse:stripe:8230300": "2026-09-24T18:32:08.394181+00:00",
+  "greenhouse:stripe:8230564": "2026-09-25T04:49:48.268236+00:00",
   "greenhouse:stripe:8230758": "2026-09-24T18:32:08.394181+00:00",
   "greenhouse:stripe:8230952": "2026-09-24T18:32:08.394181+00:00",
   "workday:adobe:": "2026-08-23T20:43:28.314820+00:00",
@@ -4753,6 +4758,7 @@
   "workday:capitalone:/job/McLean-VA/Senior-Manager--Product-Management---AI-ML_R246566": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Manager--Product-Management---Business-Cards---Payments_R246490-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Manager--Product-Management---Chat-Servicing-Expansion_R248725-2": "2026-09-18T22:12:09.373735+00:00",
+  "workday:capitalone:/job/McLean-VA/Senior-Manager--Product-Management---Cloud-Runtimes---Operations-Enterprise--CORE-_R1002117-1": "2026-09-25T04:49:48.268236+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Manager--Product-Management---Consumer---Developer-Experience_R1000872-1": "2026-09-17T01:23:56.800930+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Manager--Product-Management---Consumer-Experience---MarTech_R246336-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Manager--Product-Management---Consumer-and-Developer-Experience_R1000451-1": "2026-09-11T06:37:12.886228+00:00",
@@ -6455,5 +6461,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-09-25T00:03:16.473371+00:00"
+ "updated": "2026-09-25T04:49:50.557949+00:00"
 }
