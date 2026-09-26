@@ -1915,6 +1915,7 @@
   "greenhouse:stripe:8189805": "2026-09-12T01:15:04.478178+00:00",
   "greenhouse:stripe:8189909": "2026-09-10T21:59:20.217546+00:00",
   "greenhouse:stripe:8190030": "2026-09-10T19:48:29.568704+00:00",
+  "greenhouse:stripe:8190036": "2026-09-26T00:40:05.370806+00:00",
   "greenhouse:stripe:8190042": "2026-09-25T22:16:15.521356+00:00",
   "greenhouse:stripe:8190048": "2026-09-11T21:17:37.209896+00:00",
   "greenhouse:stripe:8190050": "2026-09-14T19:02:18.932773+00:00",
@@ -3313,6 +3314,7 @@
   "workday:capitalone:/job/Chicago-IL/Caf-Coach---Hyde-Park_R247275-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Chicago-IL/Data-Analyst-Manager---Model-Risk-Office_R244460-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Chicago-IL/Data-Engineer-4_R1001533-2": "2026-09-22T11:50:36.625357+00:00",
+  "workday:capitalone:/job/Chicago-IL/Data-Engineer-4_R1001811-1": "2026-09-26T00:40:05.370806+00:00",
   "workday:capitalone:/job/Chicago-IL/Digital-Banking-Ambassador--Chicago-Area_R247971": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Chicago-IL/Digital-Banking-Specialist--Chicago-Area_R247972-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Chicago-IL/Director-of-Software-Engineering_R245105-1": "2026-08-22T23:01:44.903747+00:00",
@@ -3844,6 +3846,7 @@
   "workday:capitalone:/job/McLean-VA/Full-Stack-Engineer-4_R1001756": "2026-09-22T22:15:00.032519+00:00",
   "workday:capitalone:/job/McLean-VA/Full-Stack-Engineer-4_R1001776-1": "2026-09-24T18:32:08.394181+00:00",
   "workday:capitalone:/job/McLean-VA/Full-Stack-Engineer-4_R1001794-2": "2026-09-23T18:40:46.433055+00:00",
+  "workday:capitalone:/job/McLean-VA/Full-Stack-Engineer-4_R1001808-2": "2026-09-26T00:40:05.370806+00:00",
   "workday:capitalone:/job/McLean-VA/Full-Stack-Engineer-4_R1002070-1": "2026-09-24T21:45:59.292227+00:00",
   "workday:capitalone:/job/McLean-VA/Full-Stack-Engineer-5--ATM-_R1001142-1": "2026-09-21T19:21:31.441584+00:00",
   "workday:capitalone:/job/McLean-VA/Full-Stack-Engineer-5_R1001747-1": "2026-09-22T22:15:00.032519+00:00",
@@ -6315,6 +6318,7 @@
   "workday:capitalone:/job/San-Francisco--CA/AI-Engineer-4--Gen-AI-Platform-Services--Agentic-AI--Agent-Guardrails--Agent-Evaluation--Agent-Memory-_R1001053-1": "2026-09-18T17:26:32.407779+00:00",
   "workday:capitalone:/job/San-Francisco--CA/AI-Engineer-5--Gen-AI-Platform-Services---Agentic-Systems-_R1001196-1": "2026-09-18T22:12:09.373735+00:00",
   "workday:capitalone:/job/San-Francisco--CA/AI-Engineer-5--Gen-AI-Platform-Services-_R1001185-1": "2026-09-18T22:12:09.373735+00:00",
+  "workday:capitalone:/job/San-Francisco--CA/Director--AI-Engineer--Remote-Eligible-_R1002269": "2026-09-26T00:40:05.370806+00:00",
   "workday:capitalone:/job/San-Francisco--CA/Director--Technical-Program-Management_R245250-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/San-Francisco--CA/Distinguished-AI-Engineer--Agentic-AI-Platform-_R244764-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/San-Francisco--CA/Distinguished-AI-Engineer--Remote-Eligible-_R248996": "2026-08-22T23:01:44.903747+00:00",
@@ -6339,6 +6343,7 @@
   "workday:capitalone:/job/San-Francisco--CA/Sr-Director--AI-Engineering_R243350-1": "2026-08-28T05:20:30.138909+00:00",
   "workday:capitalone:/job/San-Francisco--CA/Sr-Director--Technical-Program-Management----Remote-Eligible-_R999316-1": "2026-08-27T21:01:42.333508+00:00",
   "workday:capitalone:/job/San-Francisco--CA/Sr-Distinguished-AI-Engineer--Remote-Eligible-_R245912-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/San-Francisco--CA/Sr-Staff-AI-Engineer--Remote-Eligible-_R1002270-1": "2026-09-26T00:40:05.370806+00:00",
   "workday:capitalone:/job/San-Francisco--CA/Sr-Staff-Software-Engineer---Card-Tech_R1001393-1": "2026-09-24T21:45:59.292227+00:00",
   "workday:capitalone:/job/San-Francisco--CA/Sr-Staff-Software-Engineer---Card-Tech_R1001890-1": "2026-09-23T18:40:46.433055+00:00",
   "workday:capitalone:/job/San-Francisco--CA/Sr-Staff-Software-Engineer---Card-Tech_R999493-1": "2026-09-01T21:06:15.859499+00:00",
@@ -6585,5 +6590,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-09-25T22:16:17.085778+00:00"
+ "updated": "2026-09-26T00:40:05.373667+00:00"
 }
