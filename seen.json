@@ -1082,6 +1082,16 @@
   "amazon:10565804": "2026-09-30T19:26:07.112536+00:00",
   "amazon:10566200": "2026-10-01T02:05:23.086835+00:00",
   "amazon:10566206": "2026-10-01T02:05:23.086835+00:00",
+  "amazon:10566295": "2026-10-01T08:48:44.576609+00:00",
+  "amazon:10566303": "2026-10-01T08:48:44.576609+00:00",
+  "amazon:10566304": "2026-10-01T08:48:44.576609+00:00",
+  "amazon:10566312": "2026-10-01T08:48:44.576609+00:00",
+  "amazon:10566315": "2026-10-01T08:48:44.576609+00:00",
+  "amazon:10566329": "2026-10-01T08:48:44.576609+00:00",
+  "amazon:10566339": "2026-10-01T08:48:44.576609+00:00",
+  "amazon:10566340": "2026-10-01T08:48:44.576609+00:00",
+  "amazon:10566341": "2026-10-01T08:48:44.576609+00:00",
+  "amazon:10566370": "2026-10-01T08:48:44.576609+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -1161,6 +1171,7 @@
   "greenhouse:razorpaysoftwareprivatelimited:4737923005": "2026-09-28T15:55:15.687105+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4738319005": "2026-09-29T13:53:34.094631+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4738327005": "2026-09-29T06:59:25.628528+00:00",
+  "greenhouse:razorpaysoftwareprivatelimited:4739199005": "2026-10-01T08:48:44.576609+00:00",
   "greenhouse:stripe:4921361": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:5416444": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:5423044": "2026-08-22T23:01:44.903747+00:00",
@@ -2917,6 +2928,7 @@
   "workday:adobe:/job/San-Jose/Information-Retrieval-Engineer_R158293": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Information-Security-GRC-Analyst-4_R170515": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Intellectual-Property-Attorney_R170721": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/San-Jose/Internal-Product-Manager-4_R171772": "2026-10-01T08:48:44.576609+00:00",
   "workday:adobe:/job/San-Jose/Internal-Product-Manager-5_R167876": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Internal-Product-Manager-5_R171158": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/International-Tax-Manager--Tax-Operations_R171314": "2026-08-24T23:29:54.141034+00:00",
@@ -3299,6 +3311,7 @@
   "workday:adobe:/job/Stockholm/Technical-Account-Manager_R171862": "2026-09-17T11:57:27.606327+00:00",
   "workday:adobe:/job/Sydney/ACS-Account-Executive_R171557": "2026-09-02T09:57:44.347014+00:00",
   "workday:adobe:/job/Sydney/AI-Architect_R170388": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/Sydney/Deal-Desk-Analyst_R172071": "2026-10-01T08:48:44.576609+00:00",
   "workday:adobe:/job/Sydney/Security-Compliance-Specialist_R171307": "2026-08-25T23:02:56.031080+00:00",
   "workday:adobe:/job/Sydney/Senior-Media-Planner_R171613-1": "2026-09-16T08:19:56.827770+00:00",
   "workday:adobe:/job/Sydney/Technical-Account-Manager_R170243": "2026-08-22T23:01:44.903747+00:00",
@@ -7056,5 +7069,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-10-01T02:05:23.089665+00:00"
+ "updated": "2026-10-01T08:48:46.054665+00:00"
 }
