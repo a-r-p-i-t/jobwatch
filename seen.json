@@ -1080,6 +1080,8 @@
   "amazon:10565693": "2026-09-30T19:26:07.112536+00:00",
   "amazon:10565754": "2026-09-30T19:26:07.112536+00:00",
   "amazon:10565804": "2026-09-30T19:26:07.112536+00:00",
+  "amazon:10566200": "2026-10-01T02:05:23.086835+00:00",
+  "amazon:10566206": "2026-10-01T02:05:23.086835+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -1163,6 +1165,7 @@
   "greenhouse:stripe:5416444": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:5423044": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:5601879": "2026-09-30T19:26:07.112536+00:00",
+  "greenhouse:stripe:5601881": "2026-10-01T02:05:23.086835+00:00",
   "greenhouse:stripe:5895430": "2026-09-29T19:05:37.710301+00:00",
   "greenhouse:stripe:6042172": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:6176758": "2026-08-22T23:01:44.903747+00:00",
@@ -2699,6 +2702,7 @@
   "workday:adobe:/job/San-Francisco/Director-of-Product-Marketing_R171053-1": "2026-08-27T21:01:42.333508+00:00",
   "workday:adobe:/job/San-Francisco/Executive-Assistant--Adobe-Creative_R172099": "2026-09-23T21:47:58.456873+00:00",
   "workday:adobe:/job/San-Francisco/Executive-Assistant-4_R171050-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/San-Francisco/Executive-Assistant_R171159": "2026-10-01T02:05:23.086835+00:00",
   "workday:adobe:/job/San-Francisco/Executive-Creative-Producer_R171608": "2026-09-09T00:33:44.270611+00:00",
   "workday:adobe:/job/San-Francisco/Financial-Analyst-4_R169582-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Francisco/Firefly-Foundry-Field-CTO--Brands---Agency_R168682": "2026-09-18T09:44:12.117930+00:00",
@@ -4933,6 +4937,7 @@
   "workday:capitalone:/job/McLean-VA/Senior-Associate-Product-Management---Machine-Learning-and-AI_R247339-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Associate-Product-Manager---Data--Models--Decisioning---Credit_R246581-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Associate-Product-Manager---US-Card-Core-Platforms---Servicing_R246413-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Senior-Auditor---Bank-and-Support-Functions_R1002485-1": "2026-10-01T02:05:23.086835+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Auditor---Dynamic-Audit-Resourcing-Team_R999523-1": "2026-09-01T14:59:05.453156+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Business-Analysis-Manager--Capital-One-Shopping--Remote-Eligible-_R239202-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Business-Analyst---AI-Strategy---Tooling_R1000039-1": "2026-09-08T17:27:49.342887+00:00",
@@ -5572,6 +5577,7 @@
   "workday:capitalone:/job/New-York-NY/Full-Stack-Engineer-4_R1001188-1": "2026-09-21T19:21:31.441584+00:00",
   "workday:capitalone:/job/New-York-NY/Full-Stack-Engineer-4_R1002025-1": "2026-09-24T18:32:08.394181+00:00",
   "workday:capitalone:/job/New-York-NY/Full-Stack-Engineer-4_R1002055-1": "2026-09-25T19:07:25.054414+00:00",
+  "workday:capitalone:/job/New-York-NY/Full-Stack-Engineer-4_R1002498-1": "2026-10-01T02:05:23.086835+00:00",
   "workday:capitalone:/job/New-York-NY/Full-Stack-Engineer-5_R1001937-1": "2026-09-24T21:45:59.292227+00:00",
   "workday:capitalone:/job/New-York-NY/Full-Time-Branch-Ambassador---NYC_R247750-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/New-York-NY/Full-Time-Branch-Ambassador--Harlem_R999952-1": "2026-09-03T22:31:42.378390+00:00",
@@ -7050,5 +7056,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-09-30T23:08:05.060058+00:00"
+ "updated": "2026-10-01T02:05:23.089665+00:00"
 }
