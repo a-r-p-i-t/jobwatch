@@ -1118,6 +1118,10 @@
   "amazon:10567110": "2026-10-01T20:34:52.800353+00:00",
   "amazon:10567111": "2026-10-01T20:34:52.800353+00:00",
   "amazon:10567127": "2026-10-01T20:34:52.800353+00:00",
+  "amazon:10567578": "2026-10-02T05:33:21.641998+00:00",
+  "amazon:10567650": "2026-10-02T05:33:21.641998+00:00",
+  "amazon:10567651": "2026-10-02T05:33:21.641998+00:00",
+  "amazon:10567652": "2026-10-02T05:33:21.641998+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -2230,6 +2234,7 @@
   "greenhouse:stripe:8241260": "2026-09-30T19:26:07.112536+00:00",
   "greenhouse:stripe:8241304": "2026-10-01T15:44:18.273299+00:00",
   "greenhouse:stripe:8241342": "2026-09-29T22:56:50.428542+00:00",
+  "greenhouse:stripe:8241855": "2026-10-02T05:33:21.641998+00:00",
   "greenhouse:stripe:8245584": "2026-10-01T15:44:18.273299+00:00",
   "greenhouse:stripe:8245638": "2026-10-01T20:34:52.800353+00:00",
   "greenhouse:stripe:8248207": "2026-10-02T00:10:27.962490+00:00",
@@ -4071,6 +4076,8 @@
   "workday:capitalone:/job/McLean-VA/Director--Technical-Program-Management---Risk-Tech_R247881-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Director--Technical-Program-Management--EPTech-_R247449-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Director--Technical-Program-Management_R1001686-1": "2026-09-22T22:15:00.032519+00:00",
+  "workday:capitalone:/job/McLean-VA/Director--Technical-Program-Management_R1002716-1": "2026-10-02T05:33:21.641998+00:00",
+  "workday:capitalone:/job/McLean-VA/Director--Technical-Program-Management_R1002717-1": "2026-10-02T05:33:21.641998+00:00",
   "workday:capitalone:/job/McLean-VA/Director--Technical-Program-Management_R247556-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Director--Technical-Program-Management_R249510": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Director--Technical-Program-Manager---Bank-Tech_R243753-1": "2026-08-22T23:01:44.903747+00:00",
@@ -4651,6 +4658,7 @@
   "workday:capitalone:/job/McLean-VA/Manager--Product-Management---Finance-Data_R247037-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Product-Management---GenAI-Transformation--Business-Cards---Payments-_R246526-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Product-Management---IVR-Customer-Experience_R999423-1": "2026-08-29T01:07:34.589604+00:00",
+  "workday:capitalone:/job/McLean-VA/Manager--Product-Management---IVR-Platform_R1002641-1": "2026-10-02T05:33:21.641998+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Product-Management---LOB-Enablement_R249902-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Product-Management---Lead-Intelligence--Business-Cards---Payments-_R249615-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Product-Management---NextGen-Agent-Experiences--Agent-Servicing-Platform_R1002291-2": "2026-09-28T21:32:19.059022+00:00",
@@ -7172,5 +7180,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-10-02T00:10:27.965465+00:00"
+ "updated": "2026-10-02T05:33:23.856748+00:00"
 }
