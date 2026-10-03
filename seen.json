@@ -1124,6 +1124,7 @@
   "amazon:10567652": "2026-10-02T05:33:21.641998+00:00",
   "amazon:10568090": "2026-10-02T21:03:03.176713+00:00",
   "amazon:10568101": "2026-10-02T21:03:03.176713+00:00",
+  "amazon:10568408": "2026-10-03T00:26:38.813542+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -1669,6 +1670,7 @@
   "greenhouse:stripe:8075577": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8076108": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8076151": "2026-08-22T23:01:44.903747+00:00",
+  "greenhouse:stripe:8076616": "2026-10-03T00:26:38.813542+00:00",
   "greenhouse:stripe:8076623": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8076626": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:8076652": "2026-08-22T23:01:44.903747+00:00",
@@ -2223,6 +2225,7 @@
   "greenhouse:stripe:8233263": "2026-09-25T19:07:25.054414+00:00",
   "greenhouse:stripe:8233889": "2026-09-25T19:07:25.054414+00:00",
   "greenhouse:stripe:8234252": "2026-09-28T15:55:15.687105+00:00",
+  "greenhouse:stripe:8234357": "2026-10-03T00:26:38.813542+00:00",
   "greenhouse:stripe:8236491": "2026-10-02T16:42:57.766589+00:00",
   "greenhouse:stripe:8236757": "2026-09-28T15:55:15.687105+00:00",
   "greenhouse:stripe:8237242": "2026-09-29T13:53:34.094631+00:00",
@@ -3742,6 +3745,7 @@
   "workday:capitalone:/job/Houston-TX/Manager--Project-Manager_R248975-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Houston-TX/Operations-Account-Executive_R246134-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Houston-TX/Part-Time-Branch-Ambassador---Blalock_R1000414-1": "2026-09-10T21:59:20.217546+00:00",
+  "workday:capitalone:/job/Houston-TX/Principal-Associate---Client-Services---PULSE-Network_R1001753": "2026-10-03T00:26:38.813542+00:00",
   "workday:capitalone:/job/Houston-TX/Principal-Associate---PULSE-Product-Governance_R247728-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Houston-TX/Principal-Associate---PULSE-Product-Governance_R247729-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Houston-TX/Principal-Associate--Communications---PULSE-NetDocs-Team_R999643": "2026-09-01T23:16:40.702763+00:00",
@@ -6333,6 +6337,7 @@
   "workday:capitalone:/job/Plano-TX/Senior-Administrative-Assistant--Administrative-Support-Assistant-III----Global-Payment-Network--PULSE_R243724-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Plano-TX/Senior-Administrative-Assistant--Administrative-Support-Assistant-III---Legal_R249166": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Plano-TX/Senior-Administrative-Assistant--Administrative-Support-Assistant-III-_R1000014-1": "2026-09-04T17:03:55.703170+00:00",
+  "workday:capitalone:/job/Plano-TX/Senior-Associate--Data-Scientist---Applied-AI--Financial-Services-_R1002940-1": "2026-10-03T00:26:38.813542+00:00",
   "workday:capitalone:/job/Plano-TX/Senior-Associate--Financial-Planning---Analysis---Auto-Finance_R241993-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Plano-TX/Senior-Associate--Financial-Planning---Analysis---Capital-One-Auto_R1001494-1": "2026-09-30T19:26:07.112536+00:00",
   "workday:capitalone:/job/Plano-TX/Senior-Associate--Loan-Documentation---Closing-Specialist_R1001522": "2026-09-22T01:14:38.414286+00:00",
@@ -7233,5 +7238,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-10-02T21:03:03.179895+00:00"
+ "updated": "2026-10-03T00:26:38.816585+00:00"
 }
