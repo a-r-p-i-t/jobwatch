@@ -1125,6 +1125,7 @@
   "amazon:10568090": "2026-10-02T21:03:03.176713+00:00",
   "amazon:10568101": "2026-10-02T21:03:03.176713+00:00",
   "amazon:10568408": "2026-10-03T00:26:38.813542+00:00",
+  "amazon:10568452": "2026-10-03T05:34:10.003015+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -2135,6 +2136,7 @@
   "greenhouse:stripe:8198193": "2026-09-11T23:20:31.858960+00:00",
   "greenhouse:stripe:8198207": "2026-09-14T22:27:15.632825+00:00",
   "greenhouse:stripe:8198280": "2026-09-14T22:27:15.632825+00:00",
+  "greenhouse:stripe:8198330": "2026-10-03T05:34:10.003015+00:00",
   "greenhouse:stripe:8199596": "2026-09-14T19:02:18.932773+00:00",
   "greenhouse:stripe:8201680": "2026-09-14T19:02:18.932773+00:00",
   "greenhouse:stripe:8201690": "2026-09-14T19:02:18.932773+00:00",
@@ -3039,6 +3041,7 @@
   "workday:adobe:/job/San-Jose/Payments---Commercial-Abuse-Analyst_R171848": "2026-09-11T21:17:37.209896+00:00",
   "workday:adobe:/job/San-Jose/Photoshop-Software-Development-Engineer---C---GPU-imaging_R171156": "2026-09-03T09:47:52.446467+00:00",
   "workday:adobe:/job/San-Jose/Platform-Engineer-4_R170850-1": "2026-08-23T22:17:04.242875+00:00",
+  "workday:adobe:/job/San-Jose/Policy---Incident-Senior-Manager---Global-Consumer-Trust_R172291": "2026-10-03T05:34:10.003015+00:00",
   "workday:adobe:/job/San-Jose/Policy-and-Incident-Specialist_R172096-1": "2026-09-23T21:47:58.456873+00:00",
   "workday:adobe:/job/San-Jose/Principal-AI-Strategist_R169720": "2026-09-10T17:18:22.814015+00:00",
   "workday:adobe:/job/San-Jose/Principal-AI-Systems-Engineer---C-----Applied-AI_R170076": "2026-08-22T23:01:44.903747+00:00",
@@ -7238,5 +7241,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-10-03T00:26:38.816585+00:00"
+ "updated": "2026-10-03T05:34:10.005023+00:00"
 }
