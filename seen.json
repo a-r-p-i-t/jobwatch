@@ -1134,6 +1134,9 @@
   "amazon:10568494": "2026-10-04T18:58:13.609045+00:00",
   "amazon:10568495": "2026-10-04T18:58:13.609045+00:00",
   "amazon:10568541": "2026-10-05T01:00:18.800893+00:00",
+  "amazon:10568545": "2026-10-05T06:46:48.695109+00:00",
+  "amazon:10568593": "2026-10-05T06:46:48.695109+00:00",
+  "amazon:10568614": "2026-10-05T06:46:48.695109+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -1200,6 +1203,7 @@
   "greenhouse:razorpaysoftwareprivatelimited:4731693005": "2026-09-09T05:11:03.115761+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4733878005": "2026-09-15T10:19:01.038124+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4733888005": "2026-09-16T08:19:56.827770+00:00",
+  "greenhouse:razorpaysoftwareprivatelimited:4734959005": "2026-10-05T06:46:48.695109+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4735389005": "2026-09-19T09:08:48.198561+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4736132005": "2026-09-21T14:04:08.616912+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4736136005": "2026-09-21T07:07:13.496225+00:00",
@@ -1214,6 +1218,7 @@
   "greenhouse:razorpaysoftwareprivatelimited:4738319005": "2026-09-29T13:53:34.094631+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4738327005": "2026-09-29T06:59:25.628528+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4739199005": "2026-10-01T08:48:44.576609+00:00",
+  "greenhouse:razorpaysoftwareprivatelimited:4739576005": "2026-10-05T06:46:48.695109+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4739578005": "2026-10-01T15:44:18.273299+00:00",
   "greenhouse:stripe:4921361": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:5416444": "2026-08-22T23:01:44.903747+00:00",
@@ -2311,6 +2316,7 @@
   "workday:adobe:/job/Bangalore/Digital-Strategist_R166482": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/Director---Customer-Marketing--India--Creativity---Productivity--C-P-_R164050": "2026-08-24T10:10:40.289561+00:00",
   "workday:adobe:/job/Bangalore/Enterprise-Architect--Martech---AI-_R169933": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/Bangalore/Enterprise-Architect--Martech--CDP-_R172048": "2026-10-05T06:46:48.695109+00:00",
   "workday:adobe:/job/Bangalore/Enterprise-Architect_R169928": "2026-09-03T09:47:52.446467+00:00",
   "workday:adobe:/job/Bangalore/Enterprise-Architect_R169932": "2026-09-02T09:57:44.347014+00:00",
   "workday:adobe:/job/Bangalore/Financial-Analyst-2_R171825-1": "2026-09-15T05:28:20.488658+00:00",
@@ -7251,5 +7257,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-10-05T01:00:18.803903+00:00"
+ "updated": "2026-10-05T06:46:50.244237+00:00"
 }
