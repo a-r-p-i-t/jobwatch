@@ -1163,6 +1163,8 @@
   "amazon:10569184": "2026-10-05T22:05:17.139322+00:00",
   "amazon:10569363": "2026-10-05T22:05:17.139322+00:00",
   "amazon:10569602": "2026-10-05T22:05:17.139322+00:00",
+  "amazon:10569953": "2026-10-06T02:14:48.197586+00:00",
+  "amazon:10569954": "2026-10-06T02:14:48.197586+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -3506,6 +3508,7 @@
   "workday:capitalone:/job/Alabang-Muntinlupa-City/Sr-Manager--Compliance-Advisor_R242455": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Alabang-Muntinlupa-City/Sr-Manager--Control-Testing_R227052": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Alabang-Muntinlupa-City/Sr-Manager--Data-Analysis_R217512": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/Alabang-Muntinlupa-City/Sr-Operations-Representative_R217734": "2026-10-06T02:14:48.197586+00:00",
   "workday:capitalone:/job/Alabang-Muntinlupa-City/Sr-Operations-Representative_R236716": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Alabang-Muntinlupa-City/Sr-Operations-Representative_R236894": "2026-08-24T02:23:28.957885+00:00",
   "workday:capitalone:/job/Alabang-Muntinlupa-City/Technology-Specialist_R242548": "2026-08-22T23:01:44.903747+00:00",
@@ -5860,6 +5863,7 @@
   "workday:capitalone:/job/New-York-NY/Full-stack-Engineer-5--AI-Platform---Knowledge-Library---Enterprise-Platforms-Technology-_R1002206-1": "2026-09-26T17:52:53.445596+00:00",
   "workday:capitalone:/job/New-York-NY/Full-stack-Engineer-5--Agentic-Orchestration_R1002456-1": "2026-09-29T19:05:37.710301+00:00",
   "workday:capitalone:/job/New-York-NY/Full-stack-Engineer-5--Senior-Manager--IC---EDT_R1002389-1": "2026-09-28T21:32:19.059022+00:00",
+  "workday:capitalone:/job/New-York-NY/Full-stack-Engineer-5--Senior-Manager--IC--EDT_R1003060-1": "2026-10-06T02:14:48.197586+00:00",
   "workday:capitalone:/job/New-York-NY/Full-stack-Engineer-5--Senior-Manager--IC--Risk-Tech_R1002019-1": "2026-09-24T18:32:08.394181+00:00",
   "workday:capitalone:/job/New-York-NY/Full-stack-Engineer-5--Senior-Manager--IC-_R1001206-2": "2026-09-22T22:15:00.032519+00:00",
   "workday:capitalone:/job/New-York-NY/Full-stack-Engineer-5--Senior-Manager--IC-_R1001679-2": "2026-09-25T22:16:15.521356+00:00",
@@ -5944,6 +5948,7 @@
   "workday:capitalone:/job/New-York-NY/Machine-Learning-Engineer-5--IC-_R1001512-1": "2026-09-22T19:16:07.495102+00:00",
   "workday:capitalone:/job/New-York-NY/Machine-Learning-Engineer-5--IC-_R1001515-1": "2026-09-22T19:16:07.495102+00:00",
   "workday:capitalone:/job/New-York-NY/Machine-Learning-Engineer-5_R1001829-1": "2026-09-23T21:47:58.456873+00:00",
+  "workday:capitalone:/job/New-York-NY/Manager---Product-Management---Travel-Communication-Platform_R1003028-2": "2026-10-06T02:14:48.197586+00:00",
   "workday:capitalone:/job/New-York-NY/Manager--Data-Analysis_R236829-1": "2026-09-25T14:56:41.520708+00:00",
   "workday:capitalone:/job/New-York-NY/Manager--Data-Product-Manager---Travel-Core-Services_R248239-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/New-York-NY/Manager--Data-Science---AI-Foundations_R1000041-1": "2026-09-04T19:30:12.164467+00:00",
@@ -6097,6 +6102,7 @@
   "workday:capitalone:/job/New-York-NY/Senior-Manager--Data-Science---AI-Foundations_R1000043-1": "2026-09-04T19:30:12.164467+00:00",
   "workday:capitalone:/job/New-York-NY/Senior-Manager--Data-Science---AI-Foundations_R224577": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/New-York-NY/Senior-Manager--Full-stack-Engineer--PL--Risk-Tech_R1002021-1": "2026-09-24T18:32:08.394181+00:00",
+  "workday:capitalone:/job/New-York-NY/Senior-Manager--Full-stack-Engineer--People-Leader--EDT_R1003061": "2026-10-06T02:14:48.197586+00:00",
   "workday:capitalone:/job/New-York-NY/Senior-Manager--Product-Design_R1000704-2": "2026-09-17T19:46:14.158774+00:00",
   "workday:capitalone:/job/New-York-NY/Senior-Manager--Product-Management---Back-Office-Servicing-Experiences_R999224-1": "2026-09-30T19:26:07.112536+00:00",
   "workday:capitalone:/job/New-York-NY/Senior-Manager--Product-Management---Back-Office-Servicing-Experiences_R999227-1": "2026-08-26T18:58:04.335455+00:00",
@@ -6430,6 +6436,7 @@
   "workday:capitalone:/job/Plano-TX/Principal-Coordinator--Tech-Operations_R1001928-1": "2026-09-24T14:21:50.911736+00:00",
   "workday:capitalone:/job/Plano-TX/Principal-Data-Analyst--Navigator-Platform-_R231635-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Plano-TX/Principal-Data-Analyst_R245609-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/Plano-TX/Principal-Risk-Specialist--Auto---Data-Risk-_R1002946-1": "2026-10-06T02:14:48.197586+00:00",
   "workday:capitalone:/job/Plano-TX/Process-Manager--Associate---Hybrid_R247360-2": "2026-09-01T21:06:15.859499+00:00",
   "workday:capitalone:/job/Plano-TX/Product-Management-Manager--Auto-_R248999-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Plano-TX/Product-Management-Senior-Manager--Auto-_R249021-1": "2026-08-22T23:01:44.903747+00:00",
@@ -7356,5 +7363,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-10-05T22:05:18.668485+00:00"
+ "updated": "2026-10-06T02:14:49.885867+00:00"
 }
