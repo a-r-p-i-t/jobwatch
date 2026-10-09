@@ -1241,6 +1241,8 @@
   "amazon:10573777": "2026-10-08T22:03:15.163088+00:00",
   "amazon:10573803": "2026-10-08T22:03:15.163088+00:00",
   "amazon:10573978": "2026-10-08T22:03:15.163088+00:00",
+  "amazon:10574169": "2026-10-09T02:04:50.864208+00:00",
+  "amazon:10574189": "2026-10-09T02:04:50.864208+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -2349,6 +2351,7 @@
   "greenhouse:stripe:8224607": "2026-10-06T20:45:25.173031+00:00",
   "greenhouse:stripe:8224612": "2026-09-24T09:30:15.072177+00:00",
   "greenhouse:stripe:8224614": "2026-09-29T19:05:37.710301+00:00",
+  "greenhouse:stripe:8224617": "2026-10-09T02:04:50.864208+00:00",
   "greenhouse:stripe:8224620": "2026-09-25T19:07:25.054414+00:00",
   "greenhouse:stripe:8224915": "2026-09-28T21:32:19.059022+00:00",
   "greenhouse:stripe:8225567": "2026-10-07T06:07:18.046603+00:00",
@@ -3836,6 +3839,7 @@
   "workday:capitalone:/job/Chicago-IL/Email-Marketing-Lead--Principal-Associate_R1002045-1": "2026-10-01T15:44:18.273299+00:00",
   "workday:capitalone:/job/Chicago-IL/Full-Stack-Engineer-4_R1002519-1": "2026-09-30T19:26:07.112536+00:00",
   "workday:capitalone:/job/Chicago-IL/Full-Stack-Engineer-4_R1002591-1": "2026-09-30T14:13:46.528086+00:00",
+  "workday:capitalone:/job/Chicago-IL/Full-Stack-Engineer-4_R1003262-1": "2026-10-09T02:04:50.864208+00:00",
   "workday:capitalone:/job/Chicago-IL/Full-Stack-Engineer-5_R1001167-1": "2026-09-21T14:04:08.616912+00:00",
   "workday:capitalone:/job/Chicago-IL/Full-stack-Engineer-4--AWS--Java--Python--Database--Go-_R1003167": "2026-10-06T20:45:25.173031+00:00",
   "workday:capitalone:/job/Chicago-IL/Full-stack-Engineer-4--GoLang-_R1001278-1": "2026-09-22T15:46:41.456034+00:00",
@@ -4584,6 +4588,8 @@
   "workday:capitalone:/job/McLean-VA/Full-stack-Engineer-5--Senior-Manager--IC---Angular-TypeScript--Python--AWS-_R1002164-1": "2026-09-30T14:13:46.528086+00:00",
   "workday:capitalone:/job/McLean-VA/Full-stack-Engineer-5--Senior-Manager--IC---Go--React--AWS-_R1002126-1": "2026-09-29T01:14:37.456608+00:00",
   "workday:capitalone:/job/McLean-VA/Full-stack-Engineer-5--Senior-Manager--IC--EDT_R1002260-1": "2026-09-25T22:16:15.521356+00:00",
+  "workday:capitalone:/job/McLean-VA/Full-stack-Engineer-5--Senior-Manager--IC--EDT_R1003000-1": "2026-10-09T02:04:50.864208+00:00",
+  "workday:capitalone:/job/McLean-VA/Full-stack-Engineer-5--Senior-Manager--IC--EDT_R1003001-1": "2026-10-09T02:04:50.864208+00:00",
   "workday:capitalone:/job/McLean-VA/Full-stack-Engineer-5--Senior-Manager--IC--Risk-Tech_R1002006-1": "2026-09-24T18:32:08.394181+00:00",
   "workday:capitalone:/job/McLean-VA/Full-stack-Engineer-5--Senior-Manager--IC-_R1001226-2": "2026-09-19T22:57:32.897304+00:00",
   "workday:capitalone:/job/McLean-VA/Full-stack-Engineer-5--Senior-Manager--IC-_R1001978-1": "2026-09-25T19:07:25.054414+00:00",
@@ -7069,6 +7075,7 @@
   "workday:capitalone:/job/Richmond-VA/Principal-Associate--Operational-Risk-Management--Third-Party-Risk-Manager--TPRM--_R999779-1": "2026-09-02T20:25:55.663341+00:00",
   "workday:capitalone:/job/Richmond-VA/Principal-Associate--Operations-Governance--FPDS_R247871-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Richmond-VA/Principal-Associate--Plan-Management-and-Governance-Compliance_R1000505-1": "2026-09-14T13:57:30.540442+00:00",
+  "workday:capitalone:/job/Richmond-VA/Principal-Associate--Principal-Extended-Ops-Associate---Card-Delivery-Operations--Client-Facing-_R1003190-1": "2026-10-09T02:04:50.864208+00:00",
   "workday:capitalone:/job/Richmond-VA/Principal-Associate--Process-Management---Content-Marketing--Hybrid-_R1000383-1": "2026-09-30T19:26:07.112536+00:00",
   "workday:capitalone:/job/Richmond-VA/Principal-Associate--Process-Manager---Customer-Resiliency--Recoveries-Team--Hybrid-_R248581-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Richmond-VA/Principal-Associate--Process-Manager---Hybrid_R246183-2": "2026-08-22T23:01:44.903747+00:00",
@@ -7682,5 +7689,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-10-08T22:03:15.165312+00:00"
+ "updated": "2026-10-09T02:04:52.378557+00:00"
 }
