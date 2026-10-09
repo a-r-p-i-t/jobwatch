@@ -1243,6 +1243,10 @@
   "amazon:10573978": "2026-10-08T22:03:15.163088+00:00",
   "amazon:10574169": "2026-10-09T02:04:50.864208+00:00",
   "amazon:10574189": "2026-10-09T02:04:50.864208+00:00",
+  "amazon:10574302": "2026-10-09T08:56:20.838395+00:00",
+  "amazon:10574336": "2026-10-09T08:56:20.838395+00:00",
+  "amazon:10574381": "2026-10-09T08:56:20.838395+00:00",
+  "amazon:10574395": "2026-10-09T08:56:20.838395+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -2432,6 +2436,7 @@
   "greenhouse:stripe:8249865": "2026-10-02T21:03:03.176713+00:00",
   "greenhouse:stripe:8249901": "2026-10-02T21:03:03.176713+00:00",
   "greenhouse:stripe:8250479": "2026-10-08T09:54:24.904991+00:00",
+  "greenhouse:stripe:8250483": "2026-10-09T08:56:20.838395+00:00",
   "greenhouse:stripe:8257185": "2026-10-06T15:53:59.570194+00:00",
   "greenhouse:stripe:8257354": "2026-10-05T22:05:17.139322+00:00",
   "greenhouse:stripe:8257500": "2026-10-06T20:45:25.173031+00:00",
@@ -2444,7 +2449,10 @@
   "greenhouse:stripe:8261012": "2026-10-08T17:08:31.006093+00:00",
   "greenhouse:stripe:8261213": "2026-10-07T19:23:24.494710+00:00",
   "greenhouse:stripe:8262029": "2026-10-07T23:40:25.571158+00:00",
+  "greenhouse:stripe:8262032": "2026-10-09T08:56:20.838395+00:00",
   "greenhouse:stripe:8263356": "2026-10-07T23:40:25.571158+00:00",
+  "greenhouse:stripe:8264421": "2026-10-09T08:56:20.838395+00:00",
+  "greenhouse:stripe:8265128": "2026-10-09T08:56:20.838395+00:00",
   "workday:adobe:": "2026-08-23T20:43:28.314820+00:00",
   "workday:adobe:/job/Arnhem/Senior-Software-Engineer---Rendering-Architecture_R170479": "2026-09-15T15:05:34.910708+00:00",
   "workday:adobe:/job/Atlanta/Enterprise-Technical-Account-Manager_R171902": "2026-09-16T23:10:25.201390+00:00",
@@ -4968,6 +4976,7 @@
   "workday:capitalone:/job/McLean-VA/Manager--Process-Manager---Consumer-Behavior-Analytics_R999234-2": "2026-09-01T18:15:25.861273+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Process-Manager---Network-Product-Documentation--Global-Payment-Network_R1002394-2": "2026-09-29T19:05:37.710301+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Product-Design_R1000285-1": "2026-09-11T15:16:11.903763+00:00",
+  "workday:capitalone:/job/McLean-VA/Manager--Product-Management---AI-ML---Data-Platforms_R1003202-1": "2026-10-09T08:56:20.838395+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Product-Management---AI-ML--Enterprise-Feature-Platform_R1001394": "2026-09-23T21:47:58.456873+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Product-Management---AI-ML_R246569": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Manager--Product-Management---Agent-Enablement---Coaching_R249101-1": "2026-08-22T23:01:44.903747+00:00",
@@ -6516,6 +6525,7 @@
   "workday:capitalone:/job/Philadelphia-PA/Caf-Coach--Rittenhouse_R243694-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Philadelphia-PA/Manager--Product-Delivery-Manager--API-Abstraction_R1002685-1": "2026-10-02T16:42:57.766589+00:00",
   "workday:capitalone:/job/Philadelphia-PA/Senior-Business-Banker---Philadelphia-Market_R237211": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/Phoenix-AZ/Assistant-Relationship-Manager_R1003411-1": "2026-10-09T08:56:20.838395+00:00",
   "workday:capitalone:/job/Phoenix-AZ/Assistant-Relationship-Manager_R246559-1": "2026-09-09T17:41:32.450747+00:00",
   "workday:capitalone:/job/Phoenix-AZ/Dealer-Success-Manager---Revenue--California--Arizona--Nevada--Washington--Oregon-_R1000297": "2026-09-09T20:03:09.440357+00:00",
   "workday:capitalone:/job/Phoenix-AZ/Director--Regional-Relationship-Manager_R1000036": "2026-09-04T19:30:12.164467+00:00",
@@ -7689,5 +7699,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-10-09T02:04:52.378557+00:00"
+ "updated": "2026-10-09T08:56:22.379285+00:00"
 }
