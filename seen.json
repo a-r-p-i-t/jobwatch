@@ -1267,6 +1267,8 @@
   "amazon:10575325": "2026-10-10T05:59:05.113071+00:00",
   "amazon:10575330": "2026-10-10T05:59:05.113071+00:00",
   "amazon:10575334": "2026-10-10T05:59:05.113071+00:00",
+  "amazon:10575393": "2026-10-11T15:31:21.328682+00:00",
+  "amazon:10575408": "2026-10-11T15:31:21.328682+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -2602,6 +2604,7 @@
   "workday:adobe:/job/Bangalore/Solutions-Consultant-3_R168355-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/Sr-Computer-Scientist--Data-Platform-Engineer-_R166812": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/Sr-Computer-Scientist-1--Front-End-_R170860": "2026-08-26T05:46:55.750516+00:00",
+  "workday:adobe:/job/Bangalore/Sr-Mgr--Software-Development_R172115-1": "2026-10-11T15:31:21.328682+00:00",
   "workday:adobe:/job/Bangalore/Sr-Product-Design-Manager_R170769": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/Sr-Product-Designer--Document-Cloud_R168839": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bangalore/Sr-Product-Designer_R167937": "2026-08-22T23:01:44.903747+00:00",
@@ -7776,5 +7779,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-10-11T09:00:01.007855+00:00"
+ "updated": "2026-10-11T15:31:22.918093+00:00"
 }
