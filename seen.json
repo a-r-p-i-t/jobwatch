@@ -1305,6 +1305,12 @@
   "amazon:10576013": "2026-10-12T19:18:19.029146+00:00",
   "amazon:10576119": "2026-10-12T19:18:19.029146+00:00",
   "amazon:10576255": "2026-10-12T19:18:19.029146+00:00",
+  "amazon:10576375": "2026-10-13T01:25:41.722672+00:00",
+  "amazon:10576376": "2026-10-13T01:25:41.722672+00:00",
+  "amazon:10576382": "2026-10-13T01:25:41.722672+00:00",
+  "amazon:10576383": "2026-10-13T01:25:41.722672+00:00",
+  "amazon:10576536": "2026-10-13T01:25:41.722672+00:00",
+  "amazon:10576573": "2026-10-13T01:25:41.722672+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -2438,6 +2444,7 @@
   "greenhouse:stripe:8230294": "2026-09-25T09:52:11.540719+00:00",
   "greenhouse:stripe:8230296": "2026-09-25T09:52:11.540719+00:00",
   "greenhouse:stripe:8230300": "2026-09-24T18:32:08.394181+00:00",
+  "greenhouse:stripe:8230306": "2026-10-13T01:25:41.722672+00:00",
   "greenhouse:stripe:8230564": "2026-09-25T04:49:48.268236+00:00",
   "greenhouse:stripe:8230758": "2026-09-24T18:32:08.394181+00:00",
   "greenhouse:stripe:8230952": "2026-09-24T18:32:08.394181+00:00",
@@ -2529,7 +2536,11 @@
   "greenhouse:stripe:8267736": "2026-10-09T20:22:04.313543+00:00",
   "greenhouse:stripe:8268059": "2026-10-09T20:22:04.313543+00:00",
   "greenhouse:stripe:8273741": "2026-10-12T19:18:19.029146+00:00",
+  "greenhouse:stripe:8274580": "2026-10-13T01:25:41.722672+00:00",
+  "greenhouse:stripe:8274582": "2026-10-13T01:25:41.722672+00:00",
   "greenhouse:stripe:8274893": "2026-10-12T19:18:19.029146+00:00",
+  "greenhouse:stripe:8274920": "2026-10-13T01:25:41.722672+00:00",
+  "greenhouse:stripe:8275366": "2026-10-13T01:25:41.722672+00:00",
   "workday:adobe:": "2026-08-23T20:43:28.314820+00:00",
   "workday:adobe:/job/Arnhem/Senior-Software-Engineer---Rendering-Architecture_R170479": "2026-09-15T15:05:34.910708+00:00",
   "workday:adobe:/job/Atlanta/Enterprise-Technical-Account-Manager_R171902": "2026-09-16T23:10:25.201390+00:00",
@@ -3431,6 +3442,7 @@
   "workday:adobe:/job/San-Jose/Senior-Director--Corporate-Development-and-Strategy_R171500": "2026-08-27T01:03:51.193603+00:00",
   "workday:adobe:/job/San-Jose/Senior-Director--Corporate-Strategy_R157976-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Senior-Director--Enterprise-Strategy---Integrated-GTM_R163668": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/San-Jose/Senior-Director--Global-Engagement_R169745-1": "2026-10-13T01:25:41.722672+00:00",
   "workday:adobe:/job/San-Jose/Senior-Director--Global-Head-of-Partner-Strategy-and-Business-Operations_R170686": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Senior-Director--M-A-Integration--Corporate-Development-_R169472-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Senior-Director--Product-Management--AI-Brand-Experiences_R163564": "2026-08-22T23:01:44.903747+00:00",
@@ -7828,5 +7840,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-10-12T19:18:23.586640+00:00"
+ "updated": "2026-10-13T01:25:43.193037+00:00"
 }
