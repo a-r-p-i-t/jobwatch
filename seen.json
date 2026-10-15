@@ -2632,6 +2632,7 @@
   "greenhouse:stripe:8265151": "2026-10-14T18:58:15.454583+00:00",
   "greenhouse:stripe:8265686": "2026-10-11T02:16:19.779557+00:00",
   "greenhouse:stripe:8265763": "2026-10-09T20:22:04.313543+00:00",
+  "greenhouse:stripe:8267105": "2026-10-15T05:02:32.944144+00:00",
   "greenhouse:stripe:8267684": "2026-10-09T20:22:04.313543+00:00",
   "greenhouse:stripe:8267736": "2026-10-09T20:22:04.313543+00:00",
   "greenhouse:stripe:8268059": "2026-10-09T20:22:04.313543+00:00",
@@ -3948,6 +3949,7 @@
   "workday:capitalone:/job/Bangalore-In/Senior-Manager--HRBP_R999474-1": "2026-09-07T09:41:04.972179+00:00",
   "workday:capitalone:/job/Bangalore-In/Senior-Manager--Product-Management_R248801": "2026-08-24T05:11:28.903629+00:00",
   "workday:capitalone:/job/Bangalore-In/Senior-Software-Engineer---Fullstack_R1002033-1": "2026-09-28T15:55:15.687105+00:00",
+  "workday:capitalone:/job/Bangalore-In/Senior-Software-Engineer---Principal-Associate_R1003313-2": "2026-10-15T05:02:32.944144+00:00",
   "workday:capitalone:/job/Bangalore-In/Senior-Software-Engineer-Fullstack---Principal-Associate_R1002024": "2026-09-29T13:53:34.094631+00:00",
   "workday:capitalone:/job/Bangalore-In/Sr-Director-Product-Management_R1000787-2": "2026-09-18T13:54:40.240160+00:00",
   "workday:capitalone:/job/Bangalore-In/Sr-Lead-Software-Engineer_R1002953-1": "2026-10-13T08:00:37.666281+00:00",
@@ -8054,5 +8056,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-10-15T00:29:09.672752+00:00"
+ "updated": "2026-10-15T05:02:32.947158+00:00"
 }
