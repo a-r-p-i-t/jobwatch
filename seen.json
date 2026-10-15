@@ -1396,6 +1396,16 @@
   "amazon:10578791": "2026-10-14T18:58:15.454583+00:00",
   "amazon:10578792": "2026-10-14T18:58:15.454583+00:00",
   "amazon:10579082": "2026-10-14T18:58:15.454583+00:00",
+  "amazon:10579584": "2026-10-15T09:49:22.423496+00:00",
+  "amazon:10579597": "2026-10-15T09:49:22.423496+00:00",
+  "amazon:10579607": "2026-10-15T09:49:22.423496+00:00",
+  "amazon:10579608": "2026-10-15T09:49:22.423496+00:00",
+  "amazon:10579611": "2026-10-15T09:49:22.423496+00:00",
+  "amazon:10579612": "2026-10-15T09:49:22.423496+00:00",
+  "amazon:10579616": "2026-10-15T09:49:22.423496+00:00",
+  "amazon:10579628": "2026-10-15T09:49:22.423496+00:00",
+  "amazon:10579652": "2026-10-15T09:49:22.423496+00:00",
+  "amazon:10579662": "2026-10-15T09:49:22.423496+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -1477,6 +1487,7 @@
   "greenhouse:razorpaysoftwareprivatelimited:4736977005": "2026-09-23T09:57:14.378242+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4736979005": "2026-10-06T15:53:59.570194+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4736982005": "2026-10-13T15:51:00.935944+00:00",
+  "greenhouse:razorpaysoftwareprivatelimited:4737523005": "2026-10-15T09:49:22.423496+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4737535005": "2026-09-24T14:21:50.911736+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4737923005": "2026-09-28T15:55:15.687105+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4737935005": "2026-10-07T13:14:28.420686+00:00",
@@ -2638,6 +2649,7 @@
   "greenhouse:stripe:8268059": "2026-10-09T20:22:04.313543+00:00",
   "greenhouse:stripe:8271657": "2026-10-14T09:46:31.951279+00:00",
   "greenhouse:stripe:8273741": "2026-10-12T19:18:19.029146+00:00",
+  "greenhouse:stripe:8273743": "2026-10-15T09:49:22.423496+00:00",
   "greenhouse:stripe:8273855": "2026-10-14T18:58:15.454583+00:00",
   "greenhouse:stripe:8274580": "2026-10-13T01:25:41.722672+00:00",
   "greenhouse:stripe:8274582": "2026-10-13T01:25:41.722672+00:00",
@@ -8056,5 +8068,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-10-15T05:02:32.947158+00:00"
+ "updated": "2026-10-15T09:49:24.534502+00:00"
 }
