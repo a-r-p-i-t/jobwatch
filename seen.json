@@ -3818,6 +3818,7 @@
   "workday:adobe:/job/Sydney/ACS-Account-Executive_R171557": "2026-09-02T09:57:44.347014+00:00",
   "workday:adobe:/job/Sydney/AI-Architect_R170388": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Sydney/Deal-Desk-Analyst_R172071": "2026-10-01T08:48:44.576609+00:00",
+  "workday:adobe:/job/Sydney/Digital-Strategist_R172245-1": "2026-10-15T00:29:09.669749+00:00",
   "workday:adobe:/job/Sydney/Security-Compliance-Specialist_R171307": "2026-08-25T23:02:56.031080+00:00",
   "workday:adobe:/job/Sydney/Senior-Media-Planner_R171613-1": "2026-09-16T08:19:56.827770+00:00",
   "workday:adobe:/job/Sydney/Technical-Account-Manager_R170243": "2026-08-22T23:01:44.903747+00:00",
@@ -4111,6 +4112,7 @@
   "workday:capitalone:/job/Chicago-IL/Product-Manager---Partnerships_R248478-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Chicago-IL/Product-Manager---Trade-Credit_R246392-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Chicago-IL/Senior-Administrative-Assistant--Administrative-Support-Assistant-III-_R246997-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/Chicago-IL/Senior-Associate---Card-Partnership-Marketing--Hybrid-_R1003601-1": "2026-10-15T00:29:09.669749+00:00",
   "workday:capitalone:/job/Chicago-IL/Senior-Associate--Enterprise-Valuation-Group--EVG-_R248865-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Chicago-IL/Senior-Associate--Product-Management---Card-Decisioning-Platforms_R1002609-1": "2026-10-06T15:53:59.570194+00:00",
   "workday:capitalone:/job/Chicago-IL/Senior-Associate--Product-Management---Card-Decisioning-Platforms_R247157-1": "2026-08-22T23:01:44.903747+00:00",
@@ -4685,6 +4687,7 @@
   "workday:capitalone:/job/McLean-VA/Front-end-Engineer-5-SEO---Shopping--Remote-eligible-_R1002794-1": "2026-10-05T22:05:17.139322+00:00",
   "workday:capitalone:/job/McLean-VA/Front-end-Engineer-5_R1003156-1": "2026-10-09T20:22:04.313543+00:00",
   "workday:capitalone:/job/McLean-VA/Full---Stack-Engineer-5--Remote---Eligible-_R1001763-1": "2026-09-22T22:15:00.032519+00:00",
+  "workday:capitalone:/job/McLean-VA/Full--Stack-Engineer-4--Python-_R1003493-1": "2026-10-15T00:29:09.669749+00:00",
   "workday:capitalone:/job/McLean-VA/Full--stack-Engineer-4---Capital-One-Shopping-Tech--Categories-Team---Remote---Eligible-_R1001176": "2026-09-21T14:04:08.616912+00:00",
   "workday:capitalone:/job/McLean-VA/Full--stack-Engineer-4---Capital-One-Shopping-Tech--Categories-Team---Remote---Eligible-_R1003278-1": "2026-10-08T17:08:31.006093+00:00",
   "workday:capitalone:/job/McLean-VA/Full--stack-Engineer-5---Capital-One-Shopping-Tech--Categories-Team---Remote---Eligible-_R1002802-1": "2026-10-14T18:58:15.454583+00:00",
@@ -6172,6 +6175,7 @@
   "workday:capitalone:/job/McLean-VA/Sr-Product-Manager---Finance-Data_R1003576-1": "2026-10-13T20:51:34.018857+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Product-Manager---Finance-Product_R248668-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Product-Manager-GRCx_R247779-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Sr-Risk-Associate--Commercial-Bank_R1003614-1": "2026-10-15T00:29:09.669749+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Staff-AI-Engineer_R1001685-1": "2026-09-22T22:15:00.032519+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Staff-Applied-Researcher_R1001380-1": "2026-09-21T19:21:31.441584+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Staff-Applied-Researcher_R1002805": "2026-10-05T22:05:17.139322+00:00",
@@ -7912,6 +7916,7 @@
   "workday:capitalone:/job/Toronto-ON/Director--Sales--Discover-Payment-Network_R1003496-1": "2026-10-10T00:11:17.740459+00:00",
   "workday:capitalone:/job/Toronto-ON/Director--Software-Engineering_R1000676": "2026-09-15T15:05:34.910708+00:00",
   "workday:capitalone:/job/Toronto-ON/Director--Technical-Program-Management_R249913": "2026-08-24T14:23:29.389376+00:00",
+  "workday:capitalone:/job/Toronto-ON/Distinguished-Engineer_R1003518-1": "2026-10-15T00:29:09.669749+00:00",
   "workday:capitalone:/job/Toronto-ON/Distinguished-Engineer_R244850": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Toronto-ON/Fall-Intern--Financial-Analyst---January-2027--4-Month-_R247476": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Toronto-ON/Head-of-Category-Management_R1000901": "2026-09-17T16:16:52.012104+00:00",
@@ -8049,5 +8054,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-10-14T22:05:31.808871+00:00"
+ "updated": "2026-10-15T00:29:09.672752+00:00"
 }
