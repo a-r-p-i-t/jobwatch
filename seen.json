@@ -2522,6 +2522,7 @@
   "greenhouse:stripe:8203977": "2026-09-22T15:46:41.456034+00:00",
   "greenhouse:stripe:8204227": "2026-09-15T18:56:24.776768+00:00",
   "greenhouse:stripe:8204645": "2026-09-16T02:57:58.214717+00:00",
+  "greenhouse:stripe:8204652": "2026-10-16T22:26:21.786844+00:00",
   "greenhouse:stripe:8205278": "2026-09-15T23:55:35.320675+00:00",
   "greenhouse:stripe:8205280": "2026-09-15T21:54:32.550397+00:00",
   "greenhouse:stripe:8206729": "2026-10-08T17:08:31.006093+00:00",
@@ -4466,6 +4467,7 @@
   "workday:capitalone:/job/McLean-VA/Associate--Horizontal-Operations---Enterprise-Onboarding_R1000727-1": "2026-09-15T18:56:24.776768+00:00",
   "workday:capitalone:/job/McLean-VA/Associate--Program-Operations---S-G_R999132-2": "2026-08-25T20:41:45.774743+00:00",
   "workday:capitalone:/job/McLean-VA/Associate--Specialty-Underwriter---Portfolio-Manager---FIG_R1000021-1": "2026-09-09T20:03:09.440357+00:00",
+  "workday:capitalone:/job/McLean-VA/Associate--Supplier-Management_R1003681-1": "2026-10-16T22:26:21.786844+00:00",
   "workday:capitalone:/job/McLean-VA/Associate--Support-Operations_R249865": "2026-08-24T13:36:19.669644+00:00",
   "workday:capitalone:/job/McLean-VA/Associate-Activation-and-Awareness-Manager---Community-Impact---Investment_R1000805-1": "2026-09-16T17:44:24.806227+00:00",
   "workday:capitalone:/job/McLean-VA/Associate-Activation-and-Awareness-Sr-Manager---Community-Impact---Investment_R247659-1": "2026-08-22T23:01:44.903747+00:00",
@@ -4806,6 +4808,7 @@
   "workday:capitalone:/job/McLean-VA/Full-Stack-Engineer-4--People-Tech--GenAI---Agentic-Systems--LangChain--LangGraph-_R1001898": "2026-09-25T00:03:16.471256+00:00",
   "workday:capitalone:/job/McLean-VA/Full-Stack-Engineer-4--PySpark-_R1002589-2": "2026-10-01T20:34:52.800353+00:00",
   "workday:capitalone:/job/McLean-VA/Full-Stack-Engineer-4--Python--AWS---Cloud-Operations-Resilience-Engineering-_R1003342-1": "2026-10-08T22:03:15.163088+00:00",
+  "workday:capitalone:/job/McLean-VA/Full-Stack-Engineer-4--Python--AWS--AI---Cloud-Operations-Resilience-Engineering-_R1003966-1": "2026-10-16T22:26:21.786844+00:00",
   "workday:capitalone:/job/McLean-VA/Full-Stack-Engineer-4--Python--AWS--Network-Automation-_R1001554-1": "2026-09-23T05:09:57.412934+00:00",
   "workday:capitalone:/job/McLean-VA/Full-Stack-Engineer-4--Python--AWS-_R1003413": "2026-10-09T15:47:57.092466+00:00",
   "workday:capitalone:/job/McLean-VA/Full-Stack-Engineer-4--Python--GO--API--AWS---Cloud-Operations-Resilience-Engineering-_R1001893": "2026-09-24T18:32:08.394181+00:00",
@@ -4830,6 +4833,7 @@
   "workday:capitalone:/job/McLean-VA/Full-Stack-Engineer-4_R1002616-1": "2026-10-08T17:08:31.006093+00:00",
   "workday:capitalone:/job/McLean-VA/Full-Stack-Engineer-4_R1003785-1": "2026-10-15T21:44:24.864082+00:00",
   "workday:capitalone:/job/McLean-VA/Full-Stack-Engineer-5--ATM-_R1001142-1": "2026-09-21T19:21:31.441584+00:00",
+  "workday:capitalone:/job/McLean-VA/Full-Stack-Engineer-5--Python--AWS--AI---Cloud-Operations-Resilience-Engineering-_R1003969-1": "2026-10-16T22:26:21.786844+00:00",
   "workday:capitalone:/job/McLean-VA/Full-Stack-Engineer-5_R1001747-1": "2026-09-22T22:15:00.032519+00:00",
   "workday:capitalone:/job/McLean-VA/Full-Stack-Engineer-5_R1002063-1": "2026-09-24T21:45:59.292227+00:00",
   "workday:capitalone:/job/McLean-VA/Full-Time-Branch-Ambassador---Northern-Virginia--Arlington-Alexandria-Areas-_R1000886": "2026-09-18T17:26:32.407779+00:00",
@@ -6273,6 +6277,7 @@
   "workday:capitalone:/job/McLean-VA/Sr-Manager---S-G-Analyst-Development-Program-Lead_R244744-2": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Manager--Business-Development---Luxury-Travel--Hotel-Partnerships_R243358": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Manager--Chief-of-Staff---Community-Finance_R248068-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Sr-Manager--Compensation-Strategy---Analytics_R999558-1": "2026-10-16T22:26:21.786844+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Manager--Cyber-Security---Information-Security-Office-Consultant_R1002247-1": "2026-09-29T22:56:50.428542+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Manager--Cyber-Security_R1001754-2": "2026-09-23T14:41:45.926561+00:00",
   "workday:capitalone:/job/McLean-VA/Sr-Manager--Cyber-Security_R1001961-1": "2026-09-24T00:01:05.177660+00:00",
@@ -8216,5 +8221,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-10-16T19:52:21.338706+00:00"
+ "updated": "2026-10-16T22:26:21.788853+00:00"
 }
