@@ -1425,6 +1425,13 @@
   "amazon:10580498": "2026-10-15T21:44:24.864082+00:00",
   "amazon:10580822": "2026-10-15T21:44:24.864082+00:00",
   "amazon:10581066": "2026-10-16T02:48:21.081823+00:00",
+  "amazon:10581078": "2026-10-16T07:33:25.859521+00:00",
+  "amazon:10581082": "2026-10-16T07:33:25.859521+00:00",
+  "amazon:10581095": "2026-10-16T07:33:25.859521+00:00",
+  "amazon:10581105": "2026-10-16T07:33:25.859521+00:00",
+  "amazon:10581109": "2026-10-16T07:33:25.859521+00:00",
+  "amazon:10581119": "2026-10-16T07:33:25.859521+00:00",
+  "amazon:10581120": "2026-10-16T07:33:25.859521+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -1493,6 +1500,7 @@
   "greenhouse:razorpaysoftwareprivatelimited:4731693005": "2026-09-09T05:11:03.115761+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4733878005": "2026-09-15T10:19:01.038124+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4733888005": "2026-09-16T08:19:56.827770+00:00",
+  "greenhouse:razorpaysoftwareprivatelimited:4734473005": "2026-10-16T07:33:25.859521+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4734959005": "2026-10-05T06:46:48.695109+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4735389005": "2026-09-19T09:08:48.198561+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4736132005": "2026-09-21T14:04:08.616912+00:00",
@@ -1531,6 +1539,7 @@
   "greenhouse:razorpaysoftwareprivatelimited:4741230005": "2026-10-12T19:18:19.029146+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4741281005": "2026-10-12T19:18:19.029146+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4742859005": "2026-10-14T04:46:05.033209+00:00",
+  "greenhouse:razorpaysoftwareprivatelimited:4744129005": "2026-10-16T07:33:25.859521+00:00",
   "greenhouse:stripe:4921361": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:5416444": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:5423044": "2026-08-22T23:01:44.903747+00:00",
@@ -3751,6 +3760,7 @@
   "workday:adobe:/job/San-Jose/Sr-Manager--Machine-Learning-Engineering--Firefly-Services_R162512": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Sr-Manager--Strategy---Operations_R166259-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Sr-Manager--Transformation--Pricing---Business-Model-_R162007": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/San-Jose/Sr-Manager-Risk---Controls_R172265": "2026-10-16T07:33:25.859521+00:00",
   "workday:adobe:/job/San-Jose/Sr-Product-Manager--Partner-Success_R167593": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Sr-Product-Marketing-Manager_R165552": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/San-Jose/Sr-Program---Portfolio-Manager--IT-_R171323": "2026-09-08T09:09:59.453707+00:00",
@@ -8130,5 +8140,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-10-16T02:48:21.085041+00:00"
+ "updated": "2026-10-16T07:33:28.057099+00:00"
 }
