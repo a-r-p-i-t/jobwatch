@@ -1558,6 +1558,7 @@
   "greenhouse:razorpaysoftwareprivatelimited:4741230005": "2026-10-12T19:18:19.029146+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4741281005": "2026-10-12T19:18:19.029146+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4742859005": "2026-10-14T04:46:05.033209+00:00",
+  "greenhouse:razorpaysoftwareprivatelimited:4743544005": "2026-10-17T12:56:30.209110+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4744129005": "2026-10-16T07:33:25.859521+00:00",
   "greenhouse:stripe:4921361": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:stripe:5416444": "2026-08-22T23:01:44.903747+00:00",
@@ -7258,6 +7259,7 @@
   "workday:capitalone:/job/Plano-TX/Senior-Manager--Project-Management_R1000356-1": "2026-09-10T19:48:29.568704+00:00",
   "workday:capitalone:/job/Plano-TX/Senior-Manager--Project-Management_R1002093-1": "2026-09-28T21:32:19.059022+00:00",
   "workday:capitalone:/job/Plano-TX/Senior-Manager--Risk-Advisor_R999812-1": "2026-09-03T17:28:34.832945+00:00",
+  "workday:capitalone:/job/Plano-TX/Senior-Manager--Risk-Management---International-and-Access-Risk_R1003876-1": "2026-10-17T12:56:30.209110+00:00",
   "workday:capitalone:/job/Plano-TX/Senior-Manager--Software-Engineering--Full-Stack_R240831-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Plano-TX/Senior-Manager--Software-Engineering--Full-Stack_R249387-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/Plano-TX/Senior-Manager--Software-Engineering--Full-Stack_R999747-2": "2026-09-03T17:28:34.832945+00:00",
@@ -8221,5 +8223,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-10-17T09:08:01.275413+00:00"
+ "updated": "2026-10-17T12:56:30.212022+00:00"
 }
