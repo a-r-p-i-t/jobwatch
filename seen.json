@@ -1400,6 +1400,7 @@
   "amazon:10579597": "2026-10-15T09:49:22.423496+00:00",
   "amazon:10579607": "2026-10-15T09:49:22.423496+00:00",
   "amazon:10579608": "2026-10-15T09:49:22.423496+00:00",
+  "amazon:10579610": "2026-10-19T06:45:43.899708+00:00",
   "amazon:10579611": "2026-10-15T09:49:22.423496+00:00",
   "amazon:10579612": "2026-10-15T09:49:22.423496+00:00",
   "amazon:10579616": "2026-10-15T09:49:22.423496+00:00",
@@ -1455,6 +1456,16 @@
   "amazon:10582081": "2026-10-18T04:54:35.447481+00:00",
   "amazon:10582181": "2026-10-18T13:22:39.118996+00:00",
   "amazon:10582204": "2026-10-19T01:30:59.389827+00:00",
+  "amazon:10582261": "2026-10-19T06:45:43.899708+00:00",
+  "amazon:10582262": "2026-10-19T06:45:43.899708+00:00",
+  "amazon:10582263": "2026-10-19T06:45:43.899708+00:00",
+  "amazon:10582264": "2026-10-19T06:45:43.899708+00:00",
+  "amazon:10582265": "2026-10-19T06:45:43.899708+00:00",
+  "amazon:10582266": "2026-10-19T06:45:43.899708+00:00",
+  "amazon:10582267": "2026-10-19T06:45:43.899708+00:00",
+  "amazon:10582270": "2026-10-19T06:45:43.899708+00:00",
+  "amazon:10582280": "2026-10-19T06:45:43.899708+00:00",
+  "amazon:10582335": "2026-10-19T06:45:43.899708+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -5766,6 +5777,7 @@
   "workday:capitalone:/job/McLean-VA/Senior-Associate--Product-Manager--Global-Payment-Network_R246342": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Associate--Product-Manager--Global-Payment-Network_R248840-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Associate--Product-Manager--Small-Business-Bank-Fraud-Decisioning_R247523-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Senior-Associate--Product-Manager_R1003908-1": "2026-10-19T06:45:43.899708+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Associate--Product-Manager_R249657-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Associate--Product-Marketing-Strategy--New-To-Credit--Hybrid-_R245883-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Senior-Associate--Project-Management---US-Card-Authorizations_R245451-1": "2026-08-22T23:01:44.903747+00:00",
@@ -8229,5 +8241,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-10-19T01:31:00.942694+00:00"
+ "updated": "2026-10-19T06:45:45.580414+00:00"
 }
