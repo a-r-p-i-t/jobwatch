@@ -1525,6 +1525,8 @@
   "amazon:10584796": "2026-10-21T01:50:45.170300+00:00",
   "amazon:10584847": "2026-10-21T06:39:32.320047+00:00",
   "amazon:10584870": "2026-10-21T06:39:32.320047+00:00",
+  "amazon:10584954": "2026-10-21T12:24:37.283085+00:00",
+  "amazon:10584955": "2026-10-21T12:24:37.283085+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -2812,6 +2814,7 @@
   "greenhouse:stripe:8282390": "2026-10-14T22:05:31.806826+00:00",
   "greenhouse:stripe:8282721": "2026-10-16T19:52:21.336678+00:00",
   "greenhouse:stripe:8282859": "2026-10-15T14:28:28.755333+00:00",
+  "greenhouse:stripe:8284974": "2026-10-21T12:24:37.283085+00:00",
   "greenhouse:stripe:8286649": "2026-10-19T23:09:11.457634+00:00",
   "greenhouse:stripe:8286655": "2026-10-16T12:43:04.721021+00:00",
   "greenhouse:stripe:8286680": "2026-10-16T12:43:04.721021+00:00",
@@ -2991,6 +2994,7 @@
   "workday:adobe:/job/Bucharest/Platform-Engineer---Observability_R169504": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bucharest/Principal-AI-Product-Manager--Agentic-Governance_R172301": "2026-10-02T11:19:44.606902+00:00",
   "workday:adobe:/job/Bucharest/Principal-Engineer-Agentic-Builders-Experience-Team_R170509": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/Bucharest/Principal-Product-Manager---Agentic-Governance--Marketing---Advertising_R173022": "2026-10-21T12:24:37.283085+00:00",
   "workday:adobe:/job/Bucharest/Senior-AI-Engineer--Agentic-Governance_R172298": "2026-10-02T16:42:57.766589+00:00",
   "workday:adobe:/job/Bucharest/Senior-Backend-Engineer--Java--Scala--K8s---Evergreen-_R166302": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bucharest/Senior-Builder-RTCDP-Frontier-Pod_R167430": "2026-08-22T23:01:44.903747+00:00",
@@ -3010,6 +3014,7 @@
   "workday:adobe:/job/Bucharest/Software-Development-Engineer_R169563-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Bucharest/Software-Development-Engineer_R171482": "2026-08-28T17:30:25.105189+00:00",
   "workday:adobe:/job/Bucharest/Software-Engineer---Adobe-Builders-Experience-team_R170737-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/Bucharest/Software-Engineer---Adobe-Experience-Platform--RTCDP-_R171550": "2026-10-21T12:24:37.283085+00:00",
   "workday:adobe:/job/Bucharest/Software-Engineer---Big-Data--Compute-Data-Distiller---Adobe-Experience-Platform_R172780": "2026-10-15T14:28:28.755333+00:00",
   "workday:adobe:/job/Bucharest/Sr-Full-Stack-Engineer--Back-end---Agentic-Governance_R172297": "2026-10-02T11:19:44.606902+00:00",
   "workday:adobe:/job/Bucharest/Staff-Engineer--Agentic-Governance_R172299": "2026-10-02T11:19:44.606902+00:00",
@@ -4512,6 +4517,7 @@
   "workday:capitalone:/job/London-Eng/Personal-Assistant_R1000955": "2026-09-18T17:26:32.407779+00:00",
   "workday:capitalone:/job/London-Eng/Personal-Assistant_R248177": "2026-08-31T20:57:19.317617+00:00",
   "workday:capitalone:/job/London-Eng/Personal-Assistant_R248178-1": "2026-08-31T20:57:19.317617+00:00",
+  "workday:capitalone:/job/London-Eng/Senior-Auditor--Global-Payment-Network-_R248215": "2026-10-21T12:24:37.283085+00:00",
   "workday:capitalone:/job/London-Eng/Senior-Business-Analyst_R1000281": "2026-09-21T19:21:31.441584+00:00",
   "workday:capitalone:/job/London-Eng/Senior-Counsel---EMEA-Commercial-Contract-and-Product_R243849": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/London-Eng/Senior-Counsel---Privacy-and-Data-Protection--Senior-Manager-_R248956": "2026-08-22T23:01:44.903747+00:00",
@@ -8441,5 +8447,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-10-21T06:39:32.323344+00:00"
+ "updated": "2026-10-21T12:24:37.286433+00:00"
 }
