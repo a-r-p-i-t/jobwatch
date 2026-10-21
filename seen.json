@@ -1523,6 +1523,8 @@
   "amazon:10584602": "2026-10-20T20:41:12.788772+00:00",
   "amazon:10584606": "2026-10-20T20:41:12.788772+00:00",
   "amazon:10584796": "2026-10-21T01:50:45.170300+00:00",
+  "amazon:10584847": "2026-10-21T06:39:32.320047+00:00",
+  "amazon:10584870": "2026-10-21T06:39:32.320047+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4651045005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4661194005": "2026-08-22T23:01:44.903747+00:00",
   "greenhouse:razorpaysoftwareprivatelimited:4673867005": "2026-08-22T23:01:44.903747+00:00",
@@ -2822,6 +2824,7 @@
   "greenhouse:stripe:8300616": "2026-10-21T01:50:45.170300+00:00",
   "greenhouse:stripe:8301253": "2026-10-19T19:50:20.966166+00:00",
   "greenhouse:stripe:8301260": "2026-10-20T20:41:12.788772+00:00",
+  "greenhouse:stripe:8301264": "2026-10-21T06:39:32.320047+00:00",
   "greenhouse:stripe:8301379": "2026-10-20T23:27:28.626723+00:00",
   "greenhouse:stripe:8304836": "2026-10-21T01:50:45.170300+00:00",
   "greenhouse:stripe:8304841": "2026-10-21T01:50:45.170300+00:00",
@@ -4002,6 +4005,7 @@
   "workday:adobe:/job/Seoul/Sales-Operation-Analyst--Contract-_R169830": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Seoul/Senior-Solution-Account-Manager--Contractor-_R169877-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Singapore/Delivery-Manager--Professional-Services-Consulting_R170391": "2026-08-22T23:01:44.903747+00:00",
+  "workday:adobe:/job/Singapore/Enterprise-Architect_R173020": "2026-10-21T06:39:32.320047+00:00",
   "workday:adobe:/job/Singapore/Senior-Enterprise-Architect_R171142-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Singapore/Senior-Enterprise-Architect_R171143": "2026-08-22T23:01:44.903747+00:00",
   "workday:adobe:/job/Singapore/Territory-Account-Manager_R170142": "2026-08-22T23:01:44.903747+00:00",
@@ -4853,6 +4857,7 @@
   "workday:capitalone:/job/McLean-VA/Director--Tech-Recruiting_R1002336-1": "2026-09-29T13:53:34.094631+00:00",
   "workday:capitalone:/job/McLean-VA/Director--Tech-Risk---Analysis---Retail-Bank_R1002730-1": "2026-10-01T20:34:52.800353+00:00",
   "workday:capitalone:/job/McLean-VA/Director--Technical-Program-Management---Bank-Tech_R242344-1": "2026-08-22T23:01:44.903747+00:00",
+  "workday:capitalone:/job/McLean-VA/Director--Technical-Program-Management---Global-Payment-Network_R1004197-1": "2026-10-21T06:39:32.320047+00:00",
   "workday:capitalone:/job/McLean-VA/Director--Technical-Program-Management---Risk-Tech_R247881-1": "2026-08-22T23:01:44.903747+00:00",
   "workday:capitalone:/job/McLean-VA/Director--Technical-Program-Management--Connectivity-and-Cloud-Infrastructure-_R1004045-1": "2026-10-19T19:50:20.966166+00:00",
   "workday:capitalone:/job/McLean-VA/Director--Technical-Program-Management--EPTech-_R247449-1": "2026-08-22T23:01:44.903747+00:00",
@@ -8436,5 +8441,5 @@
   "workday:capitalone:/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment_R999158-1": "2026-08-25T23:02:56.031080+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-10-21T01:50:46.677302+00:00"
+ "updated": "2026-10-21T06:39:32.323344+00:00"
 }
