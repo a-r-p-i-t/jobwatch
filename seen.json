@@ -3,7 +3,6 @@
   "amazon:10512882": "2026-08-26T07:25:16.238811+00:00",
   "amazon:10513434": "2026-08-26T11:57:46.321874+00:00",
   "amazon:10513568": "2026-08-31T15:26:17.493332+00:00",
-  "amazon:10515087": "2026-08-25T23:34:56.570265+00:00",
   "amazon:10515179": "2026-08-26T04:21:30.847489+00:00",
   "amazon:10515191": "2026-08-26T05:05:04.062363+00:00",
   "amazon:10515226": "2026-08-26T06:21:00.935068+00:00",
@@ -1766,7 +1765,6 @@
   "greenhouse:stripe:8119498": "2026-09-09T13:59:03.272618+00:00",
   "greenhouse:stripe:8119697": "2026-10-22T02:58:05.674672+00:00",
   "greenhouse:stripe:8119967": "2026-10-22T02:58:05.674672+00:00",
-  "greenhouse:stripe:8119970": "2026-08-26T00:59:38.401165+00:00",
   "greenhouse:stripe:8120185": "2026-10-22T02:58:05.674672+00:00",
   "greenhouse:stripe:8120494": "2026-10-22T02:58:05.674672+00:00",
   "greenhouse:stripe:8120501": "2026-10-22T02:58:05.674672+00:00",
@@ -2607,7 +2605,6 @@
   "workday:adobe:/job/Remote-Ontario/Senior-Enterprise-Architect_R169773": "2026-09-18T09:44:12.117930+00:00",
   "workday:adobe:/job/Remote-Oregon/Principal-Business---Program-Operations--Firefly-Foundry_R168911-1": "2026-08-28T05:20:30.138909+00:00",
   "workday:adobe:/job/Remote-Texas/Software-Development-Engineer_R170794": "2026-08-27T01:03:51.193603+00:00",
-  "workday:adobe:/job/Remote-Virginia/Principal-Product-Marketing-Manager_R171343": "2026-08-25T23:34:56.570265+00:00",
   "workday:adobe:/job/Remote-Washington/Senior-Enterprise-Architect_R169410-1": "2026-10-22T02:58:05.674672+00:00",
   "workday:adobe:/job/Remote-Washington/Senior-Enterprise-Architect_R170829": "2026-09-01T14:59:05.453156+00:00",
   "workday:adobe:/job/Remote-Washington/Senior-Enterprise-Architect_R170830": "2026-08-26T18:58:04.335455+00:00",
@@ -5873,5 +5870,5 @@
   "workday:capitalone:/job/Wilmington-DE/Principal-Associate--SEO-GEO-Marketing-Strategist---Retail-Bank_R1003764": "2026-10-23T18:38:08.636728+00:00",
   "workday:capitalone:/job/Wilmington-DE/Senior-Lead-Data-Engineer_R249347-2": "2026-09-11T23:20:31.858960+00:00"
  },
- "updated": "2026-10-24T23:31:40.219030+00:00"
+ "updated": "2026-10-25T01:34:50.286270+00:00"
 }
