@@ -1,16 +1,5 @@
 {
  "seen": {
-  "amazon:10555722": "2026-09-22T06:18:55.437658+00:00",
-  "amazon:10555723": "2026-09-22T06:18:55.437658+00:00",
-  "amazon:10555732": "2026-09-22T06:18:55.437658+00:00",
-  "amazon:10555745": "2026-09-22T06:18:55.437658+00:00",
-  "amazon:10555747": "2026-09-22T06:18:55.437658+00:00",
-  "amazon:10555748": "2026-09-22T06:18:55.437658+00:00",
-  "amazon:10555749": "2026-09-22T06:18:55.437658+00:00",
-  "amazon:10555750": "2026-09-22T06:18:55.437658+00:00",
-  "amazon:10555771": "2026-09-22T06:18:55.437658+00:00",
-  "amazon:10555782": "2026-09-22T06:18:55.437658+00:00",
-  "amazon:10555783": "2026-09-22T06:18:55.437658+00:00",
   "amazon:10555815": "2026-09-22T11:50:36.625357+00:00",
   "amazon:10555817": "2026-09-22T11:50:36.625357+00:00",
   "amazon:10555835": "2026-09-22T11:50:36.625357+00:00",
@@ -1776,7 +1765,6 @@
   "greenhouse:stripe:8186442": "2026-09-24T21:45:59.292227+00:00",
   "greenhouse:stripe:8186445": "2026-09-23T05:09:57.412934+00:00",
   "greenhouse:stripe:8186541": "2026-11-09T02:52:20.308192+00:00",
-  "greenhouse:stripe:8187572": "2026-09-22T06:18:55.437658+00:00",
   "greenhouse:stripe:8187574": "2026-11-10T18:49:56.807349+00:00",
   "greenhouse:stripe:8187580": "2026-11-10T11:39:33.656271+00:00",
   "greenhouse:stripe:8188088": "2026-11-20T22:44:47.436208+00:00",
@@ -2389,7 +2377,6 @@
   "workday:adobe:/job/Bangalore/Senior-Technical-Consultant--Workfront_R167315": "2026-10-22T02:58:05.674672+00:00",
   "workday:adobe:/job/Bangalore/Senior-Technical-Consultant_R171578": "2026-11-01T19:02:28.293659+00:00",
   "workday:adobe:/job/Bangalore/Software-Development-Engineer-3_R172267": "2026-09-30T07:32:13.260506+00:00",
-  "workday:adobe:/job/Bangalore/Software-Quality-Engineer-5_R171821": "2026-09-22T06:18:55.437658+00:00",
   "workday:adobe:/job/Bangalore/Solutions-Consultant-3_R168355-1": "2026-10-22T02:58:05.674672+00:00",
   "workday:adobe:/job/Bangalore/Sr-Mgr--Software-Development_R172115-1": "2026-10-11T15:31:21.328682+00:00",
   "workday:adobe:/job/Bangalore/Technical-Architect--Agentic-AI-_R169919": "2026-10-22T02:58:05.674672+00:00",
@@ -2522,7 +2509,6 @@
   "workday:adobe:/job/Noida/Sr-Forward-Deployed-Engineer_R172762": "2026-10-13T15:51:00.935944+00:00",
   "workday:adobe:/job/Noida/Sr-Manager--Integrated-Security-Operations_R171954": "2026-11-20T00:40:43.611079+00:00",
   "workday:adobe:/job/Noida/XMLNAME-2026-University-Graduate---Member-of-Technical-Staff_R171745": "2026-10-16T12:43:04.721021+00:00",
-  "workday:adobe:/job/Noida/XMLNAME-2026-University-Graduate---Technical-Product-Consultant_R159821": "2026-09-22T06:18:55.437658+00:00",
   "workday:adobe:/job/Ottawa/Technology-Consultant_R168536-1": "2026-10-22T02:58:05.674672+00:00",
   "workday:adobe:/job/Paris/Director--Head-of-Legal--Western-Europe---Latin-America_R168113": "2026-11-09T21:08:25.992892+00:00",
   "workday:adobe:/job/Paris/Enterprise-Account-Executive---Creativity---Productivity_R170572": "2026-10-22T02:58:05.674672+00:00",
@@ -3517,6 +3503,7 @@
   "workday:capitalone:/job/McLean-VA/Full-stack-Engineer-4--Manager--IC-_R1005359-1": "2026-11-09T21:08:25.992892+00:00",
   "workday:capitalone:/job/McLean-VA/Full-stack-Engineer-4--Manager-IC---Go--Python--Java--AWS-_R1003629-1": "2026-10-19T19:50:20.966166+00:00",
   "workday:capitalone:/job/McLean-VA/Full-stack-Engineer-4--Manager-IC-_R1001253-1": "2026-09-28T15:55:15.687105+00:00",
+  "workday:capitalone:/job/McLean-VA/Full-stack-Engineer-4--Manager-IC-_R1001254": "2026-11-21T11:43:27.214253+00:00",
   "workday:capitalone:/job/McLean-VA/Full-stack-Engineer-4--Manager-IC-_R1001255-1": "2026-09-28T15:55:15.687105+00:00",
   "workday:capitalone:/job/McLean-VA/Full-stack-Engineer-4--Manager-IC-_R1001256-1": "2026-09-28T15:55:15.687105+00:00",
   "workday:capitalone:/job/McLean-VA/Full-stack-Engineer-4--Manager-IC-_R1001257-2": "2026-09-24T14:21:50.911736+00:00",
@@ -4793,6 +4780,7 @@
   "workday:capitalone:/job/New-York-NY/Machine-Learning-Engineer-4---Manager-IC_R1005241-1": "2026-11-05T17:20:27.629129+00:00",
   "workday:capitalone:/job/New-York-NY/Machine-Learning-Engineer-4--Manager--IC-_R1002986-1": "2026-10-06T20:45:25.173031+00:00",
   "workday:capitalone:/job/New-York-NY/Machine-Learning-Engineer-4--Manager--IC-_R1003128": "2026-10-08T17:08:31.006093+00:00",
+  "workday:capitalone:/job/New-York-NY/Machine-Learning-Engineer-4--Python--AWS--SQL--GenAI---Enterprise-Platforms-Technology-_R1001517-1": "2026-11-21T11:43:27.214253+00:00",
   "workday:capitalone:/job/New-York-NY/Machine-Learning-Engineer-4--Python--AWS--SQL--GenAI---Enterprise-Platforms-Technology-_R1002037-1": "2026-09-25T22:16:15.521356+00:00",
   "workday:capitalone:/job/New-York-NY/Machine-Learning-Engineer-4_R1001335": "2026-09-22T15:46:41.456034+00:00",
   "workday:capitalone:/job/New-York-NY/Machine-Learning-Engineer-4_R1003405-1": "2026-10-20T23:27:28.626723+00:00",
@@ -5896,5 +5884,5 @@
   "workday:capitalone:/job/Wilmington-DE/Principal-Associate--SEO-GEO-Marketing-Strategist---Retail-Bank_R1003764": "2026-10-23T18:38:08.636728+00:00",
   "workday:capitalone:/job/Wilmington-DE/Site-Reliability-Engineer-4_R1006179-1": "2026-11-20T16:25:23.941866+00:00"
  },
- "updated": "2026-11-21T03:32:03.738229+00:00"
+ "updated": "2026-11-21T11:43:27.216220+00:00"
 }
